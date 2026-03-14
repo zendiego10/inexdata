@@ -1,0 +1,511 @@
+/* ==========================================================
+INEXDATA - ESTILOS PRINCIPALES
+Diseño base del proyecto:
+- layout general
+- tipografía
+- tarjetas
+- navbar
+- botones
+- tablas
+========================================================== */
+
+
+/* ==========================================================
+VARIABLES DE COLOR Y CONFIGURACIÓN GLOBAL
+========================================================== */
+
+:root {
+
+    /* Color principal del proyecto */
+    --primary-color: #3695E0;
+
+    /* Colores secundarios */
+    --primary-dark: #2d7cc0;
+    --background-light: #f5f7fb;
+
+    /* Colores de texto */
+    --text-main: #1c1c1c;
+    --text-muted: #6b7280;
+
+    /* Colores base */
+    --white: #ffffff;
+
+    /* Sombras suaves */
+    --shadow-sm: 0 2px 6px rgba(0,0,0,0.06);
+    --shadow-md: 0 8px 20px rgba(0,0,0,0.08);
+
+    /* Bordes */
+    --radius: 10px;
+
+}
+
+
+
+/* ==========================================================
+RESET BÁSICO
+========================================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background: var(--white);
+    color: var(--text-main);
+    line-height: 1.6;
+}
+
+
+
+/* ==========================================================
+CONTENEDOR CENTRAL
+========================================================== */
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+
+/* ==========================================================
+SECCIONES GENERALES
+========================================================== */
+
+.section {
+    padding: 80px 0;
+}
+
+.section-alt {
+    background: var(--background-light);
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.section-tag {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.section-header h2 {
+    font-size: 2rem;
+    margin: 10px 0;
+}
+
+.section-header p {
+    color: var(--text-muted);
+}
+
+
+
+/* ==========================================================
+NAVBAR
+========================================================== */
+
+.header {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 1000;
+    box-shadow: var(--shadow-sm);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+
+.logo {
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--text-main);
+    font-weight: 500;
+}
+
+
+
+/* ==========================================================
+BOTONES
+========================================================== */
+
+.btn {
+    padding: 10px 20px;
+    border-radius: var(--radius);
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+}
+
+.btn-primary {
+    background: var(--primary-color);
+    color: white;
+}
+
+
+
+/* ==========================================================
+INPUTS Y SELECT
+========================================================== */
+
+.input-select {
+    padding: 10px;
+    border-radius: var(--radius);
+    border: 1px solid #ddd;
+    font-family: inherit;
+}
+
+
+
+/* ==========================================================
+HERO
+========================================================== */
+
+.hero {
+    padding: 100px 0;
+}
+
+.hero-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: center;
+}
+
+.hero-text h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero-description {
+    color: var(--text-muted);
+    margin-bottom: 25px;
+}
+
+.hero-search {
+    display: flex;
+    gap: 10px;
+}
+
+.hero-card {
+    background: var(--white);
+    padding: 30px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-md);
+}
+
+
+
+/* ==========================================================
+TARJETAS GENERALES
+========================================================== */
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+}
+
+
+
+/* ==========================================================
+GRID DE TARJETAS INFORMATIVAS
+========================================================== */
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+
+.card-icon {
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+
+
+/* ==========================================================
+EXPLORADOR
+========================================================== */
+
+.explorer-controls {
+    margin-bottom: 30px;
+}
+
+.control-group {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+/* ==========================================================
+RESUMEN DEL PAÍS
+========================================================== */
+
+.country-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.country-main {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.country-flag {
+    font-size: 2.5rem;
+}
+
+.country-stats {
+    display: flex;
+    gap: 20px;
+}
+
+.stat-box {
+    background: var(--background-light);
+    padding: 15px;
+    border-radius: var(--radius);
+    text-align: center;
+}
+
+.stat-label {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+.flag-img {
+    width: 50px;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: var(--shadow-sm);
+    display: block;
+}
+
+.country-flag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 60px;
+}
+
+.summary-table {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 10px;
+}
+
+.summary-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--background-light);
+    padding: 12px 14px;
+    border-radius: var(--radius);
+}
+
+/* ==========================================================
+GRÁFICOS
+========================================================== */
+
+.charts-grid {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 25px;
+    margin-bottom: 40px;
+}
+
+.chart-card canvas {
+    width: 100% !important;
+    height: 250px !important;
+    margin-top: 15px;
+}
+
+.chart-card {
+    min-height: 360px;
+}
+
+/* ==========================================================
+TABLA HISTÓRICA
+========================================================== */
+
+.table-wrapper {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background: var(--primary-color);
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+
+/* ==========================================================
+CONCLUSIONES
+========================================================== */
+
+.conclusions-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.conclusion-item {
+    background: var(--background-light);
+    padding: 14px 16px;
+    border-radius: var(--radius);
+    border-left: 4px solid var(--primary-color);
+    line-height: 1.5;
+}
+
+
+
+/* ==========================================================
+COMPARACIÓN DE PAÍSES
+========================================================== */
+
+.comparison-selectors {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.comparison-vs {
+    font-weight: bold;
+}
+
+.comparison-cards {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.mini-country-card {
+    text-align: center;
+}
+
+.mini-country-stats {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    color: var(--text-muted);
+}
+
+.mini-country-flag {
+    font-size: 2rem;
+}
+
+.comparison-chart-card {
+    min-height: 400px;
+    margin-top: 30px;
+}
+
+.comparison-chart-card canvas {
+    margin-top: 15px;
+    width: 100% !important;
+    height: 280px !important;
+}
+
+
+/* ==========================================================
+ENCUESTA
+========================================================== */
+
+.survey-form {
+    max-width: 600px;
+    margin: auto;
+}
+
+.question-block {
+    margin-bottom: 20px;
+}
+
+.scale-options {
+    display: flex;
+    gap: 10px;
+}
+
+.survey-result {
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+
+/* ==========================================================
+FOOTER
+========================================================== */
+
+.footer {
+    padding: 40px 0;
+    text-align: center;
+    background: var(--background-light);
+}
+
+
+
+/* ==========================================================
+RESPONSIVE
+========================================================== */
+
+@media (max-width: 900px) {
+
+    .hero-content {
+        grid-template-columns: 1fr;
+    }
+
+    .info-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .charts-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .comparison-cards {
+        grid-template-columns: 1fr;
+    }
+
+}

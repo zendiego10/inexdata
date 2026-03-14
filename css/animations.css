@@ -1,0 +1,168 @@
+/* ==========================================================
+INEXDATA - ANIMACIONES Y MICROINTERACCIONES
+========================================================== */
+
+
+/* ==========================================================
+TRANSICIONES GENERALES
+Aplica animaciones suaves a elementos interactivos
+========================================================== */
+
+a,
+button,
+.card,
+.stat-box,
+input,
+select {
+    transition: all 0.25s ease;
+}
+
+
+
+/* ==========================================================
+NAVBAR - HOVER ANIMADO
+========================================================== */
+
+.nav-links a {
+    position: relative;
+}
+
+/* Línea animada debajo del enlace */
+
+.nav-links a::after {
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    left: 0;
+    bottom: -5px;
+    background: var(--primary-color);
+    transition: width 0.3s ease;
+}
+
+.nav-links a:hover::after {
+    width: 100%;
+}
+
+.nav-links a:hover {
+    color: var(--primary-color);
+}
+
+
+
+/* ==========================================================
+BOTONES
+========================================================== */
+
+.btn-primary:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+
+
+/* ==========================================================
+INPUTS Y SELECT
+========================================================== */
+
+.input-select:hover {
+    border-color: var(--primary-color);
+}
+
+.input-select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 2px rgba(54,149,224,0.2);
+}
+
+
+
+/* ==========================================================
+TARJETAS
+========================================================== */
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+}
+
+
+
+/* ==========================================================
+TARJETAS DE INFORMACIÓN
+========================================================== */
+
+.info-card:hover .card-icon {
+    transform: scale(1.2);
+}
+
+
+
+/* ==========================================================
+TABLA
+========================================================== */
+
+tbody tr:hover {
+    background: var(--background-light);
+}
+
+
+
+/* ==========================================================
+ESTADÍSTICAS DEL PAÍS
+========================================================== */
+
+.stat-box:hover {
+    transform: scale(1.05);
+}
+
+
+
+/* ==========================================================
+CONCLUSIONES
+========================================================== */
+
+.conclusion-item:hover {
+    transform: translateX(5px);
+}
+
+
+
+/* ==========================================================
+COMPARACIÓN DE PAÍSES
+========================================================== */
+
+.mini-country-card:hover {
+    transform: translateY(-5px);
+}
+
+
+
+/* ==========================================================
+BOTÓN ENCUESTA
+========================================================== */
+
+#calculate-survey:hover {
+    transform: scale(1.05);
+}
+
+
+
+/* ==========================================================
+HERO CARD
+========================================================== */
+
+.hero-card:hover {
+    transform: translateY(-6px);
+}
+
+
+
+/* ==========================================================
+SCROLL SUAVE GLOBAL
+========================================================== */
+
+html {
+    scroll-behavior: smooth;
+}

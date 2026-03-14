@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- ===================================================== -->
+    <!-- Configuración básica del documento -->
+    <!-- ===================================================== -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INEXDATA</title>
+
+    <!-- ===================================================== -->
+    <!-- Fuente Inter desde Google Fonts -->
+    <!-- ===================================================== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- ===================================================== -->
+    <!-- Librería de iconos Font Awesome -->
+    <!-- ===================================================== -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <!-- ===================================================== -->
+    <!-- Librería AOS para animaciones al hacer scroll -->
+    <!-- ===================================================== -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+
+    <!-- ===================================================== -->
+    <!-- Hojas de estilo propias del proyecto -->
+    <!-- ===================================================== -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+
+    <!-- ===================================================== -->
+    <!-- HEADER / NAVBAR PRINCIPAL -->
+    <!-- Barra de navegación fija con accesos a las secciones -->
+    <!-- ===================================================== -->
+    <header class="header">
+        <nav class="navbar container">
+            <a href="#inicio" class="logo">INEXDATA</a>
+
+            <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menú">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#innovacion">Innovación</a></li>
+                <li><a href="#explorar">Explorar</a></li>
+                <li><a href="#comparacion">Comparar</a></li>
+                <li><a href="#encuesta">Encuesta</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- ===================================================== -->
+    <!-- SECCIÓN HERO / INICIO -->
+    <!-- Presentación principal del proyecto -->
+    <!-- ===================================================== -->
+    <section id="inicio" class="hero section">
+        <div class="container hero-content">
+            <div class="hero-text" data-aos="fade-up">
+                <span class="hero-badge">
+                    <i class="fa-solid fa-chart-line"></i>
+                    Índice Global de Innovación 2011 - 2024
+                </span>
+
+                <h1>INEXDATA</h1>
+                <p class="hero-description">
+                    Explora el desempeño histórico de los países en el Índice Global de Innovación,
+                    visualiza sus datos, compáralos y obtén conclusiones automáticas.
+                </p>
+
+                <div class="hero-search">
+                    <label for="country-select-hero" class="sr-only">Selecciona un país</label>
+                    <select id="country-select-hero" class="input-select">
+                        <option value="COL">Colombia</option>
+                    </select>
+
+                    <a href="#explorar" class="btn btn-primary">
+                        Explorar datos
+                    </a>
+                </div>
+            </div>
+
+            <div class="hero-card" data-aos="fade-left" data-aos-delay="150">
+                <div class="hero-card-content">
+                    <i class="fa-solid fa-globe"></i>
+                    <h3>Análisis interactivo</h3>
+                    <p>Consulta países, revisa su evolución anual y compara resultados de forma visual.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===================================================== -->
+    <!-- SECCIÓN INNOVACIÓN -->
+    <!-- Contenido explicativo e informativo del tema -->
+    <!-- ===================================================== -->
+    <section id="innovacion" class="section">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <span class="section-tag">Contexto</span>
+                <h2>Innovación y análisis de datos</h2>
+                <p>
+                    Esta sección presenta conceptos básicos sobre innovación, el Índice Global de Innovación
+                    y su relevancia para Colombia.
+                </p>
+            </div>
+
+            <div class="cards-grid info-grid">
+                <article class="card info-card" data-aos="fade-up" data-aos-delay="0">
+                    <div class="card-icon">
+                        <i class="fa-solid fa-lightbulb"></i>
+                    </div>
+                    <h3>¿Qué es la innovación?</h3>
+                    <p>
+                        La innovación consiste en crear o mejorar productos, procesos, servicios o ideas
+                        que aporten valor y solucionen necesidades de una forma diferente.
+                    </p>
+                </article>
+
+                <article class="card info-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="card-icon">
+                        <i class="fa-solid fa-ranking-star"></i>
+                    </div>
+                    <h3>¿Qué mide el GII?</h3>
+                    <p>
+                        El Global Innovation Index mide el desempeño innovador de los países a través
+                        de indicadores relacionados con conocimiento, tecnología, instituciones y resultados.
+                    </p>
+                </article>
+
+                <article class="card info-card" data-aos="fade-up" data-aos-delay="200">
+                    <div class="card-icon">
+                        <i class="fa-solid fa-flag"></i>
+                    </div>
+                    <h3>Colombia y la innovación</h3>
+                    <p>
+                        Analizar la evolución de Colombia permite comprender su posición frente a otros países
+                        y observar cambios en su desempeño a lo largo del tiempo.
+                    </p>
+                </article>
+            </div>
+
+            <div class="references card" data-aos="fade-up" data-aos-delay="250">
+                <h3>Referencias</h3>
+                <ul>
+                    <li><a href="https://www.wipo.int/" target="_blank" rel="noopener noreferrer">WIPO</a></li>
+                    <li><a href="https://www.globalinnovationindex.org/" target="_blank" rel="noopener noreferrer">Global Innovation Index</a></li>
+                    <li><a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer">Kaggle</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===================================================== -->
+    <!-- SECCIÓN EXPLORADOR DE PAÍS -->
+    <!-- Bloque principal de consulta individual -->
+    <!-- ===================================================== -->
+    <section id="explorar" class="section section-alt">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <span class="section-tag">Explorador</span>
+                <h2>Consulta por país</h2>
+                <p>
+                    Selecciona un país para visualizar su información general, sus gráficos automáticos
+                    y sus conclusiones.
+                </p>
+            </div>
+
+            <!-- ============================================= -->
+            <!-- Selector principal del país a consultar -->
+            <!-- ============================================= -->
+            <div class="explorer-controls card" data-aos="fade-up" data-aos-delay="100">
+                <div class="control-group">
+                    <label for="country-select-main">Selecciona un país</label>
+                    <select id="country-select-main" class="input-select">
+                        <option value="COL">Colombia</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- ============================================= -->
+            <!-- MÓDULO 1: RESUMEN GENERAL DEL PAÍS -->
+            <!-- Aquí se mostrará bandera, nombre, continente,
+                 índice actual, ranking actual y año actual -->
+            <!-- ============================================= -->
+            <div class="country-summary card" id="country-summary" data-aos="fade-up" data-aos-delay="150">
+                <div class="country-main">
+                    <div class="country-flag" id="country-flag">🇨🇴</div>
+                    <div class="country-text">
+                        <h3 id="country-name">Colombia</h3>
+                        <p id="country-continent">América del Sur</p>
+                    </div>
+                </div>
+
+                <div class="country-stats">
+                    <div class="stat-box">
+                        <span class="stat-label">Índice actual</span>
+                        <strong id="current-score">--</strong>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-label">Ranking actual</span>
+                        <strong id="current-rank">--</strong>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-label">Año actual</span>
+                        <strong id="current-year">--</strong>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ============================================= -->
+            <!-- MÓDULO 2: GRÁFICOS AUTOMÁTICOS -->
+            <!-- Tarjetas para gráficas y tabla resumen -->
+            <!-- ============================================= -->
+            <div class="charts-grid">
+                <article class="card chart-card" data-aos="fade-up" data-aos-delay="0">
+                    <div class="card-header">
+                        <h3>Índice de innovación por año</h3>
+                    </div>
+                    <canvas id="scoreChart"></canvas>
+                </article>
+
+                <article class="card chart-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="card-header">
+                        <h3>Ranking por año</h3>
+                    </div>
+                    <canvas id="rankChart"></canvas>
+                </article>
+
+                <article class="card chart-card" data-aos="fade-up" data-aos-delay="200">
+                    <div class="card-header">
+                        <h3>Comparación entre países</h3>
+                    </div>
+                    <canvas id="compareChart"></canvas>
+                </article>
+
+                <article class="card chart-card" data-aos="fade-up" data-aos-delay="300">
+                    <div class="card-header">
+                        <h3>Resumen del desempeño</h3>
+                    </div>
+
+                    <div class="summary-table" id="summary-table">
+                        <div class="summary-row">
+                            <span>Mejor año</span>
+                            <strong id="best-year">--</strong>
+                        </div>
+                        <div class="summary-row">
+                            <span>Peor año</span>
+                            <strong id="worst-year">--</strong>
+                        </div>
+                        <div class="summary-row">
+                            <span>Promedio del índice</span>
+                            <strong id="average-score">--</strong>
+                        </div>
+                        <div class="summary-row">
+                            <span>Variación total</span>
+                            <strong id="total-variation">--</strong>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+            <!-- ============================================= -->
+            <!-- Tabla histórica por años -->
+            <!-- Esta tabla mostrará el histórico del país -->
+            <!-- ============================================= -->
+            <div class="card data-table-card" data-aos="fade-up" data-aos-delay="150">
+                <div class="card-header">
+                    <h3>Tabla histórica</h3>
+                </div>
+
+                <div class="table-wrapper">
+                    <table id="country-data-table">
+                        <thead>
+                            <tr>
+                                <th>Año</th>
+                                <th>Índice</th>
+                                <th>Ranking</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Aquí JavaScript insertará los datos -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- ============================================= -->
+            <!-- MÓDULO 3: CONCLUSIONES AUTOMÁTICAS -->
+            <!-- Aquí se mostrarán 5 conclusiones generadas
+                 con JavaScript según el país seleccionado -->
+            <!-- ============================================= -->
+            <div class="card conclusions-card" data-aos="fade-up" data-aos-delay="200">
+                <div class="card-header">
+                    <h3>Conclusiones automáticas</h3>
+                </div>
+
+                <div class="conclusions-list" id="conclusions-list">
+                    <div class="conclusion-item">1. Cargando conclusión...</div>
+                    <div class="conclusion-item">2. Cargando conclusión...</div>
+                    <div class="conclusion-item">3. Cargando conclusión...</div>
+                    <div class="conclusion-item">4. Cargando conclusión...</div>
+                    <div class="conclusion-item">5. Cargando conclusión...</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===================================================== -->
+    <!-- SECCIÓN DE COMPARACIÓN ENTRE DOS PAÍSES -->
+    <!-- Permite comparar cualquier país con cualquier otro -->
+    <!-- Colombia irá por defecto en el primer selector -->
+    <!-- ===================================================== -->
+    <section id="comparacion" class="section">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <span class="section-tag">Comparación</span>
+                <h2>Comparar países</h2>
+                <p>
+                    Compara dos países y observa sus diferencias en índice y ranking de innovación.
+                </p>
+            </div>
+
+            <div class="comparison-controls card" data-aos="fade-up" data-aos-delay="100">
+                <div class="comparison-selectors">
+                    <div class="control-group">
+                        <label for="compare-country-a">País A</label>
+                        <select id="compare-country-a" class="input-select">
+                            <option value="COL">Colombia</option>
+                        </select>
+                    </div>
+
+                    <div class="comparison-vs">
+                        <span>VS</span>
+                    </div>
+
+                    <div class="control-group">
+                        <label for="compare-country-b">País B</label>
+                        <select id="compare-country-b" class="input-select">
+                            <option value="ARG">Argentina</option>
+                        </select>
+                    </div>
+                </div>
+
+                <button id="compare-btn" class="btn btn-primary">
+                    Comparar ahora
+                </button>
+            </div>
+
+            <div class="comparison-cards">
+                <article class="card mini-country-card" data-aos="fade-up" data-aos-delay="150">
+                    <div class="mini-country-flag" id="compare-flag-a">🇨🇴</div>
+                    <h3 id="compare-name-a">Colombia</h3>
+                    <p id="compare-continent-a">América del Sur</p>
+                    <div class="mini-country-stats">
+                        <span>Índice: <strong id="compare-score-a">--</strong></span>
+                        <span>Ranking: <strong id="compare-rank-a">--</strong></span>
+                    </div>
+                </article>
+
+                <article class="card mini-country-card" data-aos="fade-up" data-aos-delay="250">
+                    <div class="mini-country-flag" id="compare-flag-b">🇦🇷</div>
+                    <h3 id="compare-name-b">Argentina</h3>
+                    <p id="compare-continent-b">América del Sur</p>
+                    <div class="mini-country-stats">
+                        <span>Índice: <strong id="compare-score-b">--</strong></span>
+                        <span>Ranking: <strong id="compare-rank-b">--</strong></span>
+                    </div>
+                </article>
+            </div>
+
+            <div class="card comparison-chart-card" data-aos="fade-up" data-aos-delay="300">
+                <div class="card-header">
+                    <h3>Comparación visual entre países</h3>
+                </div>
+                <canvas id="globalCompareChart"></canvas>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===================================================== -->
+    <!-- SECCIÓN ENCUESTA -->
+    <!-- Evaluación simple del perfil innovador del usuario -->
+    <!-- ===================================================== -->
+    <section id="encuesta" class="section section-alt">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <span class="section-tag">Encuesta</span>
+                <h2>Perfil innovador</h2>
+                <p>
+                    Responde las siguientes preguntas y descubre tu nivel de afinidad con la innovación.
+                </p>
+            </div>
+
+            <form class="survey-form card" id="survey-form" data-aos="fade-up" data-aos-delay="100">
+                <!-- ========================================= -->
+                <!-- Pregunta 1 -->
+                <!-- ========================================= -->
+                <div class="question-block">
+                    <p>1. ¿Te gusta proponer nuevas ideas para mejorar algo?</p>
+                    <div class="scale-options">
+                        <label><input type="radio" name="q1" value="1"> 1</label>
+                        <label><input type="radio" name="q1" value="2"> 2</label>
+                        <label><input type="radio" name="q1" value="3"> 3</label>
+                        <label><input type="radio" name="q1" value="4"> 4</label>
+                        <label><input type="radio" name="q1" value="5"> 5</label>
+                    </div>
+                </div>
+
+                <!-- ========================================= -->
+                <!-- Pregunta 2 -->
+                <!-- ========================================= -->
+                <div class="question-block">
+                    <p>2. ¿Buscas soluciones creativas cuando aparece un problema?</p>
+                    <div class="scale-options">
+                        <label><input type="radio" name="q2" value="1"> 1</label>
+                        <label><input type="radio" name="q2" value="2"> 2</label>
+                        <label><input type="radio" name="q2" value="3"> 3</label>
+                        <label><input type="radio" name="q2" value="4"> 4</label>
+                        <label><input type="radio" name="q2" value="5"> 5</label>
+                    </div>
+                </div>
+
+                <!-- ========================================= -->
+                <!-- Pregunta 3 -->
+                <!-- ========================================= -->
+                <div class="question-block">
+                    <p>3. ¿Te adaptas fácilmente a cambios o nuevas formas de trabajar?</p>
+                    <div class="scale-options">
+                        <label><input type="radio" name="q3" value="1"> 1</label>
+                        <label><input type="radio" name="q3" value="2"> 2</label>
+                        <label><input type="radio" name="q3" value="3"> 3</label>
+                        <label><input type="radio" name="q3" value="4"> 4</label>
+                        <label><input type="radio" name="q3" value="5"> 5</label>
+                    </div>
+                </div>
+
+                <!-- ========================================= -->
+                <!-- Pregunta 4 -->
+                <!-- ========================================= -->
+                <div class="question-block">
+                    <p>4. ¿Te interesa desarrollar proyectos propios o emprender?</p>
+                    <div class="scale-options">
+                        <label><input type="radio" name="q4" value="1"> 1</label>
+                        <label><input type="radio" name="q4" value="2"> 2</label>
+                        <label><input type="radio" name="q4" value="3"> 3</label>
+                        <label><input type="radio" name="q4" value="4"> 4</label>
+                        <label><input type="radio" name="q4" value="5"> 5</label>
+                    </div>
+                </div>
+
+                <!-- ========================================= -->
+                <!-- Pregunta 5 -->
+                <!-- ========================================= -->
+                <div class="question-block">
+                    <p>5. ¿Disfrutas analizar y resolver problemas complejos?</p>
+                    <div class="scale-options">
+                        <label><input type="radio" name="q5" value="1"> 1</label>
+                        <label><input type="radio" name="q5" value="2"> 2</label>
+                        <label><input type="radio" name="q5" value="3"> 3</label>
+                        <label><input type="radio" name="q5" value="4"> 4</label>
+                        <label><input type="radio" name="q5" value="5"> 5</label>
+                    </div>
+                </div>
+
+                <button type="button" class="btn btn-primary" id="calculate-survey">
+                    Calcular resultado
+                </button>
+            </form>
+
+            <div class="card survey-result" id="survey-result" data-aos="fade-up" data-aos-delay="150">
+                <h3>Resultado</h3>
+                <p id="survey-result-text">Aún no has calculado tu perfil innovador.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===================================================== -->
+    <!-- FOOTER -->
+    <!-- Información final del proyecto -->
+    <!-- ===================================================== -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <h3>INEXDATA</h3>
+            <p>Proyecto académico sobre innovación, visualización y análisis de datos.</p>
+        </div>
+    </footer>
+
+    <!-- ===================================================== -->
+    <!-- Librería Chart.js para gráficas -->
+    <!-- ===================================================== -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- ===================================================== -->
+    <!-- Librería AOS para animaciones -->
+    <!-- ===================================================== -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <!-- ===================================================== -->
+    <!-- Archivos JavaScript del proyecto -->
+    <!-- ===================================================== -->
+    <script src="js/dataLoader.js"></script>
+    <script src="js/countryCard.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/compare.js"></script>
+    <script src="js/conclusions.js"></script>
+    <script src="js/survey.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

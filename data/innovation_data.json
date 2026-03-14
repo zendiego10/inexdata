@@ -1,0 +1,9610 @@
+{
+    "AGO": [
+        {
+            "year": 2012,
+            "score": 22.2,
+            "rank": 135
+        },
+        {
+            "year": 2013,
+            "score": 23.46,
+            "rank": 135
+        },
+        {
+            "year": 2014,
+            "score": 23.82,
+            "rank": 135
+        },
+        {
+            "year": 2015,
+            "score": 26.2,
+            "rank": 120
+        },
+        {
+            "year": 2021,
+            "score": 15.0,
+            "rank": 132
+        },
+        {
+            "year": 2022,
+            "score": 13.9,
+            "rank": 127
+        },
+        {
+            "year": 2023,
+            "score": 10.3,
+            "rank": 132
+        },
+        {
+            "year": 2024,
+            "score": 10.2,
+            "rank": 133
+        }
+    ],
+    "ALB": [
+        {
+            "year": 2011,
+            "score": 30.45,
+            "rank": 80
+        },
+        {
+            "year": 2012,
+            "score": 30.4,
+            "rank": 90
+        },
+        {
+            "year": 2013,
+            "score": 30.85,
+            "rank": 93
+        },
+        {
+            "year": 2014,
+            "score": 30.47,
+            "rank": 94
+        },
+        {
+            "year": 2015,
+            "score": 30.74,
+            "rank": 87
+        },
+        {
+            "year": 2016,
+            "score": 28.38,
+            "rank": 92
+        },
+        {
+            "year": 2017,
+            "score": 28.86,
+            "rank": 93
+        },
+        {
+            "year": 2018,
+            "score": 29.98,
+            "rank": 83
+        },
+        {
+            "year": 2019,
+            "score": 30.34,
+            "rank": 83
+        },
+        {
+            "year": 2020,
+            "score": 27.12,
+            "rank": 83
+        },
+        {
+            "year": 2021,
+            "score": 28.0,
+            "rank": 84
+        },
+        {
+            "year": 2022,
+            "score": 24.4,
+            "rank": 84
+        },
+        {
+            "year": 2023,
+            "score": 25.4,
+            "rank": 83
+        },
+        {
+            "year": 2024,
+            "score": 24.5,
+            "rank": 84
+        }
+    ],
+    "ARE": [
+        {
+            "year": 2011,
+            "score": 41.99,
+            "rank": 34
+        },
+        {
+            "year": 2012,
+            "score": 44.4,
+            "rank": 37
+        },
+        {
+            "year": 2013,
+            "score": 41.87,
+            "rank": 38
+        },
+        {
+            "year": 2014,
+            "score": 43.25,
+            "rank": 36
+        },
+        {
+            "year": 2015,
+            "score": 40.06,
+            "rank": 47
+        },
+        {
+            "year": 2016,
+            "score": 39.35,
+            "rank": 41
+        },
+        {
+            "year": 2017,
+            "score": 43.24,
+            "rank": 35
+        },
+        {
+            "year": 2018,
+            "score": 42.58,
+            "rank": 38
+        },
+        {
+            "year": 2019,
+            "score": 42.17,
+            "rank": 36
+        },
+        {
+            "year": 2020,
+            "score": 41.79,
+            "rank": 34
+        },
+        {
+            "year": 2021,
+            "score": 43.0,
+            "rank": 33
+        },
+        {
+            "year": 2022,
+            "score": 42.1,
+            "rank": 31
+        },
+        {
+            "year": 2023,
+            "score": 43.2,
+            "rank": 32
+        },
+        {
+            "year": 2024,
+            "score": 42.8,
+            "rank": 32
+        }
+    ],
+    "ARG": [
+        {
+            "year": 2011,
+            "score": 35.36,
+            "rank": 58
+        },
+        {
+            "year": 2012,
+            "score": 34.4,
+            "rank": 70
+        },
+        {
+            "year": 2013,
+            "score": 37.66,
+            "rank": 56
+        },
+        {
+            "year": 2014,
+            "score": 35.13,
+            "rank": 70
+        },
+        {
+            "year": 2015,
+            "score": 34.3,
+            "rank": 72
+        },
+        {
+            "year": 2016,
+            "score": 30.24,
+            "rank": 81
+        },
+        {
+            "year": 2017,
+            "score": 32.0,
+            "rank": 76
+        },
+        {
+            "year": 2018,
+            "score": 30.65,
+            "rank": 80
+        },
+        {
+            "year": 2019,
+            "score": 31.95,
+            "rank": 73
+        },
+        {
+            "year": 2020,
+            "score": 28.33,
+            "rank": 80
+        },
+        {
+            "year": 2021,
+            "score": 29.8,
+            "rank": 73
+        },
+        {
+            "year": 2022,
+            "score": 28.6,
+            "rank": 69
+        },
+        {
+            "year": 2023,
+            "score": 28.0,
+            "rank": 73
+        },
+        {
+            "year": 2024,
+            "score": 26.4,
+            "rank": 76
+        }
+    ],
+    "ARM": [
+        {
+            "year": 2011,
+            "score": 33.0,
+            "rank": 69
+        },
+        {
+            "year": 2012,
+            "score": 34.5,
+            "rank": 69
+        },
+        {
+            "year": 2013,
+            "score": 37.59,
+            "rank": 59
+        },
+        {
+            "year": 2014,
+            "score": 36.06,
+            "rank": 65
+        },
+        {
+            "year": 2015,
+            "score": 37.31,
+            "rank": 61
+        },
+        {
+            "year": 2016,
+            "score": 35.14,
+            "rank": 60
+        },
+        {
+            "year": 2017,
+            "score": 35.65,
+            "rank": 59
+        },
+        {
+            "year": 2018,
+            "score": 32.81,
+            "rank": 68
+        },
+        {
+            "year": 2019,
+            "score": 33.98,
+            "rank": 64
+        },
+        {
+            "year": 2020,
+            "score": 32.64,
+            "rank": 61
+        },
+        {
+            "year": 2021,
+            "score": 31.4,
+            "rank": 69
+        },
+        {
+            "year": 2022,
+            "score": 26.6,
+            "rank": 80
+        },
+        {
+            "year": 2023,
+            "score": 28.0,
+            "rank": 72
+        },
+        {
+            "year": 2024,
+            "score": 29.0,
+            "rank": 63
+        }
+    ],
+    "AUS": [
+        {
+            "year": 2011,
+            "score": 49.85,
+            "rank": 21
+        },
+        {
+            "year": 2012,
+            "score": 51.9,
+            "rank": 23
+        },
+        {
+            "year": 2013,
+            "score": 53.07,
+            "rank": 19
+        },
+        {
+            "year": 2014,
+            "score": 55.01,
+            "rank": 17
+        },
+        {
+            "year": 2015,
+            "score": 55.22,
+            "rank": 17
+        },
+        {
+            "year": 2016,
+            "score": 53.07,
+            "rank": 19
+        },
+        {
+            "year": 2017,
+            "score": 51.83,
+            "rank": 23
+        },
+        {
+            "year": 2018,
+            "score": 51.98,
+            "rank": 20
+        },
+        {
+            "year": 2019,
+            "score": 50.34,
+            "rank": 22
+        },
+        {
+            "year": 2020,
+            "score": 48.35,
+            "rank": 23
+        },
+        {
+            "year": 2021,
+            "score": 48.3,
+            "rank": 25
+        },
+        {
+            "year": 2022,
+            "score": 47.1,
+            "rank": 25
+        },
+        {
+            "year": 2023,
+            "score": 49.7,
+            "rank": 24
+        },
+        {
+            "year": 2024,
+            "score": 48.1,
+            "rank": 23
+        }
+    ],
+    "AUT": [
+        {
+            "year": 2011,
+            "score": 50.75,
+            "rank": 19
+        },
+        {
+            "year": 2012,
+            "score": 53.1,
+            "rank": 22
+        },
+        {
+            "year": 2013,
+            "score": 51.87,
+            "rank": 23
+        },
+        {
+            "year": 2014,
+            "score": 53.41,
+            "rank": 20
+        },
+        {
+            "year": 2015,
+            "score": 54.07,
+            "rank": 18
+        },
+        {
+            "year": 2016,
+            "score": 52.65,
+            "rank": 20
+        },
+        {
+            "year": 2017,
+            "score": 53.1,
+            "rank": 20
+        },
+        {
+            "year": 2018,
+            "score": 51.32,
+            "rank": 21
+        },
+        {
+            "year": 2019,
+            "score": 50.94,
+            "rank": 21
+        },
+        {
+            "year": 2020,
+            "score": 50.13,
+            "rank": 19
+        },
+        {
+            "year": 2021,
+            "score": 50.9,
+            "rank": 18
+        },
+        {
+            "year": 2022,
+            "score": 50.2,
+            "rank": 17
+        },
+        {
+            "year": 2023,
+            "score": 53.2,
+            "rank": 18
+        },
+        {
+            "year": 2024,
+            "score": 50.3,
+            "rank": 17
+        }
+    ],
+    "AZE": [
+        {
+            "year": 2011,
+            "score": 29.17,
+            "rank": 88
+        },
+        {
+            "year": 2012,
+            "score": 30.4,
+            "rank": 89
+        },
+        {
+            "year": 2013,
+            "score": 28.99,
+            "rank": 105
+        },
+        {
+            "year": 2014,
+            "score": 29.6,
+            "rank": 101
+        },
+        {
+            "year": 2015,
+            "score": 30.1,
+            "rank": 93
+        },
+        {
+            "year": 2016,
+            "score": 29.64,
+            "rank": 85
+        },
+        {
+            "year": 2017,
+            "score": 30.58,
+            "rank": 82
+        },
+        {
+            "year": 2018,
+            "score": 30.2,
+            "rank": 82
+        },
+        {
+            "year": 2019,
+            "score": 30.21,
+            "rank": 84
+        },
+        {
+            "year": 2020,
+            "score": 27.23,
+            "rank": 82
+        },
+        {
+            "year": 2021,
+            "score": 28.4,
+            "rank": 80
+        },
+        {
+            "year": 2022,
+            "score": 21.5,
+            "rank": 93
+        },
+        {
+            "year": 2023,
+            "score": 23.3,
+            "rank": 89
+        },
+        {
+            "year": 2024,
+            "score": 21.3,
+            "rank": 95
+        }
+    ],
+    "BDI": [
+        {
+            "year": 2012,
+            "score": 20.5,
+            "rank": 137
+        },
+        {
+            "year": 2014,
+            "score": 22.43,
+            "rank": 138
+        },
+        {
+            "year": 2015,
+            "score": 21.04,
+            "rank": 136
+        },
+        {
+            "year": 2016,
+            "score": 20.93,
+            "rank": 123
+        },
+        {
+            "year": 2017,
+            "score": 21.31,
+            "rank": 122
+        },
+        {
+            "year": 2019,
+            "score": 17.65,
+            "rank": 128
+        },
+        {
+            "year": 2022,
+            "score": 12.3,
+            "rank": 130
+        },
+        {
+            "year": 2023,
+            "score": 12.5,
+            "rank": 130
+        },
+        {
+            "year": 2024,
+            "score": 13.2,
+            "rank": 127
+        }
+    ],
+    "BEL": [
+        {
+            "year": 2011,
+            "score": 49.05,
+            "rank": 24
+        },
+        {
+            "year": 2012,
+            "score": 54.3,
+            "rank": 20
+        },
+        {
+            "year": 2013,
+            "score": 52.49,
+            "rank": 21
+        },
+        {
+            "year": 2014,
+            "score": 51.69,
+            "rank": 23
+        },
+        {
+            "year": 2015,
+            "score": 50.91,
+            "rank": 25
+        },
+        {
+            "year": 2016,
+            "score": 51.97,
+            "rank": 23
+        },
+        {
+            "year": 2017,
+            "score": 49.85,
+            "rank": 27
+        },
+        {
+            "year": 2018,
+            "score": 50.5,
+            "rank": 25
+        },
+        {
+            "year": 2019,
+            "score": 50.18,
+            "rank": 23
+        },
+        {
+            "year": 2020,
+            "score": 49.13,
+            "rank": 22
+        },
+        {
+            "year": 2021,
+            "score": 49.2,
+            "rank": 22
+        },
+        {
+            "year": 2022,
+            "score": 46.9,
+            "rank": 26
+        },
+        {
+            "year": 2023,
+            "score": 49.9,
+            "rank": 23
+        },
+        {
+            "year": 2024,
+            "score": 47.7,
+            "rank": 24
+        }
+    ],
+    "BEN": [
+        {
+            "year": 2011,
+            "score": 23.81,
+            "rank": 118
+        },
+        {
+            "year": 2012,
+            "score": 24.4,
+            "rank": 125
+        },
+        {
+            "year": 2013,
+            "score": 25.1,
+            "rank": 127
+        },
+        {
+            "year": 2014,
+            "score": 24.21,
+            "rank": 132
+        },
+        {
+            "year": 2016,
+            "score": 22.25,
+            "rank": 121
+        },
+        {
+            "year": 2017,
+            "score": 23.04,
+            "rank": 116
+        },
+        {
+            "year": 2018,
+            "score": 20.61,
+            "rank": 121
+        },
+        {
+            "year": 2019,
+            "score": 20.42,
+            "rank": 123
+        },
+        {
+            "year": 2020,
+            "score": 18.13,
+            "rank": 126
+        },
+        {
+            "year": 2021,
+            "score": 18.0,
+            "rank": 128
+        },
+        {
+            "year": 2022,
+            "score": 14.6,
+            "rank": 124
+        },
+        {
+            "year": 2023,
+            "score": 16.0,
+            "rank": 120
+        },
+        {
+            "year": 2024,
+            "score": 15.4,
+            "rank": 119
+        }
+    ],
+    "BFA": [
+        {
+            "year": 2011,
+            "score": 23.14,
+            "rank": 120
+        },
+        {
+            "year": 2012,
+            "score": 24.6,
+            "rank": 122
+        },
+        {
+            "year": 2013,
+            "score": 27.03,
+            "rank": 116
+        },
+        {
+            "year": 2014,
+            "score": 28.18,
+            "rank": 109
+        },
+        {
+            "year": 2015,
+            "score": 28.68,
+            "rank": 102
+        },
+        {
+            "year": 2016,
+            "score": 21.05,
+            "rank": 122
+        },
+        {
+            "year": 2017,
+            "score": 21.86,
+            "rank": 120
+        },
+        {
+            "year": 2018,
+            "score": 18.95,
+            "rank": 124
+        },
+        {
+            "year": 2019,
+            "score": 23.3,
+            "rank": 117
+        },
+        {
+            "year": 2020,
+            "score": 20.0,
+            "rank": 118
+        },
+        {
+            "year": 2021,
+            "score": 20.5,
+            "rank": 115
+        },
+        {
+            "year": 2022,
+            "score": 15.3,
+            "rank": 120
+        },
+        {
+            "year": 2023,
+            "score": 14.5,
+            "rank": 124
+        },
+        {
+            "year": 2024,
+            "score": 12.8,
+            "rank": 129
+        }
+    ],
+    "BGD": [
+        {
+            "year": 2011,
+            "score": 28.05,
+            "rank": 97
+        },
+        {
+            "year": 2012,
+            "score": 26.1,
+            "rank": 112
+        },
+        {
+            "year": 2013,
+            "score": 24.52,
+            "rank": 130
+        },
+        {
+            "year": 2014,
+            "score": 24.35,
+            "rank": 129
+        },
+        {
+            "year": 2015,
+            "score": 23.71,
+            "rank": 129
+        },
+        {
+            "year": 2016,
+            "score": 22.86,
+            "rank": 117
+        },
+        {
+            "year": 2017,
+            "score": 23.72,
+            "rank": 114
+        },
+        {
+            "year": 2018,
+            "score": 23.06,
+            "rank": 116
+        },
+        {
+            "year": 2019,
+            "score": 23.31,
+            "rank": 116
+        },
+        {
+            "year": 2020,
+            "score": 20.39,
+            "rank": 116
+        },
+        {
+            "year": 2021,
+            "score": 20.2,
+            "rank": 116
+        },
+        {
+            "year": 2022,
+            "score": 19.7,
+            "rank": 102
+        },
+        {
+            "year": 2023,
+            "score": 20.2,
+            "rank": 105
+        },
+        {
+            "year": 2024,
+            "score": 19.1,
+            "rank": 106
+        }
+    ],
+    "BGR": [
+        {
+            "year": 2011,
+            "score": 38.42,
+            "rank": 42
+        },
+        {
+            "year": 2012,
+            "score": 40.7,
+            "rank": 43
+        },
+        {
+            "year": 2013,
+            "score": 41.33,
+            "rank": 41
+        },
+        {
+            "year": 2014,
+            "score": 40.74,
+            "rank": 44
+        },
+        {
+            "year": 2015,
+            "score": 42.16,
+            "rank": 39
+        },
+        {
+            "year": 2016,
+            "score": 41.42,
+            "rank": 38
+        },
+        {
+            "year": 2017,
+            "score": 42.84,
+            "rank": 36
+        },
+        {
+            "year": 2018,
+            "score": 42.65,
+            "rank": 37
+        },
+        {
+            "year": 2019,
+            "score": 40.35,
+            "rank": 40
+        },
+        {
+            "year": 2020,
+            "score": 39.98,
+            "rank": 37
+        },
+        {
+            "year": 2021,
+            "score": 42.4,
+            "rank": 35
+        },
+        {
+            "year": 2022,
+            "score": 39.5,
+            "rank": 35
+        },
+        {
+            "year": 2023,
+            "score": 39.0,
+            "rank": 38
+        },
+        {
+            "year": 2024,
+            "score": 38.5,
+            "rank": 38
+        }
+    ],
+    "BHR": [
+        {
+            "year": 2011,
+            "score": 37.8,
+            "rank": 46
+        },
+        {
+            "year": 2012,
+            "score": 41.1,
+            "rank": 41
+        },
+        {
+            "year": 2013,
+            "score": 36.13,
+            "rank": 67
+        },
+        {
+            "year": 2014,
+            "score": 36.26,
+            "rank": 62
+        },
+        {
+            "year": 2015,
+            "score": 37.67,
+            "rank": 59
+        },
+        {
+            "year": 2016,
+            "score": 35.48,
+            "rank": 57
+        },
+        {
+            "year": 2017,
+            "score": 34.67,
+            "rank": 66
+        },
+        {
+            "year": 2018,
+            "score": 31.73,
+            "rank": 72
+        },
+        {
+            "year": 2019,
+            "score": 31.1,
+            "rank": 78
+        },
+        {
+            "year": 2020,
+            "score": 28.37,
+            "rank": 79
+        },
+        {
+            "year": 2021,
+            "score": 28.8,
+            "rank": 78
+        },
+        {
+            "year": 2022,
+            "score": 28.0,
+            "rank": 72
+        },
+        {
+            "year": 2023,
+            "score": 29.1,
+            "rank": 67
+        },
+        {
+            "year": 2024,
+            "score": 27.6,
+            "rank": 72
+        }
+    ],
+    "BIH": [
+        {
+            "year": 2011,
+            "score": 30.84,
+            "rank": 76
+        },
+        {
+            "year": 2012,
+            "score": 34.2,
+            "rank": 72
+        },
+        {
+            "year": 2013,
+            "score": 36.24,
+            "rank": 65
+        },
+        {
+            "year": 2014,
+            "score": 32.43,
+            "rank": 81
+        },
+        {
+            "year": 2015,
+            "score": 32.31,
+            "rank": 79
+        },
+        {
+            "year": 2016,
+            "score": 29.62,
+            "rank": 87
+        },
+        {
+            "year": 2017,
+            "score": 30.23,
+            "rank": 86
+        },
+        {
+            "year": 2018,
+            "score": 31.09,
+            "rank": 77
+        },
+        {
+            "year": 2019,
+            "score": 31.41,
+            "rank": 76
+        },
+        {
+            "year": 2020,
+            "score": 28.99,
+            "rank": 74
+        },
+        {
+            "year": 2021,
+            "score": 29.6,
+            "rank": 75
+        },
+        {
+            "year": 2022,
+            "score": 28.5,
+            "rank": 70
+        },
+        {
+            "year": 2023,
+            "score": 27.1,
+            "rank": 77
+        },
+        {
+            "year": 2024,
+            "score": 25.5,
+            "rank": 80
+        }
+    ],
+    "BLR": [
+        {
+            "year": 2012,
+            "score": 32.9,
+            "rank": 78
+        },
+        {
+            "year": 2013,
+            "score": 34.62,
+            "rank": 77
+        },
+        {
+            "year": 2014,
+            "score": 37.1,
+            "rank": 58
+        },
+        {
+            "year": 2015,
+            "score": 38.23,
+            "rank": 53
+        },
+        {
+            "year": 2016,
+            "score": 30.39,
+            "rank": 79
+        },
+        {
+            "year": 2017,
+            "score": 29.98,
+            "rank": 88
+        },
+        {
+            "year": 2018,
+            "score": 29.35,
+            "rank": 86
+        },
+        {
+            "year": 2019,
+            "score": 32.07,
+            "rank": 72
+        },
+        {
+            "year": 2020,
+            "score": 31.27,
+            "rank": 64
+        },
+        {
+            "year": 2021,
+            "score": 32.6,
+            "rank": 62
+        },
+        {
+            "year": 2022,
+            "score": 27.5,
+            "rank": 77
+        },
+        {
+            "year": 2023,
+            "score": 26.8,
+            "rank": 80
+        },
+        {
+            "year": 2024,
+            "score": 24.2,
+            "rank": 85
+        }
+    ],
+    "BLZ": [
+        {
+            "year": 2012,
+            "score": 32.5,
+            "rank": 80
+        },
+        {
+            "year": 2013,
+            "score": 29.98,
+            "rank": 102
+        }
+    ],
+    "BOL": [
+        {
+            "year": 2011,
+            "score": 25.44,
+            "rank": 112
+        },
+        {
+            "year": 2012,
+            "score": 25.8,
+            "rank": 114
+        },
+        {
+            "year": 2013,
+            "score": 30.48,
+            "rank": 95
+        },
+        {
+            "year": 2014,
+            "score": 27.76,
+            "rank": 111
+        },
+        {
+            "year": 2015,
+            "score": 28.58,
+            "rank": 104
+        },
+        {
+            "year": 2016,
+            "score": 25.24,
+            "rank": 109
+        },
+        {
+            "year": 2017,
+            "score": 25.64,
+            "rank": 106
+        },
+        {
+            "year": 2018,
+            "score": 22.88,
+            "rank": 117
+        },
+        {
+            "year": 2019,
+            "score": 24.76,
+            "rank": 110
+        },
+        {
+            "year": 2020,
+            "score": 22.41,
+            "rank": 105
+        },
+        {
+            "year": 2021,
+            "score": 23.4,
+            "rank": 104
+        },
+        {
+            "year": 2023,
+            "score": 21.4,
+            "rank": 97
+        },
+        {
+            "year": 2024,
+            "score": 20.2,
+            "rank": 100
+        }
+    ],
+    "BRA": [
+        {
+            "year": 2011,
+            "score": 37.75,
+            "rank": 47
+        },
+        {
+            "year": 2012,
+            "score": 36.6,
+            "rank": 58
+        },
+        {
+            "year": 2013,
+            "score": 36.33,
+            "rank": 64
+        },
+        {
+            "year": 2014,
+            "score": 36.29,
+            "rank": 61
+        },
+        {
+            "year": 2015,
+            "score": 34.95,
+            "rank": 70
+        },
+        {
+            "year": 2016,
+            "score": 33.19,
+            "rank": 69
+        },
+        {
+            "year": 2017,
+            "score": 33.1,
+            "rank": 69
+        },
+        {
+            "year": 2018,
+            "score": 33.44,
+            "rank": 64
+        },
+        {
+            "year": 2019,
+            "score": 33.82,
+            "rank": 66
+        },
+        {
+            "year": 2020,
+            "score": 31.94,
+            "rank": 62
+        },
+        {
+            "year": 2021,
+            "score": 34.2,
+            "rank": 57
+        },
+        {
+            "year": 2022,
+            "score": 32.5,
+            "rank": 54
+        },
+        {
+            "year": 2023,
+            "score": 33.6,
+            "rank": 49
+        },
+        {
+            "year": 2024,
+            "score": 32.7,
+            "rank": 50
+        }
+    ],
+    "BRB": [
+        {
+            "year": 2013,
+            "score": 40.48,
+            "rank": 47
+        },
+        {
+            "year": 2014,
+            "score": 40.78,
+            "rank": 41
+        },
+        {
+            "year": 2015,
+            "score": 42.47,
+            "rank": 37
+        },
+        {
+            "year": 2024,
+            "score": 26.1,
+            "rank": 77
+        }
+    ],
+    "BRN": [
+        {
+            "year": 2011,
+            "score": 30.93,
+            "rank": 75
+        },
+        {
+            "year": 2012,
+            "score": 37.7,
+            "rank": 53
+        },
+        {
+            "year": 2013,
+            "score": 35.53,
+            "rank": 74
+        },
+        {
+            "year": 2014,
+            "score": 31.67,
+            "rank": 88
+        },
+        {
+            "year": 2017,
+            "score": 32.89,
+            "rank": 71
+        },
+        {
+            "year": 2018,
+            "score": 32.84,
+            "rank": 67
+        },
+        {
+            "year": 2019,
+            "score": 32.35,
+            "rank": 71
+        },
+        {
+            "year": 2020,
+            "score": 29.82,
+            "rank": 71
+        },
+        {
+            "year": 2021,
+            "score": 28.2,
+            "rank": 82
+        },
+        {
+            "year": 2022,
+            "score": 22.2,
+            "rank": 92
+        },
+        {
+            "year": 2023,
+            "score": 23.5,
+            "rank": 87
+        },
+        {
+            "year": 2024,
+            "score": 22.8,
+            "rank": 88
+        }
+    ],
+    "BTN": [
+        {
+            "year": 2014,
+            "score": 31.83,
+            "rank": 86
+        },
+        {
+            "year": 2015,
+            "score": 26.06,
+            "rank": 121
+        },
+        {
+            "year": 2016,
+            "score": 27.88,
+            "rank": 96
+        }
+    ],
+    "BWA": [
+        {
+            "year": 2011,
+            "score": 30.51,
+            "rank": 79
+        },
+        {
+            "year": 2012,
+            "score": 31.4,
+            "rank": 85
+        },
+        {
+            "year": 2013,
+            "score": 31.14,
+            "rank": 91
+        },
+        {
+            "year": 2014,
+            "score": 30.87,
+            "rank": 92
+        },
+        {
+            "year": 2015,
+            "score": 30.49,
+            "rank": 90
+        },
+        {
+            "year": 2016,
+            "score": 28.96,
+            "rank": 90
+        },
+        {
+            "year": 2017,
+            "score": 29.97,
+            "rank": 89
+        },
+        {
+            "year": 2018,
+            "score": 28.16,
+            "rank": 91
+        },
+        {
+            "year": 2019,
+            "score": 27.43,
+            "rank": 93
+        },
+        {
+            "year": 2020,
+            "score": 25.43,
+            "rank": 89
+        },
+        {
+            "year": 2021,
+            "score": 22.9,
+            "rank": 106
+        },
+        {
+            "year": 2022,
+            "score": 23.9,
+            "rank": 86
+        },
+        {
+            "year": 2023,
+            "score": 24.6,
+            "rank": 85
+        },
+        {
+            "year": 2024,
+            "score": 23.1,
+            "rank": 87
+        }
+    ],
+    "CAN": [
+        {
+            "year": 2011,
+            "score": 56.33,
+            "rank": 8
+        },
+        {
+            "year": 2012,
+            "score": 56.9,
+            "rank": 12
+        },
+        {
+            "year": 2013,
+            "score": 57.6,
+            "rank": 11
+        },
+        {
+            "year": 2014,
+            "score": 56.13,
+            "rank": 12
+        },
+        {
+            "year": 2015,
+            "score": 55.73,
+            "rank": 16
+        },
+        {
+            "year": 2016,
+            "score": 54.71,
+            "rank": 15
+        },
+        {
+            "year": 2017,
+            "score": 53.65,
+            "rank": 18
+        },
+        {
+            "year": 2018,
+            "score": 52.98,
+            "rank": 18
+        },
+        {
+            "year": 2019,
+            "score": 53.88,
+            "rank": 17
+        },
+        {
+            "year": 2020,
+            "score": 52.26,
+            "rank": 17
+        },
+        {
+            "year": 2021,
+            "score": 53.1,
+            "rank": 16
+        },
+        {
+            "year": 2022,
+            "score": 50.8,
+            "rank": 15
+        },
+        {
+            "year": 2023,
+            "score": 53.8,
+            "rank": 15
+        },
+        {
+            "year": 2024,
+            "score": 52.9,
+            "rank": 14
+        }
+    ],
+    "CHE": [
+        {
+            "year": 2011,
+            "score": 63.82,
+            "rank": 1
+        },
+        {
+            "year": 2012,
+            "score": 68.2,
+            "rank": 1
+        },
+        {
+            "year": 2013,
+            "score": 66.59,
+            "rank": 1
+        },
+        {
+            "year": 2014,
+            "score": 64.78,
+            "rank": 1
+        },
+        {
+            "year": 2015,
+            "score": 68.3,
+            "rank": 1
+        },
+        {
+            "year": 2016,
+            "score": 66.28,
+            "rank": 1
+        },
+        {
+            "year": 2017,
+            "score": 67.69,
+            "rank": 1
+        },
+        {
+            "year": 2018,
+            "score": 68.4,
+            "rank": 1
+        },
+        {
+            "year": 2019,
+            "score": 67.24,
+            "rank": 1
+        },
+        {
+            "year": 2020,
+            "score": 66.08,
+            "rank": 1
+        },
+        {
+            "year": 2021,
+            "score": 65.5,
+            "rank": 1
+        },
+        {
+            "year": 2022,
+            "score": 64.6,
+            "rank": 1
+        },
+        {
+            "year": 2023,
+            "score": 67.6,
+            "rank": 1
+        },
+        {
+            "year": 2024,
+            "score": 67.5,
+            "rank": 1
+        }
+    ],
+    "CHL": [
+        {
+            "year": 2011,
+            "score": 38.84,
+            "rank": 38
+        },
+        {
+            "year": 2012,
+            "score": 42.7,
+            "rank": 39
+        },
+        {
+            "year": 2013,
+            "score": 40.58,
+            "rank": 46
+        },
+        {
+            "year": 2014,
+            "score": 40.64,
+            "rank": 46
+        },
+        {
+            "year": 2015,
+            "score": 41.2,
+            "rank": 42
+        },
+        {
+            "year": 2016,
+            "score": 38.41,
+            "rank": 44
+        },
+        {
+            "year": 2017,
+            "score": 38.7,
+            "rank": 46
+        },
+        {
+            "year": 2018,
+            "score": 37.79,
+            "rank": 47
+        },
+        {
+            "year": 2019,
+            "score": 36.64,
+            "rank": 51
+        },
+        {
+            "year": 2020,
+            "score": 33.86,
+            "rank": 54
+        },
+        {
+            "year": 2021,
+            "score": 35.1,
+            "rank": 53
+        },
+        {
+            "year": 2022,
+            "score": 34.0,
+            "rank": 50
+        },
+        {
+            "year": 2023,
+            "score": 33.3,
+            "rank": 52
+        },
+        {
+            "year": 2024,
+            "score": 32.6,
+            "rank": 4
+        }
+    ],
+    "CHN": [
+        {
+            "year": 2011,
+            "score": 46.43,
+            "rank": 29
+        },
+        {
+            "year": 2012,
+            "score": 45.4,
+            "rank": 34
+        },
+        {
+            "year": 2013,
+            "score": 44.66,
+            "rank": 35
+        },
+        {
+            "year": 2014,
+            "score": 46.57,
+            "rank": 29
+        },
+        {
+            "year": 2015,
+            "score": 47.47,
+            "rank": 29
+        },
+        {
+            "year": 2016,
+            "score": 50.57,
+            "rank": 25
+        },
+        {
+            "year": 2017,
+            "score": 52.54,
+            "rank": 22
+        },
+        {
+            "year": 2018,
+            "score": 53.06,
+            "rank": 17
+        },
+        {
+            "year": 2019,
+            "score": 54.82,
+            "rank": 14
+        },
+        {
+            "year": 2020,
+            "score": 53.28,
+            "rank": 14
+        },
+        {
+            "year": 2021,
+            "score": 54.8,
+            "rank": 12
+        },
+        {
+            "year": 2022,
+            "score": 55.3,
+            "rank": 11
+        },
+        {
+            "year": 2023,
+            "score": 55.3,
+            "rank": 12
+        },
+        {
+            "year": 2024,
+            "score": 56.3,
+            "rank": 11
+        }
+    ],
+    "CIV": [
+        {
+            "year": 2011,
+            "score": 24.08,
+            "rank": 117
+        },
+        {
+            "year": 2012,
+            "score": 22.6,
+            "rank": 134
+        },
+        {
+            "year": 2013,
+            "score": 23.42,
+            "rank": 136
+        },
+        {
+            "year": 2014,
+            "score": 27.02,
+            "rank": 116
+        },
+        {
+            "year": 2015,
+            "score": 27.16,
+            "rank": 116
+        },
+        {
+            "year": 2016,
+            "score": 25.8,
+            "rank": 108
+        },
+        {
+            "year": 2017,
+            "score": 23.96,
+            "rank": 112
+        },
+        {
+            "year": 2018,
+            "score": 19.96,
+            "rank": 123
+        },
+        {
+            "year": 2019,
+            "score": 25.55,
+            "rank": 103
+        },
+        {
+            "year": 2020,
+            "score": 21.24,
+            "rank": 112
+        },
+        {
+            "year": 2021,
+            "score": 21.0,
+            "rank": 114
+        },
+        {
+            "year": 2022,
+            "score": 17.8,
+            "rank": 109
+        },
+        {
+            "year": 2023,
+            "score": 18.2,
+            "rank": 112
+        },
+        {
+            "year": 2024,
+            "score": 17.5,
+            "rank": 112
+        }
+    ],
+    "CMR": [
+        {
+            "year": 2011,
+            "score": 26.95,
+            "rank": 103
+        },
+        {
+            "year": 2012,
+            "score": 25.0,
+            "rank": 121
+        },
+        {
+            "year": 2013,
+            "score": 25.71,
+            "rank": 125
+        },
+        {
+            "year": 2014,
+            "score": 27.52,
+            "rank": 114
+        },
+        {
+            "year": 2015,
+            "score": 27.8,
+            "rank": 110
+        },
+        {
+            "year": 2016,
+            "score": 22.82,
+            "rank": 118
+        },
+        {
+            "year": 2017,
+            "score": 22.58,
+            "rank": 117
+        },
+        {
+            "year": 2018,
+            "score": 23.85,
+            "rank": 111
+        },
+        {
+            "year": 2019,
+            "score": 23.9,
+            "rank": 115
+        },
+        {
+            "year": 2020,
+            "score": 19.98,
+            "rank": 119
+        },
+        {
+            "year": 2021,
+            "score": 19.7,
+            "rank": 123
+        },
+        {
+            "year": 2022,
+            "score": 15.1,
+            "rank": 121
+        },
+        {
+            "year": 2023,
+            "score": 15.3,
+            "rank": 123
+        },
+        {
+            "year": 2024,
+            "score": 14.4,
+            "rank": 123
+        }
+    ],
+    "COL": [
+        {
+            "year": 2011,
+            "score": 32.32,
+            "rank": 71
+        },
+        {
+            "year": 2012,
+            "score": 35.5,
+            "rank": 65
+        },
+        {
+            "year": 2013,
+            "score": 37.38,
+            "rank": 60
+        },
+        {
+            "year": 2014,
+            "score": 35.5,
+            "rank": 68
+        },
+        {
+            "year": 2015,
+            "score": 36.41,
+            "rank": 67
+        },
+        {
+            "year": 2016,
+            "score": 34.16,
+            "rank": 63
+        },
+        {
+            "year": 2017,
+            "score": 34.78,
+            "rank": 65
+        },
+        {
+            "year": 2018,
+            "score": 33.78,
+            "rank": 63
+        },
+        {
+            "year": 2019,
+            "score": 33.0,
+            "rank": 67
+        },
+        {
+            "year": 2020,
+            "score": 30.84,
+            "rank": 68
+        },
+        {
+            "year": 2021,
+            "score": 31.7,
+            "rank": 67
+        },
+        {
+            "year": 2022,
+            "score": 29.2,
+            "rank": 63
+        },
+        {
+            "year": 2023,
+            "score": 29.4,
+            "rank": 66
+        },
+        {
+            "year": 2024,
+            "score": 29.2,
+            "rank": 61
+        }
+    ],
+    "CPV": [
+        {
+            "year": 2013,
+            "score": 29.69,
+            "rank": 103
+        },
+        {
+            "year": 2014,
+            "score": 30.09,
+            "rank": 97
+        },
+        {
+            "year": 2015,
+            "score": 28.59,
+            "rank": 103
+        },
+        {
+            "year": 2020,
+            "score": 23.86,
+            "rank": 100
+        },
+        {
+            "year": 2021,
+            "score": 25.7,
+            "rank": 89
+        },
+        {
+            "year": 2023,
+            "score": 23.3,
+            "rank": 91
+        },
+        {
+            "year": 2024,
+            "score": 22.3,
+            "rank": 90
+        }
+    ],
+    "CRI": [
+        {
+            "year": 2011,
+            "score": 37.91,
+            "rank": 45
+        },
+        {
+            "year": 2012,
+            "score": 36.3,
+            "rank": 60
+        },
+        {
+            "year": 2013,
+            "score": 41.54,
+            "rank": 39
+        },
+        {
+            "year": 2014,
+            "score": 37.3,
+            "rank": 57
+        },
+        {
+            "year": 2015,
+            "score": 38.59,
+            "rank": 51
+        },
+        {
+            "year": 2016,
+            "score": 38.4,
+            "rank": 45
+        },
+        {
+            "year": 2017,
+            "score": 37.09,
+            "rank": 53
+        },
+        {
+            "year": 2018,
+            "score": 35.72,
+            "rank": 54
+        },
+        {
+            "year": 2019,
+            "score": 36.13,
+            "rank": 55
+        },
+        {
+            "year": 2020,
+            "score": 33.51,
+            "rank": 56
+        },
+        {
+            "year": 2021,
+            "score": 34.5,
+            "rank": 56
+        },
+        {
+            "year": 2022,
+            "score": 28.7,
+            "rank": 68
+        },
+        {
+            "year": 2023,
+            "score": 27.9,
+            "rank": 74
+        },
+        {
+            "year": 2024,
+            "score": 28.3,
+            "rank": 70
+        }
+    ],
+    "CYP": [
+        {
+            "year": 2011,
+            "score": 46.45,
+            "rank": 28
+        },
+        {
+            "year": 2012,
+            "score": 47.9,
+            "rank": 28
+        },
+        {
+            "year": 2013,
+            "score": 49.32,
+            "rank": 27
+        },
+        {
+            "year": 2014,
+            "score": 45.82,
+            "rank": 30
+        },
+        {
+            "year": 2015,
+            "score": 43.51,
+            "rank": 34
+        },
+        {
+            "year": 2016,
+            "score": 46.34,
+            "rank": 31
+        },
+        {
+            "year": 2017,
+            "score": 46.84,
+            "rank": 30
+        },
+        {
+            "year": 2018,
+            "score": 47.83,
+            "rank": 29
+        },
+        {
+            "year": 2019,
+            "score": 48.34,
+            "rank": 28
+        },
+        {
+            "year": 2020,
+            "score": 45.67,
+            "rank": 29
+        },
+        {
+            "year": 2021,
+            "score": 46.7,
+            "rank": 28
+        },
+        {
+            "year": 2022,
+            "score": 46.2,
+            "rank": 27
+        },
+        {
+            "year": 2023,
+            "score": 46.3,
+            "rank": 28
+        },
+        {
+            "year": 2024,
+            "score": 45.1,
+            "rank": 27
+        }
+    ],
+    "CZE": [
+        {
+            "year": 2011,
+            "score": 47.3,
+            "rank": 27
+        },
+        {
+            "year": 2012,
+            "score": 49.7,
+            "rank": 27
+        },
+        {
+            "year": 2013,
+            "score": 48.36,
+            "rank": 28
+        },
+        {
+            "year": 2014,
+            "score": 50.22,
+            "rank": 26
+        },
+        {
+            "year": 2015,
+            "score": 51.32,
+            "rank": 24
+        },
+        {
+            "year": 2016,
+            "score": 49.4,
+            "rank": 27
+        },
+        {
+            "year": 2017,
+            "score": 50.98,
+            "rank": 24
+        },
+        {
+            "year": 2018,
+            "score": 48.75,
+            "rank": 27
+        },
+        {
+            "year": 2019,
+            "score": 49.43,
+            "rank": 26
+        },
+        {
+            "year": 2020,
+            "score": 48.34,
+            "rank": 24
+        },
+        {
+            "year": 2021,
+            "score": 49.0,
+            "rank": 24
+        },
+        {
+            "year": 2022,
+            "score": 42.8,
+            "rank": 30
+        },
+        {
+            "year": 2023,
+            "score": 44.8,
+            "rank": 31
+        },
+        {
+            "year": 2024,
+            "score": 44.0,
+            "rank": 30
+        }
+    ],
+    "DEU": [
+        {
+            "year": 2011,
+            "score": 54.89,
+            "rank": 12
+        },
+        {
+            "year": 2012,
+            "score": 56.2,
+            "rank": 15
+        },
+        {
+            "year": 2013,
+            "score": 55.83,
+            "rank": 15
+        },
+        {
+            "year": 2014,
+            "score": 56.02,
+            "rank": 13
+        },
+        {
+            "year": 2015,
+            "score": 57.05,
+            "rank": 12
+        },
+        {
+            "year": 2016,
+            "score": 57.94,
+            "rank": 10
+        },
+        {
+            "year": 2017,
+            "score": 58.39,
+            "rank": 9
+        },
+        {
+            "year": 2018,
+            "score": 58.03,
+            "rank": 9
+        },
+        {
+            "year": 2019,
+            "score": 58.19,
+            "rank": 9
+        },
+        {
+            "year": 2020,
+            "score": 56.55,
+            "rank": 9
+        },
+        {
+            "year": 2021,
+            "score": 57.3,
+            "rank": 10
+        },
+        {
+            "year": 2022,
+            "score": 57.2,
+            "rank": 8
+        },
+        {
+            "year": 2023,
+            "score": 58.8,
+            "rank": 8
+        },
+        {
+            "year": 2024,
+            "score": 58.1,
+            "rank": 9
+        }
+    ],
+    "DNK": [
+        {
+            "year": 2011,
+            "score": 56.96,
+            "rank": 6
+        },
+        {
+            "year": 2012,
+            "score": 59.9,
+            "rank": 7
+        },
+        {
+            "year": 2013,
+            "score": 58.34,
+            "rank": 9
+        },
+        {
+            "year": 2014,
+            "score": 57.52,
+            "rank": 8
+        },
+        {
+            "year": 2015,
+            "score": 57.7,
+            "rank": 10
+        },
+        {
+            "year": 2016,
+            "score": 58.45,
+            "rank": 8
+        },
+        {
+            "year": 2017,
+            "score": 58.7,
+            "rank": 6
+        },
+        {
+            "year": 2018,
+            "score": 58.39,
+            "rank": 8
+        },
+        {
+            "year": 2019,
+            "score": 58.44,
+            "rank": 7
+        },
+        {
+            "year": 2020,
+            "score": 57.53,
+            "rank": 6
+        },
+        {
+            "year": 2021,
+            "score": 57.3,
+            "rank": 9
+        },
+        {
+            "year": 2022,
+            "score": 55.9,
+            "rank": 10
+        },
+        {
+            "year": 2023,
+            "score": 58.7,
+            "rank": 9
+        },
+        {
+            "year": 2024,
+            "score": 57.1,
+            "rank": 10
+        }
+    ],
+    "DOM": [
+        {
+            "year": 2012,
+            "score": 30.9,
+            "rank": 86
+        },
+        {
+            "year": 2013,
+            "score": 33.28,
+            "rank": 79
+        },
+        {
+            "year": 2014,
+            "score": 32.29,
+            "rank": 83
+        },
+        {
+            "year": 2015,
+            "score": 30.6,
+            "rank": 89
+        },
+        {
+            "year": 2016,
+            "score": 30.55,
+            "rank": 76
+        },
+        {
+            "year": 2017,
+            "score": 31.17,
+            "rank": 79
+        },
+        {
+            "year": 2018,
+            "score": 29.33,
+            "rank": 87
+        },
+        {
+            "year": 2019,
+            "score": 28.56,
+            "rank": 87
+        },
+        {
+            "year": 2020,
+            "score": 25.1,
+            "rank": 90
+        },
+        {
+            "year": 2021,
+            "score": 25.1,
+            "rank": 93
+        },
+        {
+            "year": 2022,
+            "score": 22.7,
+            "rank": 90
+        },
+        {
+            "year": 2023,
+            "score": 22.4,
+            "rank": 94
+        },
+        {
+            "year": 2024,
+            "score": 20.8,
+            "rank": 97
+        }
+    ],
+    "DZA": [
+        {
+            "year": 2011,
+            "score": 19.79,
+            "rank": 125
+        },
+        {
+            "year": 2012,
+            "score": 24.4,
+            "rank": 124
+        },
+        {
+            "year": 2013,
+            "score": 23.11,
+            "rank": 138
+        },
+        {
+            "year": 2014,
+            "score": 24.2,
+            "rank": 133
+        },
+        {
+            "year": 2015,
+            "score": 24.38,
+            "rank": 126
+        },
+        {
+            "year": 2016,
+            "score": 24.46,
+            "rank": 113
+        },
+        {
+            "year": 2017,
+            "score": 24.34,
+            "rank": 108
+        },
+        {
+            "year": 2018,
+            "score": 23.87,
+            "rank": 110
+        },
+        {
+            "year": 2019,
+            "score": 23.98,
+            "rank": 113
+        },
+        {
+            "year": 2020,
+            "score": 19.48,
+            "rank": 121
+        },
+        {
+            "year": 2021,
+            "score": 19.9,
+            "rank": 120
+        },
+        {
+            "year": 2022,
+            "score": 16.7,
+            "rank": 115
+        },
+        {
+            "year": 2023,
+            "score": 16.1,
+            "rank": 119
+        },
+        {
+            "year": 2024,
+            "score": 16.2,
+            "rank": 115
+        }
+    ],
+    "ECU": [
+        {
+            "year": 2011,
+            "score": 28.75,
+            "rank": 93
+        },
+        {
+            "year": 2012,
+            "score": 28.5,
+            "rank": 98
+        },
+        {
+            "year": 2013,
+            "score": 32.83,
+            "rank": 83
+        },
+        {
+            "year": 2014,
+            "score": 27.5,
+            "rank": 115
+        },
+        {
+            "year": 2015,
+            "score": 26.87,
+            "rank": 119
+        },
+        {
+            "year": 2016,
+            "score": 27.11,
+            "rank": 100
+        },
+        {
+            "year": 2017,
+            "score": 29.14,
+            "rank": 92
+        },
+        {
+            "year": 2018,
+            "score": 26.8,
+            "rank": 97
+        },
+        {
+            "year": 2019,
+            "score": 26.56,
+            "rank": 99
+        },
+        {
+            "year": 2020,
+            "score": 24.11,
+            "rank": 99
+        },
+        {
+            "year": 2021,
+            "score": 25.4,
+            "rank": 91
+        },
+        {
+            "year": 2022,
+            "score": 20.3,
+            "rank": 98
+        },
+        {
+            "year": 2023,
+            "score": 20.5,
+            "rank": 104
+        },
+        {
+            "year": 2024,
+            "score": 19.3,
+            "rank": 105
+        }
+    ],
+    "EGY": [
+        {
+            "year": 2011,
+            "score": 29.21,
+            "rank": 87
+        },
+        {
+            "year": 2012,
+            "score": 27.9,
+            "rank": 103
+        },
+        {
+            "year": 2013,
+            "score": 28.48,
+            "rank": 108
+        },
+        {
+            "year": 2014,
+            "score": 30.03,
+            "rank": 99
+        },
+        {
+            "year": 2015,
+            "score": 28.91,
+            "rank": 100
+        },
+        {
+            "year": 2016,
+            "score": 25.96,
+            "rank": 107
+        },
+        {
+            "year": 2017,
+            "score": 26.0,
+            "rank": 105
+        },
+        {
+            "year": 2018,
+            "score": 27.16,
+            "rank": 95
+        },
+        {
+            "year": 2019,
+            "score": 27.47,
+            "rank": 92
+        },
+        {
+            "year": 2020,
+            "score": 24.23,
+            "rank": 96
+        },
+        {
+            "year": 2021,
+            "score": 25.1,
+            "rank": 94
+        },
+        {
+            "year": 2022,
+            "score": 22.7,
+            "rank": 89
+        },
+        {
+            "year": 2023,
+            "score": 24.2,
+            "rank": 86
+        },
+        {
+            "year": 2024,
+            "score": 23.7,
+            "rank": 86
+        }
+    ],
+    "ESP": [
+        {
+            "year": 2011,
+            "score": 43.81,
+            "rank": 32
+        },
+        {
+            "year": 2012,
+            "score": 47.2,
+            "rank": 29
+        },
+        {
+            "year": 2013,
+            "score": 49.41,
+            "rank": 26
+        },
+        {
+            "year": 2014,
+            "score": 49.27,
+            "rank": 27
+        },
+        {
+            "year": 2015,
+            "score": 49.07,
+            "rank": 27
+        },
+        {
+            "year": 2016,
+            "score": 49.19,
+            "rank": 28
+        },
+        {
+            "year": 2017,
+            "score": 48.81,
+            "rank": 28
+        },
+        {
+            "year": 2018,
+            "score": 48.68,
+            "rank": 28
+        },
+        {
+            "year": 2019,
+            "score": 47.85,
+            "rank": 29
+        },
+        {
+            "year": 2020,
+            "score": 45.6,
+            "rank": 30
+        },
+        {
+            "year": 2021,
+            "score": 45.4,
+            "rank": 30
+        },
+        {
+            "year": 2022,
+            "score": 44.6,
+            "rank": 29
+        },
+        {
+            "year": 2023,
+            "score": 45.9,
+            "rank": 29
+        },
+        {
+            "year": 2024,
+            "score": 44.9,
+            "rank": 28
+        }
+    ],
+    "EST": [
+        {
+            "year": 2011,
+            "score": 49.18,
+            "rank": 23
+        },
+        {
+            "year": 2012,
+            "score": 55.3,
+            "rank": 19
+        },
+        {
+            "year": 2013,
+            "score": 50.6,
+            "rank": 25
+        },
+        {
+            "year": 2014,
+            "score": 51.54,
+            "rank": 24
+        },
+        {
+            "year": 2015,
+            "score": 52.81,
+            "rank": 23
+        },
+        {
+            "year": 2016,
+            "score": 51.73,
+            "rank": 24
+        },
+        {
+            "year": 2017,
+            "score": 50.93,
+            "rank": 25
+        },
+        {
+            "year": 2018,
+            "score": 50.51,
+            "rank": 24
+        },
+        {
+            "year": 2019,
+            "score": 49.97,
+            "rank": 24
+        },
+        {
+            "year": 2020,
+            "score": 48.28,
+            "rank": 25
+        },
+        {
+            "year": 2021,
+            "score": 49.9,
+            "rank": 21
+        },
+        {
+            "year": 2022,
+            "score": 50.2,
+            "rank": 18
+        },
+        {
+            "year": 2023,
+            "score": 53.4,
+            "rank": 16
+        },
+        {
+            "year": 2024,
+            "score": 52.3,
+            "rank": 16
+        }
+    ],
+    "ETH": [
+        {
+            "year": 2011,
+            "score": 22.88,
+            "rank": 121
+        },
+        {
+            "year": 2012,
+            "score": 23.3,
+            "rank": 131
+        },
+        {
+            "year": 2013,
+            "score": 24.8,
+            "rank": 129
+        },
+        {
+            "year": 2014,
+            "score": 25.36,
+            "rank": 126
+        },
+        {
+            "year": 2015,
+            "score": 24.17,
+            "rank": 127
+        },
+        {
+            "year": 2016,
+            "score": 24.83,
+            "rank": 110
+        },
+        {
+            "year": 2017,
+            "score": 24.16,
+            "rank": 110
+        },
+        {
+            "year": 2019,
+            "score": 24.16,
+            "rank": 111
+        },
+        {
+            "year": 2020,
+            "score": 18.06,
+            "rank": 127
+        },
+        {
+            "year": 2021,
+            "score": 18.6,
+            "rank": 126
+        },
+        {
+            "year": 2022,
+            "score": 16.3,
+            "rank": 117
+        },
+        {
+            "year": 2023,
+            "score": 14.3,
+            "rank": 125
+        },
+        {
+            "year": 2024,
+            "score": 12.3,
+            "rank": 130
+        }
+    ],
+    "FIN": [
+        {
+            "year": 2011,
+            "score": 57.5,
+            "rank": 5
+        },
+        {
+            "year": 2012,
+            "score": 61.8,
+            "rank": 4
+        },
+        {
+            "year": 2013,
+            "score": 59.51,
+            "rank": 6
+        },
+        {
+            "year": 2014,
+            "score": 60.67,
+            "rank": 4
+        },
+        {
+            "year": 2015,
+            "score": 59.97,
+            "rank": 6
+        },
+        {
+            "year": 2016,
+            "score": 59.9,
+            "rank": 5
+        },
+        {
+            "year": 2017,
+            "score": 58.49,
+            "rank": 8
+        },
+        {
+            "year": 2018,
+            "score": 59.63,
+            "rank": 7
+        },
+        {
+            "year": 2019,
+            "score": 59.83,
+            "rank": 6
+        },
+        {
+            "year": 2020,
+            "score": 57.02,
+            "rank": 7
+        },
+        {
+            "year": 2021,
+            "score": 58.4,
+            "rank": 7
+        },
+        {
+            "year": 2022,
+            "score": 56.9,
+            "rank": 9
+        },
+        {
+            "year": 2023,
+            "score": 61.2,
+            "rank": 6
+        },
+        {
+            "year": 2024,
+            "score": 59.4,
+            "rank": 7
+        }
+    ],
+    "FJI": [
+        {
+            "year": 2012,
+            "score": 27.9,
+            "rank": 101
+        },
+        {
+            "year": 2013,
+            "score": 30.46,
+            "rank": 97
+        },
+        {
+            "year": 2014,
+            "score": 30.39,
+            "rank": 95
+        },
+        {
+            "year": 2015,
+            "score": 27.31,
+            "rank": 115
+        }
+    ],
+    "FRA": [
+        {
+            "year": 2011,
+            "score": 49.25,
+            "rank": 22
+        },
+        {
+            "year": 2012,
+            "score": 51.8,
+            "rank": 24
+        },
+        {
+            "year": 2013,
+            "score": 52.83,
+            "rank": 20
+        },
+        {
+            "year": 2014,
+            "score": 52.18,
+            "rank": 22
+        },
+        {
+            "year": 2015,
+            "score": 53.59,
+            "rank": 21
+        },
+        {
+            "year": 2016,
+            "score": 54.04,
+            "rank": 18
+        },
+        {
+            "year": 2017,
+            "score": 54.18,
+            "rank": 15
+        },
+        {
+            "year": 2018,
+            "score": 54.36,
+            "rank": 16
+        },
+        {
+            "year": 2019,
+            "score": 54.25,
+            "rank": 16
+        },
+        {
+            "year": 2020,
+            "score": 53.66,
+            "rank": 12
+        },
+        {
+            "year": 2021,
+            "score": 55.0,
+            "rank": 11
+        },
+        {
+            "year": 2022,
+            "score": 55.0,
+            "rank": 12
+        },
+        {
+            "year": 2023,
+            "score": 56.0,
+            "rank": 11
+        },
+        {
+            "year": 2024,
+            "score": 55.4,
+            "rank": 12
+        }
+    ],
+    "GAB": [
+        {
+            "year": 2012,
+            "score": 26.5,
+            "rank": 106
+        },
+        {
+            "year": 2013,
+            "score": 28.04,
+            "rank": 111
+        }
+    ],
+    "GBR": [
+        {
+            "year": 2011,
+            "score": 55.96,
+            "rank": 10
+        },
+        {
+            "year": 2012,
+            "score": 61.2,
+            "rank": 5
+        },
+        {
+            "year": 2013,
+            "score": 61.25,
+            "rank": 3
+        },
+        {
+            "year": 2014,
+            "score": 62.37,
+            "rank": 2
+        },
+        {
+            "year": 2015,
+            "score": 62.42,
+            "rank": 2
+        },
+        {
+            "year": 2016,
+            "score": 61.93,
+            "rank": 3
+        },
+        {
+            "year": 2017,
+            "score": 60.89,
+            "rank": 5
+        },
+        {
+            "year": 2018,
+            "score": 60.13,
+            "rank": 4
+        },
+        {
+            "year": 2019,
+            "score": 61.3,
+            "rank": 5
+        },
+        {
+            "year": 2020,
+            "score": 59.78,
+            "rank": 4
+        },
+        {
+            "year": 2021,
+            "score": 59.8,
+            "rank": 4
+        },
+        {
+            "year": 2022,
+            "score": 59.7,
+            "rank": 4
+        },
+        {
+            "year": 2023,
+            "score": 62.4,
+            "rank": 4
+        },
+        {
+            "year": 2024,
+            "score": 61.0,
+            "rank": 5
+        }
+    ],
+    "GEO": [
+        {
+            "year": 2011,
+            "score": 31.87,
+            "rank": 73
+        },
+        {
+            "year": 2012,
+            "score": 34.3,
+            "rank": 71
+        },
+        {
+            "year": 2013,
+            "score": 35.56,
+            "rank": 73
+        },
+        {
+            "year": 2014,
+            "score": 34.53,
+            "rank": 74
+        },
+        {
+            "year": 2015,
+            "score": 33.83,
+            "rank": 73
+        },
+        {
+            "year": 2016,
+            "score": 33.86,
+            "rank": 64
+        },
+        {
+            "year": 2017,
+            "score": 34.39,
+            "rank": 68
+        },
+        {
+            "year": 2018,
+            "score": 35.05,
+            "rank": 59
+        },
+        {
+            "year": 2019,
+            "score": 36.98,
+            "rank": 48
+        },
+        {
+            "year": 2020,
+            "score": 31.78,
+            "rank": 63
+        },
+        {
+            "year": 2021,
+            "score": 32.4,
+            "rank": 63
+        },
+        {
+            "year": 2022,
+            "score": 27.9,
+            "rank": 74
+        },
+        {
+            "year": 2023,
+            "score": 29.9,
+            "rank": 65
+        },
+        {
+            "year": 2024,
+            "score": 30.4,
+            "rank": 57
+        }
+    ],
+    "GHA": [
+        {
+            "year": 2011,
+            "score": 32.48,
+            "rank": 70
+        },
+        {
+            "year": 2012,
+            "score": 29.6,
+            "rank": 92
+        },
+        {
+            "year": 2013,
+            "score": 30.6,
+            "rank": 94
+        },
+        {
+            "year": 2014,
+            "score": 30.26,
+            "rank": 96
+        },
+        {
+            "year": 2015,
+            "score": 28.04,
+            "rank": 108
+        },
+        {
+            "year": 2016,
+            "score": 26.66,
+            "rank": 102
+        },
+        {
+            "year": 2018,
+            "score": 24.52,
+            "rank": 107
+        },
+        {
+            "year": 2019,
+            "score": 25.27,
+            "rank": 106
+        },
+        {
+            "year": 2020,
+            "score": 22.28,
+            "rank": 108
+        },
+        {
+            "year": 2021,
+            "score": 22.3,
+            "rank": 112
+        },
+        {
+            "year": 2022,
+            "score": 20.8,
+            "rank": 95
+        },
+        {
+            "year": 2023,
+            "score": 21.3,
+            "rank": 99
+        },
+        {
+            "year": 2024,
+            "score": 20.0,
+            "rank": 101
+        }
+    ],
+    "GIN": [
+        {
+            "year": 2013,
+            "score": 25.7,
+            "rank": 126
+        },
+        {
+            "year": 2014,
+            "score": 20.25,
+            "rank": 139
+        },
+        {
+            "year": 2015,
+            "score": 18.49,
+            "rank": 139
+        },
+        {
+            "year": 2016,
+            "score": 17.24,
+            "rank": 127
+        },
+        {
+            "year": 2017,
+            "score": 17.41,
+            "rank": 126
+        },
+        {
+            "year": 2018,
+            "score": 20.71,
+            "rank": 119
+        },
+        {
+            "year": 2019,
+            "score": 19.5,
+            "rank": 125
+        },
+        {
+            "year": 2020,
+            "score": 17.32,
+            "rank": 130
+        },
+        {
+            "year": 2021,
+            "score": 16.7,
+            "rank": 130
+        },
+        {
+            "year": 2022,
+            "score": 11.6,
+            "rank": 132
+        },
+        {
+            "year": 2023,
+            "score": 13.3,
+            "rank": 128
+        }
+    ],
+    "GMB": [
+        {
+            "year": 2012,
+            "score": 23.3,
+            "rank": 130
+        },
+        {
+            "year": 2013,
+            "score": 26.39,
+            "rank": 122
+        },
+        {
+            "year": 2014,
+            "score": 29.03,
+            "rank": 104
+        },
+        {
+            "year": 2015,
+            "score": 27.49,
+            "rank": 112
+        }
+    ],
+    "GRC": [
+        {
+            "year": 2011,
+            "score": 34.18,
+            "rank": 63
+        },
+        {
+            "year": 2012,
+            "score": 35.3,
+            "rank": 66
+        },
+        {
+            "year": 2013,
+            "score": 37.71,
+            "rank": 55
+        },
+        {
+            "year": 2014,
+            "score": 38.95,
+            "rank": 50
+        },
+        {
+            "year": 2015,
+            "score": 40.28,
+            "rank": 45
+        },
+        {
+            "year": 2016,
+            "score": 39.75,
+            "rank": 40
+        },
+        {
+            "year": 2017,
+            "score": 38.85,
+            "rank": 44
+        },
+        {
+            "year": 2018,
+            "score": 38.93,
+            "rank": 42
+        },
+        {
+            "year": 2019,
+            "score": 38.9,
+            "rank": 41
+        },
+        {
+            "year": 2020,
+            "score": 36.79,
+            "rank": 43
+        },
+        {
+            "year": 2021,
+            "score": 36.3,
+            "rank": 47
+        },
+        {
+            "year": 2022,
+            "score": 34.5,
+            "rank": 44
+        },
+        {
+            "year": 2023,
+            "score": 37.5,
+            "rank": 42
+        },
+        {
+            "year": 2024,
+            "score": 36.2,
+            "rank": 45
+        }
+    ],
+    "GTM": [
+        {
+            "year": 2011,
+            "score": 29.33,
+            "rank": 86
+        },
+        {
+            "year": 2012,
+            "score": 28.4,
+            "rank": 99
+        },
+        {
+            "year": 2013,
+            "score": 31.46,
+            "rank": 87
+        },
+        {
+            "year": 2014,
+            "score": 30.75,
+            "rank": 93
+        },
+        {
+            "year": 2015,
+            "score": 28.84,
+            "rank": 101
+        },
+        {
+            "year": 2016,
+            "score": 27.3,
+            "rank": 97
+        },
+        {
+            "year": 2017,
+            "score": 27.9,
+            "rank": 98
+        },
+        {
+            "year": 2018,
+            "score": 25.51,
+            "rank": 102
+        },
+        {
+            "year": 2019,
+            "score": 25.07,
+            "rank": 107
+        },
+        {
+            "year": 2020,
+            "score": 22.35,
+            "rank": 106
+        },
+        {
+            "year": 2021,
+            "score": 24.1,
+            "rank": 101
+        },
+        {
+            "year": 2022,
+            "score": 17.8,
+            "rank": 110
+        },
+        {
+            "year": 2023,
+            "score": 15.8,
+            "rank": 122
+        },
+        {
+            "year": 2024,
+            "score": 14.6,
+            "rank": 122
+        }
+    ],
+    "GUY": [
+        {
+            "year": 2011,
+            "score": 34.83,
+            "rank": 61
+        },
+        {
+            "year": 2012,
+            "score": 33.7,
+            "rank": 77
+        },
+        {
+            "year": 2013,
+            "score": 34.36,
+            "rank": 78
+        },
+        {
+            "year": 2014,
+            "score": 32.48,
+            "rank": 80
+        },
+        {
+            "year": 2015,
+            "score": 30.75,
+            "rank": 86
+        }
+    ],
+    "HKG": [
+        {
+            "year": 2011,
+            "score": 58.8,
+            "rank": 4
+        },
+        {
+            "year": 2012,
+            "score": 58.7,
+            "rank": 8
+        },
+        {
+            "year": 2013,
+            "score": 59.43,
+            "rank": 7
+        },
+        {
+            "year": 2014,
+            "score": 56.82,
+            "rank": 10
+        },
+        {
+            "year": 2015,
+            "score": 57.23,
+            "rank": 11
+        },
+        {
+            "year": 2016,
+            "score": 55.69,
+            "rank": 14
+        },
+        {
+            "year": 2017,
+            "score": 53.88,
+            "rank": 16
+        },
+        {
+            "year": 2018,
+            "score": 54.62,
+            "rank": 14
+        },
+        {
+            "year": 2019,
+            "score": 55.54,
+            "rank": 13
+        },
+        {
+            "year": 2020,
+            "score": 54.24,
+            "rank": 11
+        },
+        {
+            "year": 2021,
+            "score": 53.7,
+            "rank": 14
+        },
+        {
+            "year": 2022,
+            "score": 51.8,
+            "rank": 14
+        },
+        {
+            "year": 2023,
+            "score": 53.3,
+            "rank": 17
+        },
+        {
+            "year": 2024,
+            "score": 50.1,
+            "rank": 18
+        }
+    ],
+    "HND": [
+        {
+            "year": 2011,
+            "score": 27.81,
+            "rank": 98
+        },
+        {
+            "year": 2012,
+            "score": 26.3,
+            "rank": 111
+        },
+        {
+            "year": 2013,
+            "score": 28.8,
+            "rank": 107
+        },
+        {
+            "year": 2014,
+            "score": 26.73,
+            "rank": 118
+        },
+        {
+            "year": 2015,
+            "score": 27.48,
+            "rank": 113
+        },
+        {
+            "year": 2016,
+            "score": 26.94,
+            "rank": 101
+        },
+        {
+            "year": 2017,
+            "score": 26.36,
+            "rank": 104
+        },
+        {
+            "year": 2018,
+            "score": 24.95,
+            "rank": 105
+        },
+        {
+            "year": 2019,
+            "score": 25.48,
+            "rank": 104
+        },
+        {
+            "year": 2020,
+            "score": 22.95,
+            "rank": 103
+        },
+        {
+            "year": 2021,
+            "score": 22.8,
+            "rank": 108
+        },
+        {
+            "year": 2022,
+            "score": 17.3,
+            "rank": 113
+        },
+        {
+            "year": 2023,
+            "score": 16.7,
+            "rank": 116
+        },
+        {
+            "year": 2024,
+            "score": 16.7,
+            "rank": 114
+        }
+    ],
+    "HRV": [
+        {
+            "year": 2011,
+            "score": 37.98,
+            "rank": 44
+        },
+        {
+            "year": 2012,
+            "score": 40.7,
+            "rank": 42
+        },
+        {
+            "year": 2013,
+            "score": 41.95,
+            "rank": 37
+        },
+        {
+            "year": 2014,
+            "score": 40.75,
+            "rank": 42
+        },
+        {
+            "year": 2015,
+            "score": 41.7,
+            "rank": 40
+        },
+        {
+            "year": 2016,
+            "score": 38.29,
+            "rank": 47
+        },
+        {
+            "year": 2017,
+            "score": 39.8,
+            "rank": 41
+        },
+        {
+            "year": 2018,
+            "score": 40.73,
+            "rank": 41
+        },
+        {
+            "year": 2019,
+            "score": 37.82,
+            "rank": 44
+        },
+        {
+            "year": 2020,
+            "score": 37.27,
+            "rank": 41
+        },
+        {
+            "year": 2021,
+            "score": 37.3,
+            "rank": 42
+        },
+        {
+            "year": 2022,
+            "score": 35.6,
+            "rank": 42
+        },
+        {
+            "year": 2023,
+            "score": 37.1,
+            "rank": 44
+        },
+        {
+            "year": 2024,
+            "score": 36.3,
+            "rank": 43
+        }
+    ],
+    "HUN": [
+        {
+            "year": 2011,
+            "score": 48.12,
+            "rank": 25
+        },
+        {
+            "year": 2012,
+            "score": 46.5,
+            "rank": 31
+        },
+        {
+            "year": 2013,
+            "score": 46.93,
+            "rank": 31
+        },
+        {
+            "year": 2014,
+            "score": 44.61,
+            "rank": 35
+        },
+        {
+            "year": 2015,
+            "score": 43.0,
+            "rank": 35
+        },
+        {
+            "year": 2016,
+            "score": 44.71,
+            "rank": 33
+        },
+        {
+            "year": 2017,
+            "score": 41.74,
+            "rank": 39
+        },
+        {
+            "year": 2018,
+            "score": 44.94,
+            "rank": 33
+        },
+        {
+            "year": 2019,
+            "score": 44.51,
+            "rank": 33
+        },
+        {
+            "year": 2020,
+            "score": 41.53,
+            "rank": 35
+        },
+        {
+            "year": 2021,
+            "score": 42.7,
+            "rank": 34
+        },
+        {
+            "year": 2022,
+            "score": 39.8,
+            "rank": 34
+        },
+        {
+            "year": 2023,
+            "score": 41.3,
+            "rank": 35
+        },
+        {
+            "year": 2024,
+            "score": 39.6,
+            "rank": 36
+        }
+    ],
+    "IDN": [
+        {
+            "year": 2011,
+            "score": 27.78,
+            "rank": 99
+        },
+        {
+            "year": 2012,
+            "score": 28.1,
+            "rank": 100
+        },
+        {
+            "year": 2013,
+            "score": 31.95,
+            "rank": 85
+        },
+        {
+            "year": 2014,
+            "score": 31.81,
+            "rank": 87
+        },
+        {
+            "year": 2015,
+            "score": 29.79,
+            "rank": 97
+        },
+        {
+            "year": 2016,
+            "score": 29.07,
+            "rank": 88
+        },
+        {
+            "year": 2017,
+            "score": 30.1,
+            "rank": 87
+        },
+        {
+            "year": 2018,
+            "score": 29.8,
+            "rank": 85
+        },
+        {
+            "year": 2019,
+            "score": 29.72,
+            "rank": 85
+        },
+        {
+            "year": 2020,
+            "score": 26.49,
+            "rank": 85
+        },
+        {
+            "year": 2021,
+            "score": 27.1,
+            "rank": 87
+        },
+        {
+            "year": 2022,
+            "score": 27.9,
+            "rank": 75
+        },
+        {
+            "year": 2023,
+            "score": 30.3,
+            "rank": 61
+        },
+        {
+            "year": 2024,
+            "score": 30.6,
+            "rank": 54
+        }
+    ],
+    "IND": [
+        {
+            "year": 2011,
+            "score": 34.52,
+            "rank": 62
+        },
+        {
+            "year": 2012,
+            "score": 35.7,
+            "rank": 64
+        },
+        {
+            "year": 2013,
+            "score": 36.17,
+            "rank": 66
+        },
+        {
+            "year": 2014,
+            "score": 33.7,
+            "rank": 76
+        },
+        {
+            "year": 2015,
+            "score": 31.74,
+            "rank": 81
+        },
+        {
+            "year": 2016,
+            "score": 33.61,
+            "rank": 66
+        },
+        {
+            "year": 2017,
+            "score": 35.47,
+            "rank": 60
+        },
+        {
+            "year": 2018,
+            "score": 35.18,
+            "rank": 57
+        },
+        {
+            "year": 2019,
+            "score": 36.58,
+            "rank": 52
+        },
+        {
+            "year": 2020,
+            "score": 35.59,
+            "rank": 48
+        },
+        {
+            "year": 2021,
+            "score": 36.4,
+            "rank": 46
+        },
+        {
+            "year": 2022,
+            "score": 36.6,
+            "rank": 40
+        },
+        {
+            "year": 2023,
+            "score": 38.1,
+            "rank": 40
+        },
+        {
+            "year": 2024,
+            "score": 38.3,
+            "rank": 39
+        }
+    ],
+    "IRL": [
+        {
+            "year": 2011,
+            "score": 54.1,
+            "rank": 13
+        },
+        {
+            "year": 2012,
+            "score": 58.7,
+            "rank": 9
+        },
+        {
+            "year": 2013,
+            "score": 57.91,
+            "rank": 10
+        },
+        {
+            "year": 2014,
+            "score": 56.67,
+            "rank": 11
+        },
+        {
+            "year": 2015,
+            "score": 59.13,
+            "rank": 8
+        },
+        {
+            "year": 2016,
+            "score": 59.03,
+            "rank": 7
+        },
+        {
+            "year": 2017,
+            "score": 58.13,
+            "rank": 10
+        },
+        {
+            "year": 2018,
+            "score": 57.19,
+            "rank": 10
+        },
+        {
+            "year": 2019,
+            "score": 56.1,
+            "rank": 12
+        },
+        {
+            "year": 2020,
+            "score": 53.05,
+            "rank": 15
+        },
+        {
+            "year": 2021,
+            "score": 50.7,
+            "rank": 19
+        },
+        {
+            "year": 2022,
+            "score": 48.5,
+            "rank": 23
+        },
+        {
+            "year": 2023,
+            "score": 50.4,
+            "rank": 22
+        },
+        {
+            "year": 2024,
+            "score": 50.0,
+            "rank": 19
+        }
+    ],
+    "IRN": [
+        {
+            "year": 2011,
+            "score": 28.41,
+            "rank": 95
+        },
+        {
+            "year": 2012,
+            "score": 27.3,
+            "rank": 104
+        },
+        {
+            "year": 2013,
+            "score": 27.3,
+            "rank": 113
+        },
+        {
+            "year": 2014,
+            "score": 26.14,
+            "rank": 120
+        },
+        {
+            "year": 2015,
+            "score": 28.37,
+            "rank": 106
+        },
+        {
+            "year": 2016,
+            "score": 30.52,
+            "rank": 78
+        },
+        {
+            "year": 2017,
+            "score": 32.09,
+            "rank": 75
+        },
+        {
+            "year": 2018,
+            "score": 33.44,
+            "rank": 65
+        },
+        {
+            "year": 2019,
+            "score": 34.43,
+            "rank": 61
+        },
+        {
+            "year": 2020,
+            "score": 30.89,
+            "rank": 67
+        },
+        {
+            "year": 2021,
+            "score": 32.9,
+            "rank": 60
+        },
+        {
+            "year": 2022,
+            "score": 32.9,
+            "rank": 53
+        },
+        {
+            "year": 2023,
+            "score": 30.1,
+            "rank": 62
+        },
+        {
+            "year": 2024,
+            "score": 28.9,
+            "rank": 64
+        }
+    ],
+    "IRQ": [
+        {
+            "year": 2022,
+            "score": 11.9,
+            "rank": 131
+        }
+    ],
+    "ISL": [
+        {
+            "year": 2011,
+            "score": 55.1,
+            "rank": 11
+        },
+        {
+            "year": 2012,
+            "score": 55.7,
+            "rank": 18
+        },
+        {
+            "year": 2013,
+            "score": 56.4,
+            "rank": 13
+        },
+        {
+            "year": 2014,
+            "score": 54.05,
+            "rank": 19
+        },
+        {
+            "year": 2015,
+            "score": 57.02,
+            "rank": 13
+        },
+        {
+            "year": 2016,
+            "score": 55.99,
+            "rank": 13
+        },
+        {
+            "year": 2017,
+            "score": 55.76,
+            "rank": 13
+        },
+        {
+            "year": 2018,
+            "score": 51.24,
+            "rank": 23
+        },
+        {
+            "year": 2019,
+            "score": 51.53,
+            "rank": 20
+        },
+        {
+            "year": 2020,
+            "score": 49.23,
+            "rank": 21
+        },
+        {
+            "year": 2021,
+            "score": 51.8,
+            "rank": 17
+        },
+        {
+            "year": 2022,
+            "score": 49.5,
+            "rank": 20
+        },
+        {
+            "year": 2023,
+            "score": 50.7,
+            "rank": 20
+        },
+        {
+            "year": 2024,
+            "score": 48.5,
+            "rank": 22
+        }
+    ],
+    "ISR": [
+        {
+            "year": 2011,
+            "score": 54.03,
+            "rank": 14
+        },
+        {
+            "year": 2012,
+            "score": 56.0,
+            "rank": 17
+        },
+        {
+            "year": 2013,
+            "score": 55.98,
+            "rank": 14
+        },
+        {
+            "year": 2014,
+            "score": 55.46,
+            "rank": 15
+        },
+        {
+            "year": 2015,
+            "score": 53.54,
+            "rank": 22
+        },
+        {
+            "year": 2016,
+            "score": 52.28,
+            "rank": 21
+        },
+        {
+            "year": 2017,
+            "score": 53.88,
+            "rank": 17
+        },
+        {
+            "year": 2018,
+            "score": 56.79,
+            "rank": 11
+        },
+        {
+            "year": 2019,
+            "score": 57.43,
+            "rank": 10
+        },
+        {
+            "year": 2020,
+            "score": 53.55,
+            "rank": 13
+        },
+        {
+            "year": 2021,
+            "score": 53.4,
+            "rank": 15
+        },
+        {
+            "year": 2022,
+            "score": 50.2,
+            "rank": 16
+        },
+        {
+            "year": 2023,
+            "score": 54.3,
+            "rank": 14
+        },
+        {
+            "year": 2024,
+            "score": 52.7,
+            "rank": 15
+        }
+    ],
+    "ITA": [
+        {
+            "year": 2011,
+            "score": 40.69,
+            "rank": 35
+        },
+        {
+            "year": 2012,
+            "score": 44.5,
+            "rank": 36
+        },
+        {
+            "year": 2013,
+            "score": 47.85,
+            "rank": 29
+        },
+        {
+            "year": 2014,
+            "score": 45.65,
+            "rank": 31
+        },
+        {
+            "year": 2015,
+            "score": 46.4,
+            "rank": 31
+        },
+        {
+            "year": 2016,
+            "score": 47.17,
+            "rank": 29
+        },
+        {
+            "year": 2017,
+            "score": 46.96,
+            "rank": 29
+        },
+        {
+            "year": 2018,
+            "score": 46.32,
+            "rank": 31
+        },
+        {
+            "year": 2019,
+            "score": 46.3,
+            "rank": 30
+        },
+        {
+            "year": 2020,
+            "score": 45.74,
+            "rank": 28
+        },
+        {
+            "year": 2021,
+            "score": 45.7,
+            "rank": 29
+        },
+        {
+            "year": 2022,
+            "score": 46.1,
+            "rank": 28
+        },
+        {
+            "year": 2023,
+            "score": 46.6,
+            "rank": 26
+        },
+        {
+            "year": 2024,
+            "score": 45.3,
+            "rank": 26
+        }
+    ],
+    "JAM": [
+        {
+            "year": 2011,
+            "score": 28.88,
+            "rank": 92
+        },
+        {
+            "year": 2012,
+            "score": 30.2,
+            "rank": 91
+        },
+        {
+            "year": 2013,
+            "score": 32.89,
+            "rank": 82
+        },
+        {
+            "year": 2014,
+            "score": 32.41,
+            "rank": 82
+        },
+        {
+            "year": 2015,
+            "score": 29.95,
+            "rank": 96
+        },
+        {
+            "year": 2016,
+            "score": 28.97,
+            "rank": 89
+        },
+        {
+            "year": 2017,
+            "score": 30.36,
+            "rank": 84
+        },
+        {
+            "year": 2018,
+            "score": 30.39,
+            "rank": 81
+        },
+        {
+            "year": 2019,
+            "score": 30.8,
+            "rank": 81
+        },
+        {
+            "year": 2020,
+            "score": 29.1,
+            "rank": 72
+        },
+        {
+            "year": 2021,
+            "score": 29.6,
+            "rank": 74
+        },
+        {
+            "year": 2022,
+            "score": 27.7,
+            "rank": 76
+        },
+        {
+            "year": 2023,
+            "score": 27.1,
+            "rank": 78
+        },
+        {
+            "year": 2024,
+            "score": 25.7,
+            "rank": 79
+        }
+    ],
+    "JOR": [
+        {
+            "year": 2011,
+            "score": 38.43,
+            "rank": 41
+        },
+        {
+            "year": 2012,
+            "score": 37.1,
+            "rank": 56
+        },
+        {
+            "year": 2013,
+            "score": 37.3,
+            "rank": 61
+        },
+        {
+            "year": 2014,
+            "score": 36.21,
+            "rank": 64
+        },
+        {
+            "year": 2015,
+            "score": 33.78,
+            "rank": 75
+        },
+        {
+            "year": 2016,
+            "score": 30.04,
+            "rank": 82
+        },
+        {
+            "year": 2017,
+            "score": 30.52,
+            "rank": 83
+        },
+        {
+            "year": 2018,
+            "score": 30.77,
+            "rank": 79
+        },
+        {
+            "year": 2019,
+            "score": 29.61,
+            "rank": 86
+        },
+        {
+            "year": 2020,
+            "score": 27.79,
+            "rank": 81
+        },
+        {
+            "year": 2021,
+            "score": 28.3,
+            "rank": 81
+        },
+        {
+            "year": 2022,
+            "score": 27.4,
+            "rank": 78
+        },
+        {
+            "year": 2023,
+            "score": 28.2,
+            "rank": 71
+        },
+        {
+            "year": 2024,
+            "score": 27.5,
+            "rank": 73
+        }
+    ],
+    "JPN": [
+        {
+            "year": 2011,
+            "score": 50.32,
+            "rank": 20
+        },
+        {
+            "year": 2012,
+            "score": 51.7,
+            "rank": 25
+        },
+        {
+            "year": 2013,
+            "score": 52.23,
+            "rank": 22
+        },
+        {
+            "year": 2014,
+            "score": 52.41,
+            "rank": 21
+        },
+        {
+            "year": 2015,
+            "score": 53.97,
+            "rank": 19
+        },
+        {
+            "year": 2016,
+            "score": 54.52,
+            "rank": 16
+        },
+        {
+            "year": 2017,
+            "score": 54.72,
+            "rank": 14
+        },
+        {
+            "year": 2018,
+            "score": 54.95,
+            "rank": 13
+        },
+        {
+            "year": 2019,
+            "score": 54.68,
+            "rank": 15
+        },
+        {
+            "year": 2020,
+            "score": 52.7,
+            "rank": 16
+        },
+        {
+            "year": 2021,
+            "score": 54.5,
+            "rank": 13
+        },
+        {
+            "year": 2022,
+            "score": 53.6,
+            "rank": 13
+        },
+        {
+            "year": 2023,
+            "score": 54.6,
+            "rank": 13
+        },
+        {
+            "year": 2024,
+            "score": 54.1,
+            "rank": 13
+        }
+    ],
+    "KAZ": [
+        {
+            "year": 2011,
+            "score": 30.32,
+            "rank": 84
+        },
+        {
+            "year": 2012,
+            "score": 31.9,
+            "rank": 83
+        },
+        {
+            "year": 2013,
+            "score": 32.73,
+            "rank": 84
+        },
+        {
+            "year": 2014,
+            "score": 32.75,
+            "rank": 79
+        },
+        {
+            "year": 2015,
+            "score": 31.25,
+            "rank": 82
+        },
+        {
+            "year": 2016,
+            "score": 31.51,
+            "rank": 75
+        },
+        {
+            "year": 2017,
+            "score": 31.5,
+            "rank": 78
+        },
+        {
+            "year": 2018,
+            "score": 31.42,
+            "rank": 74
+        },
+        {
+            "year": 2019,
+            "score": 31.03,
+            "rank": 79
+        },
+        {
+            "year": 2020,
+            "score": 28.56,
+            "rank": 77
+        },
+        {
+            "year": 2021,
+            "score": 28.6,
+            "rank": 79
+        },
+        {
+            "year": 2022,
+            "score": 24.7,
+            "rank": 83
+        },
+        {
+            "year": 2023,
+            "score": 26.7,
+            "rank": 81
+        },
+        {
+            "year": 2024,
+            "score": 25.7,
+            "rank": 78
+        }
+    ],
+    "KEN": [
+        {
+            "year": 2011,
+            "score": 29.15,
+            "rank": 89
+        },
+        {
+            "year": 2012,
+            "score": 28.9,
+            "rank": 96
+        },
+        {
+            "year": 2013,
+            "score": 30.28,
+            "rank": 99
+        },
+        {
+            "year": 2014,
+            "score": 31.85,
+            "rank": 85
+        },
+        {
+            "year": 2015,
+            "score": 30.19,
+            "rank": 92
+        },
+        {
+            "year": 2016,
+            "score": 30.36,
+            "rank": 80
+        },
+        {
+            "year": 2017,
+            "score": 30.95,
+            "rank": 80
+        },
+        {
+            "year": 2018,
+            "score": 31.07,
+            "rank": 78
+        },
+        {
+            "year": 2019,
+            "score": 31.13,
+            "rank": 77
+        },
+        {
+            "year": 2020,
+            "score": 26.13,
+            "rank": 86
+        },
+        {
+            "year": 2021,
+            "score": 27.5,
+            "rank": 85
+        },
+        {
+            "year": 2022,
+            "score": 22.7,
+            "rank": 88
+        },
+        {
+            "year": 2023,
+            "score": 21.2,
+            "rank": 100
+        },
+        {
+            "year": 2024,
+            "score": 21.0,
+            "rank": 96
+        }
+    ],
+    "KGZ": [
+        {
+            "year": 2011,
+            "score": 29.79,
+            "rank": 85
+        },
+        {
+            "year": 2012,
+            "score": 26.4,
+            "rank": 109
+        },
+        {
+            "year": 2013,
+            "score": 26.98,
+            "rank": 117
+        },
+        {
+            "year": 2014,
+            "score": 27.75,
+            "rank": 112
+        },
+        {
+            "year": 2015,
+            "score": 27.96,
+            "rank": 109
+        },
+        {
+            "year": 2016,
+            "score": 26.62,
+            "rank": 103
+        },
+        {
+            "year": 2017,
+            "score": 28.01,
+            "rank": 95
+        },
+        {
+            "year": 2018,
+            "score": 27.56,
+            "rank": 94
+        },
+        {
+            "year": 2019,
+            "score": 28.38,
+            "rank": 90
+        },
+        {
+            "year": 2020,
+            "score": 24.51,
+            "rank": 94
+        },
+        {
+            "year": 2021,
+            "score": 24.5,
+            "rank": 98
+        },
+        {
+            "year": 2022,
+            "score": 21.1,
+            "rank": 94
+        },
+        {
+            "year": 2023,
+            "score": 20.2,
+            "rank": 106
+        },
+        {
+            "year": 2024,
+            "score": 20.4,
+            "rank": 99
+        }
+    ],
+    "KHM": [
+        {
+            "year": 2011,
+            "score": 25.46,
+            "rank": 111
+        },
+        {
+            "year": 2012,
+            "score": 23.4,
+            "rank": 129
+        },
+        {
+            "year": 2013,
+            "score": 28.07,
+            "rank": 110
+        },
+        {
+            "year": 2014,
+            "score": 28.66,
+            "rank": 106
+        },
+        {
+            "year": 2015,
+            "score": 30.35,
+            "rank": 91
+        },
+        {
+            "year": 2016,
+            "score": 27.94,
+            "rank": 95
+        },
+        {
+            "year": 2017,
+            "score": 27.05,
+            "rank": 101
+        },
+        {
+            "year": 2018,
+            "score": 26.69,
+            "rank": 98
+        },
+        {
+            "year": 2019,
+            "score": 26.59,
+            "rank": 98
+        },
+        {
+            "year": 2020,
+            "score": 21.46,
+            "rank": 110
+        },
+        {
+            "year": 2021,
+            "score": 22.8,
+            "rank": 109
+        },
+        {
+            "year": 2022,
+            "score": 20.5,
+            "rank": 97
+        },
+        {
+            "year": 2023,
+            "score": 20.8,
+            "rank": 101
+        },
+        {
+            "year": 2024,
+            "score": 19.9,
+            "rank": 103
+        }
+    ],
+    "KOR": [
+        {
+            "year": 2011,
+            "score": 53.68,
+            "rank": 16
+        },
+        {
+            "year": 2012,
+            "score": 53.9,
+            "rank": 21
+        },
+        {
+            "year": 2013,
+            "score": 53.31,
+            "rank": 18
+        },
+        {
+            "year": 2014,
+            "score": 55.27,
+            "rank": 16
+        },
+        {
+            "year": 2015,
+            "score": 56.26,
+            "rank": 14
+        },
+        {
+            "year": 2016,
+            "score": 57.15,
+            "rank": 11
+        },
+        {
+            "year": 2017,
+            "score": 57.7,
+            "rank": 11
+        },
+        {
+            "year": 2018,
+            "score": 56.63,
+            "rank": 12
+        },
+        {
+            "year": 2019,
+            "score": 56.55,
+            "rank": 11
+        },
+        {
+            "year": 2020,
+            "score": 56.11,
+            "rank": 10
+        },
+        {
+            "year": 2021,
+            "score": 59.3,
+            "rank": 5
+        },
+        {
+            "year": 2022,
+            "score": 57.8,
+            "rank": 6
+        },
+        {
+            "year": 2023,
+            "score": 58.6,
+            "rank": 10
+        },
+        {
+            "year": 2024,
+            "score": 60.9,
+            "rank": 6
+        }
+    ],
+    "KWT": [
+        {
+            "year": 2011,
+            "score": 36.64,
+            "rank": 52
+        },
+        {
+            "year": 2012,
+            "score": 37.2,
+            "rank": 55
+        },
+        {
+            "year": 2013,
+            "score": 40.02,
+            "rank": 50
+        },
+        {
+            "year": 2014,
+            "score": 35.19,
+            "rank": 69
+        },
+        {
+            "year": 2015,
+            "score": 33.2,
+            "rank": 77
+        },
+        {
+            "year": 2016,
+            "score": 33.61,
+            "rank": 67
+        },
+        {
+            "year": 2017,
+            "score": 36.1,
+            "rank": 56
+        },
+        {
+            "year": 2018,
+            "score": 34.43,
+            "rank": 60
+        },
+        {
+            "year": 2019,
+            "score": 34.55,
+            "rank": 60
+        },
+        {
+            "year": 2020,
+            "score": 28.4,
+            "rank": 78
+        },
+        {
+            "year": 2021,
+            "score": 29.9,
+            "rank": 72
+        },
+        {
+            "year": 2022,
+            "score": 29.2,
+            "rank": 62
+        },
+        {
+            "year": 2023,
+            "score": 29.9,
+            "rank": 64
+        },
+        {
+            "year": 2024,
+            "score": 28.1,
+            "rank": 71
+        }
+    ],
+    "LAO": [
+        {
+            "year": 2012,
+            "score": 20.2,
+            "rank": 138
+        },
+        {
+            "year": 2020,
+            "score": 20.65,
+            "rank": 113
+        },
+        {
+            "year": 2021,
+            "score": 20.2,
+            "rank": 117
+        },
+        {
+            "year": 2022,
+            "score": 17.4,
+            "rank": 112
+        },
+        {
+            "year": 2023,
+            "score": 18.3,
+            "rank": 110
+        },
+        {
+            "year": 2024,
+            "score": 17.8,
+            "rank": 111
+        }
+    ],
+    "LBN": [
+        {
+            "year": 2011,
+            "score": 37.11,
+            "rank": 49
+        },
+        {
+            "year": 2012,
+            "score": 36.2,
+            "rank": 61
+        },
+        {
+            "year": 2013,
+            "score": 35.47,
+            "rank": 75
+        },
+        {
+            "year": 2014,
+            "score": 33.6,
+            "rank": 77
+        },
+        {
+            "year": 2015,
+            "score": 33.82,
+            "rank": 74
+        },
+        {
+            "year": 2016,
+            "score": 32.7,
+            "rank": 70
+        },
+        {
+            "year": 2017,
+            "score": 30.64,
+            "rank": 81
+        },
+        {
+            "year": 2018,
+            "score": 28.22,
+            "rank": 90
+        },
+        {
+            "year": 2019,
+            "score": 28.54,
+            "rank": 88
+        },
+        {
+            "year": 2020,
+            "score": 26.02,
+            "rank": 87
+        },
+        {
+            "year": 2021,
+            "score": 25.1,
+            "rank": 92
+        },
+        {
+            "year": 2023,
+            "score": 23.2,
+            "rank": 92
+        },
+        {
+            "year": 2024,
+            "score": 21.5,
+            "rank": 94
+        }
+    ],
+    "LKA": [
+        {
+            "year": 2011,
+            "score": 30.36,
+            "rank": 82
+        },
+        {
+            "year": 2012,
+            "score": 29.1,
+            "rank": 94
+        },
+        {
+            "year": 2013,
+            "score": 30.45,
+            "rank": 98
+        },
+        {
+            "year": 2014,
+            "score": 28.98,
+            "rank": 105
+        },
+        {
+            "year": 2015,
+            "score": 30.79,
+            "rank": 85
+        },
+        {
+            "year": 2016,
+            "score": 28.92,
+            "rank": 91
+        },
+        {
+            "year": 2017,
+            "score": 29.85,
+            "rank": 90
+        },
+        {
+            "year": 2018,
+            "score": 28.66,
+            "rank": 88
+        },
+        {
+            "year": 2019,
+            "score": 28.45,
+            "rank": 89
+        },
+        {
+            "year": 2020,
+            "score": 23.78,
+            "rank": 101
+        },
+        {
+            "year": 2021,
+            "score": 25.1,
+            "rank": 95
+        },
+        {
+            "year": 2022,
+            "score": 24.2,
+            "rank": 85
+        },
+        {
+            "year": 2023,
+            "score": 23.3,
+            "rank": 90
+        },
+        {
+            "year": 2024,
+            "score": 22.6,
+            "rank": 89
+        }
+    ],
+    "LSO": [
+        {
+            "year": 2012,
+            "score": 25.7,
+            "rank": 116
+        },
+        {
+            "year": 2013,
+            "score": 26.29,
+            "rank": 124
+        },
+        {
+            "year": 2014,
+            "score": 27.01,
+            "rank": 117
+        },
+        {
+            "year": 2015,
+            "score": 26.97,
+            "rank": 118
+        }
+    ],
+    "LTU": [
+        {
+            "year": 2011,
+            "score": 38.49,
+            "rank": 40
+        },
+        {
+            "year": 2012,
+            "score": 44.0,
+            "rank": 38
+        },
+        {
+            "year": 2013,
+            "score": 41.39,
+            "rank": 40
+        },
+        {
+            "year": 2014,
+            "score": 41.0,
+            "rank": 39
+        },
+        {
+            "year": 2015,
+            "score": 42.26,
+            "rank": 38
+        },
+        {
+            "year": 2016,
+            "score": 41.76,
+            "rank": 36
+        },
+        {
+            "year": 2017,
+            "score": 41.17,
+            "rank": 40
+        },
+        {
+            "year": 2018,
+            "score": 41.19,
+            "rank": 40
+        },
+        {
+            "year": 2019,
+            "score": 41.46,
+            "rank": 38
+        },
+        {
+            "year": 2020,
+            "score": 39.18,
+            "rank": 40
+        },
+        {
+            "year": 2021,
+            "score": 39.9,
+            "rank": 39
+        },
+        {
+            "year": 2022,
+            "score": 37.3,
+            "rank": 39
+        },
+        {
+            "year": 2023,
+            "score": 42.0,
+            "rank": 34
+        },
+        {
+            "year": 2024,
+            "score": 40.1,
+            "rank": 35
+        }
+    ],
+    "LUX": [
+        {
+            "year": 2011,
+            "score": 52.65,
+            "rank": 17
+        },
+        {
+            "year": 2012,
+            "score": 57.7,
+            "rank": 11
+        },
+        {
+            "year": 2013,
+            "score": 56.57,
+            "rank": 12
+        },
+        {
+            "year": 2014,
+            "score": 56.86,
+            "rank": 9
+        },
+        {
+            "year": 2015,
+            "score": 59.02,
+            "rank": 9
+        },
+        {
+            "year": 2016,
+            "score": 57.11,
+            "rank": 12
+        },
+        {
+            "year": 2017,
+            "score": 56.4,
+            "rank": 12
+        },
+        {
+            "year": 2018,
+            "score": 54.53,
+            "rank": 15
+        },
+        {
+            "year": 2019,
+            "score": 53.47,
+            "rank": 18
+        },
+        {
+            "year": 2020,
+            "score": 50.84,
+            "rank": 18
+        },
+        {
+            "year": 2021,
+            "score": 49.0,
+            "rank": 23
+        },
+        {
+            "year": 2022,
+            "score": 49.8,
+            "rank": 19
+        },
+        {
+            "year": 2023,
+            "score": 50.6,
+            "rank": 21
+        },
+        {
+            "year": 2024,
+            "score": 49.1,
+            "rank": 20
+        }
+    ],
+    "LVA": [
+        {
+            "year": 2011,
+            "score": 39.8,
+            "rank": 36
+        },
+        {
+            "year": 2012,
+            "score": 47.0,
+            "rank": 30
+        },
+        {
+            "year": 2013,
+            "score": 45.24,
+            "rank": 33
+        },
+        {
+            "year": 2014,
+            "score": 44.81,
+            "rank": 34
+        },
+        {
+            "year": 2015,
+            "score": 45.51,
+            "rank": 33
+        },
+        {
+            "year": 2016,
+            "score": 44.33,
+            "rank": 34
+        },
+        {
+            "year": 2017,
+            "score": 44.61,
+            "rank": 33
+        },
+        {
+            "year": 2018,
+            "score": 43.18,
+            "rank": 34
+        },
+        {
+            "year": 2019,
+            "score": 43.23,
+            "rank": 34
+        },
+        {
+            "year": 2020,
+            "score": 41.11,
+            "rank": 36
+        },
+        {
+            "year": 2021,
+            "score": 40.0,
+            "rank": 38
+        },
+        {
+            "year": 2022,
+            "score": 36.5,
+            "rank": 41
+        },
+        {
+            "year": 2023,
+            "score": 39.7,
+            "rank": 37
+        },
+        {
+            "year": 2024,
+            "score": 36.4,
+            "rank": 42
+        }
+    ],
+    "MAR": [
+        {
+            "year": 2011,
+            "score": 28.73,
+            "rank": 94
+        },
+        {
+            "year": 2012,
+            "score": 30.7,
+            "rank": 88
+        },
+        {
+            "year": 2013,
+            "score": 30.89,
+            "rank": 92
+        },
+        {
+            "year": 2014,
+            "score": 32.24,
+            "rank": 84
+        },
+        {
+            "year": 2015,
+            "score": 33.19,
+            "rank": 78
+        },
+        {
+            "year": 2016,
+            "score": 32.26,
+            "rank": 72
+        },
+        {
+            "year": 2017,
+            "score": 32.72,
+            "rank": 72
+        },
+        {
+            "year": 2018,
+            "score": 31.09,
+            "rank": 76
+        },
+        {
+            "year": 2019,
+            "score": 31.63,
+            "rank": 74
+        },
+        {
+            "year": 2020,
+            "score": 28.97,
+            "rank": 75
+        },
+        {
+            "year": 2021,
+            "score": 29.3,
+            "rank": 77
+        },
+        {
+            "year": 2022,
+            "score": 28.8,
+            "rank": 67
+        },
+        {
+            "year": 2023,
+            "score": 28.4,
+            "rank": 70
+        },
+        {
+            "year": 2024,
+            "score": 28.8,
+            "rank": 66
+        }
+    ],
+    "MDA": [
+        {
+            "year": 2011,
+            "score": 38.66,
+            "rank": 39
+        },
+        {
+            "year": 2012,
+            "score": 39.2,
+            "rank": 50
+        },
+        {
+            "year": 2013,
+            "score": 40.94,
+            "rank": 45
+        },
+        {
+            "year": 2014,
+            "score": 40.74,
+            "rank": 43
+        },
+        {
+            "year": 2015,
+            "score": 40.53,
+            "rank": 44
+        },
+        {
+            "year": 2016,
+            "score": 38.39,
+            "rank": 46
+        },
+        {
+            "year": 2017,
+            "score": 36.84,
+            "rank": 54
+        },
+        {
+            "year": 2018,
+            "score": 37.63,
+            "rank": 48
+        },
+        {
+            "year": 2019,
+            "score": 35.52,
+            "rank": 58
+        },
+        {
+            "year": 2020,
+            "score": 32.98,
+            "rank": 59
+        },
+        {
+            "year": 2021,
+            "score": 32.3,
+            "rank": 64
+        },
+        {
+            "year": 2022,
+            "score": 31.1,
+            "rank": 56
+        },
+        {
+            "year": 2023,
+            "score": 30.3,
+            "rank": 60
+        },
+        {
+            "year": 2024,
+            "score": 28.7,
+            "rank": 68
+        }
+    ],
+    "MDG": [
+        {
+            "year": 2011,
+            "score": 25.41,
+            "rank": 113
+        },
+        {
+            "year": 2012,
+            "score": 24.2,
+            "rank": 126
+        },
+        {
+            "year": 2013,
+            "score": 22.95,
+            "rank": 140
+        },
+        {
+            "year": 2014,
+            "score": 25.5,
+            "rank": 124
+        },
+        {
+            "year": 2015,
+            "score": 24.42,
+            "rank": 125
+        },
+        {
+            "year": 2016,
+            "score": 24.79,
+            "rank": 111
+        },
+        {
+            "year": 2017,
+            "score": 24.15,
+            "rank": 111
+        },
+        {
+            "year": 2018,
+            "score": 24.75,
+            "rank": 106
+        },
+        {
+            "year": 2019,
+            "score": 22.38,
+            "rank": 121
+        },
+        {
+            "year": 2020,
+            "score": 20.4,
+            "rank": 115
+        },
+        {
+            "year": 2021,
+            "score": 22.5,
+            "rank": 110
+        },
+        {
+            "year": 2022,
+            "score": 18.6,
+            "rank": 106
+        },
+        {
+            "year": 2023,
+            "score": 19.1,
+            "rank": 107
+        },
+        {
+            "year": 2024,
+            "score": 17.9,
+            "rank": 110
+        }
+    ],
+    "MEX": [
+        {
+            "year": 2011,
+            "score": 30.45,
+            "rank": 81
+        },
+        {
+            "year": 2012,
+            "score": 32.9,
+            "rank": 79
+        },
+        {
+            "year": 2013,
+            "score": 36.82,
+            "rank": 63
+        },
+        {
+            "year": 2014,
+            "score": 36.02,
+            "rank": 66
+        },
+        {
+            "year": 2015,
+            "score": 38.03,
+            "rank": 57
+        },
+        {
+            "year": 2016,
+            "score": 34.56,
+            "rank": 61
+        },
+        {
+            "year": 2017,
+            "score": 35.79,
+            "rank": 58
+        },
+        {
+            "year": 2018,
+            "score": 35.34,
+            "rank": 56
+        },
+        {
+            "year": 2019,
+            "score": 36.06,
+            "rank": 56
+        },
+        {
+            "year": 2020,
+            "score": 33.6,
+            "rank": 55
+        },
+        {
+            "year": 2021,
+            "score": 34.5,
+            "rank": 55
+        },
+        {
+            "year": 2022,
+            "score": 31.0,
+            "rank": 58
+        },
+        {
+            "year": 2023,
+            "score": 31.0,
+            "rank": 58
+        },
+        {
+            "year": 2024,
+            "score": 30.4,
+            "rank": 56
+        }
+    ],
+    "MKD": [
+        {
+            "year": 2011,
+            "score": 33.47,
+            "rank": 67
+        },
+        {
+            "year": 2012,
+            "score": 36.2,
+            "rank": 62
+        },
+        {
+            "year": 2013,
+            "score": 38.18,
+            "rank": 51
+        },
+        {
+            "year": 2014,
+            "score": 36.93,
+            "rank": 60
+        },
+        {
+            "year": 2015,
+            "score": 38.03,
+            "rank": 56
+        },
+        {
+            "year": 2016,
+            "score": 35.4,
+            "rank": 58
+        },
+        {
+            "year": 2017,
+            "score": 35.43,
+            "rank": 61
+        },
+        {
+            "year": 2018,
+            "score": 29.91,
+            "rank": 84
+        },
+        {
+            "year": 2019,
+            "score": 35.29,
+            "rank": 59
+        },
+        {
+            "year": 2020,
+            "score": 33.43,
+            "rank": 57
+        },
+        {
+            "year": 2021,
+            "score": 34.1,
+            "rank": 59
+        },
+        {
+            "year": 2022,
+            "score": 28.8,
+            "rank": 66
+        },
+        {
+            "year": 2023,
+            "score": 33.0,
+            "rank": 54
+        },
+        {
+            "year": 2024,
+            "score": 29.9,
+            "rank": 58
+        }
+    ],
+    "MLI": [
+        {
+            "year": 2011,
+            "score": 26.35,
+            "rank": 107
+        },
+        {
+            "year": 2012,
+            "score": 25.4,
+            "rank": 119
+        },
+        {
+            "year": 2013,
+            "score": 28.84,
+            "rank": 106
+        },
+        {
+            "year": 2014,
+            "score": 26.18,
+            "rank": 119
+        },
+        {
+            "year": 2015,
+            "score": 28.37,
+            "rank": 105
+        },
+        {
+            "year": 2016,
+            "score": 24.77,
+            "rank": 112
+        },
+        {
+            "year": 2017,
+            "score": 22.48,
+            "rank": 118
+        },
+        {
+            "year": 2018,
+            "score": 23.32,
+            "rank": 112
+        },
+        {
+            "year": 2019,
+            "score": 24.03,
+            "rank": 112
+        },
+        {
+            "year": 2020,
+            "score": 19.15,
+            "rank": 123
+        },
+        {
+            "year": 2021,
+            "score": 19.5,
+            "rank": 124
+        },
+        {
+            "year": 2022,
+            "score": 14.2,
+            "rank": 126
+        },
+        {
+            "year": 2023,
+            "score": 12.9,
+            "rank": 129
+        },
+        {
+            "year": 2024,
+            "score": 11.8,
+            "rank": 131
+        }
+    ],
+    "MLT": [
+        {
+            "year": 2012,
+            "score": 56.1,
+            "rank": 16
+        },
+        {
+            "year": 2013,
+            "score": 51.79,
+            "rank": 24
+        },
+        {
+            "year": 2014,
+            "score": 50.44,
+            "rank": 25
+        },
+        {
+            "year": 2015,
+            "score": 50.48,
+            "rank": 26
+        },
+        {
+            "year": 2016,
+            "score": 50.44,
+            "rank": 26
+        },
+        {
+            "year": 2017,
+            "score": 50.6,
+            "rank": 26
+        },
+        {
+            "year": 2018,
+            "score": 50.29,
+            "rank": 26
+        },
+        {
+            "year": 2019,
+            "score": 49.01,
+            "rank": 27
+        },
+        {
+            "year": 2020,
+            "score": 46.39,
+            "rank": 27
+        },
+        {
+            "year": 2021,
+            "score": 47.1,
+            "rank": 27
+        },
+        {
+            "year": 2022,
+            "score": 49.2,
+            "rank": 21
+        },
+        {
+            "year": 2023,
+            "score": 49.1,
+            "rank": 25
+        },
+        {
+            "year": 2024,
+            "score": 44.8,
+            "rank": 29
+        }
+    ],
+    "MMR": [
+        {
+            "year": 2014,
+            "score": 19.64,
+            "rank": 140
+        },
+        {
+            "year": 2015,
+            "score": 20.27,
+            "rank": 138
+        },
+        {
+            "year": 2020,
+            "score": 17.74,
+            "rank": 129
+        },
+        {
+            "year": 2021,
+            "score": 18.4,
+            "rank": 127
+        },
+        {
+            "year": 2022,
+            "score": 16.4,
+            "rank": 116
+        },
+        {
+            "year": 2024,
+            "score": 13.8,
+            "rank": 125
+        }
+    ],
+    "MNE": [
+        {
+            "year": 2012,
+            "score": 40.1,
+            "rank": 45
+        },
+        {
+            "year": 2013,
+            "score": 40.95,
+            "rank": 44
+        },
+        {
+            "year": 2014,
+            "score": 37.01,
+            "rank": 59
+        },
+        {
+            "year": 2015,
+            "score": 41.23,
+            "rank": 41
+        },
+        {
+            "year": 2016,
+            "score": 37.36,
+            "rank": 51
+        },
+        {
+            "year": 2017,
+            "score": 38.07,
+            "rank": 48
+        },
+        {
+            "year": 2018,
+            "score": 36.49,
+            "rank": 52
+        },
+        {
+            "year": 2019,
+            "score": 37.7,
+            "rank": 45
+        },
+        {
+            "year": 2020,
+            "score": 35.39,
+            "rank": 49
+        },
+        {
+            "year": 2021,
+            "score": 35.4,
+            "rank": 50
+        },
+        {
+            "year": 2022,
+            "score": 30.3,
+            "rank": 60
+        },
+        {
+            "year": 2023,
+            "score": 27.8,
+            "rank": 75
+        },
+        {
+            "year": 2024,
+            "score": 28.9,
+            "rank": 65
+        }
+    ],
+    "MNG": [
+        {
+            "year": 2011,
+            "score": 33.4,
+            "rank": 68
+        },
+        {
+            "year": 2012,
+            "score": 35.0,
+            "rank": 68
+        },
+        {
+            "year": 2013,
+            "score": 35.77,
+            "rank": 72
+        },
+        {
+            "year": 2014,
+            "score": 37.52,
+            "rank": 56
+        },
+        {
+            "year": 2015,
+            "score": 36.41,
+            "rank": 66
+        },
+        {
+            "year": 2016,
+            "score": 35.74,
+            "rank": 55
+        },
+        {
+            "year": 2017,
+            "score": 37.13,
+            "rank": 52
+        },
+        {
+            "year": 2018,
+            "score": 35.9,
+            "rank": 53
+        },
+        {
+            "year": 2019,
+            "score": 36.29,
+            "rank": 53
+        },
+        {
+            "year": 2020,
+            "score": 33.41,
+            "rank": 58
+        },
+        {
+            "year": 2021,
+            "score": 34.2,
+            "rank": 58
+        },
+        {
+            "year": 2022,
+            "score": 28.0,
+            "rank": 71
+        },
+        {
+            "year": 2023,
+            "score": 28.8,
+            "rank": 68
+        },
+        {
+            "year": 2024,
+            "score": 28.7,
+            "rank": 67
+        }
+    ],
+    "MOZ": [
+        {
+            "year": 2012,
+            "score": 26.3,
+            "rank": 110
+        },
+        {
+            "year": 2013,
+            "score": 26.5,
+            "rank": 121
+        },
+        {
+            "year": 2014,
+            "score": 28.52,
+            "rank": 107
+        },
+        {
+            "year": 2015,
+            "score": 30.07,
+            "rank": 95
+        },
+        {
+            "year": 2016,
+            "score": 29.84,
+            "rank": 84
+        },
+        {
+            "year": 2017,
+            "score": 24.55,
+            "rank": 107
+        },
+        {
+            "year": 2018,
+            "score": 23.06,
+            "rank": 115
+        },
+        {
+            "year": 2019,
+            "score": 22.87,
+            "rank": 119
+        },
+        {
+            "year": 2020,
+            "score": 18.7,
+            "rank": 124
+        },
+        {
+            "year": 2021,
+            "score": 19.7,
+            "rank": 122
+        },
+        {
+            "year": 2022,
+            "score": 15.0,
+            "rank": 123
+        },
+        {
+            "year": 2023,
+            "score": 13.6,
+            "rank": 126
+        },
+        {
+            "year": 2024,
+            "score": 13.1,
+            "rank": 128
+        }
+    ],
+    "MRT": [
+        {
+            "year": 2022,
+            "score": 12.4,
+            "rank": 129
+        },
+        {
+            "year": 2023,
+            "score": 13.5,
+            "rank": 127
+        },
+        {
+            "year": 2024,
+            "score": 13.2,
+            "rank": 126
+        }
+    ],
+    "MUS": [
+        {
+            "year": 2011,
+            "score": 36.47,
+            "rank": 53
+        },
+        {
+            "year": 2012,
+            "score": 39.2,
+            "rank": 49
+        },
+        {
+            "year": 2013,
+            "score": 38.0,
+            "rank": 53
+        },
+        {
+            "year": 2014,
+            "score": 40.94,
+            "rank": 40
+        },
+        {
+            "year": 2015,
+            "score": 39.23,
+            "rank": 49
+        },
+        {
+            "year": 2016,
+            "score": 35.86,
+            "rank": 53
+        },
+        {
+            "year": 2017,
+            "score": 34.82,
+            "rank": 64
+        },
+        {
+            "year": 2018,
+            "score": 31.31,
+            "rank": 75
+        },
+        {
+            "year": 2019,
+            "score": 30.61,
+            "rank": 82
+        },
+        {
+            "year": 2020,
+            "score": 34.35,
+            "rank": 52
+        },
+        {
+            "year": 2021,
+            "score": 35.2,
+            "rank": 52
+        },
+        {
+            "year": 2022,
+            "score": 34.4,
+            "rank": 45
+        },
+        {
+            "year": 2023,
+            "score": 32.1,
+            "rank": 57
+        },
+        {
+            "year": 2024,
+            "score": 30.6,
+            "rank": 55
+        }
+    ],
+    "MWI": [
+        {
+            "year": 2011,
+            "score": 25.96,
+            "rank": 108
+        },
+        {
+            "year": 2012,
+            "score": 25.4,
+            "rank": 120
+        },
+        {
+            "year": 2013,
+            "score": 26.73,
+            "rank": 119
+        },
+        {
+            "year": 2014,
+            "score": 27.61,
+            "rank": 113
+        },
+        {
+            "year": 2015,
+            "score": 29.71,
+            "rank": 98
+        },
+        {
+            "year": 2016,
+            "score": 27.26,
+            "rank": 98
+        },
+        {
+            "year": 2017,
+            "score": 23.45,
+            "rank": 115
+        },
+        {
+            "year": 2018,
+            "score": 23.09,
+            "rank": 114
+        },
+        {
+            "year": 2019,
+            "score": 23.0,
+            "rank": 118
+        },
+        {
+            "year": 2020,
+            "score": 21.44,
+            "rank": 111
+        },
+        {
+            "year": 2021,
+            "score": 22.9,
+            "rank": 107
+        }
+    ],
+    "MYS": [
+        {
+            "year": 2011,
+            "score": 44.05,
+            "rank": 31
+        },
+        {
+            "year": 2012,
+            "score": 45.9,
+            "rank": 32
+        },
+        {
+            "year": 2013,
+            "score": 46.92,
+            "rank": 32
+        },
+        {
+            "year": 2014,
+            "score": 45.6,
+            "rank": 33
+        },
+        {
+            "year": 2015,
+            "score": 45.98,
+            "rank": 32
+        },
+        {
+            "year": 2016,
+            "score": 43.36,
+            "rank": 35
+        },
+        {
+            "year": 2017,
+            "score": 42.72,
+            "rank": 37
+        },
+        {
+            "year": 2018,
+            "score": 43.16,
+            "rank": 35
+        },
+        {
+            "year": 2019,
+            "score": 42.68,
+            "rank": 35
+        },
+        {
+            "year": 2020,
+            "score": 42.42,
+            "rank": 33
+        },
+        {
+            "year": 2021,
+            "score": 41.9,
+            "rank": 36
+        },
+        {
+            "year": 2022,
+            "score": 38.7,
+            "rank": 36
+        },
+        {
+            "year": 2023,
+            "score": 40.9,
+            "rank": 36
+        },
+        {
+            "year": 2024,
+            "score": 40.5,
+            "rank": 33
+        }
+    ],
+    "NAM": [
+        {
+            "year": 2011,
+            "score": 30.74,
+            "rank": 78
+        },
+        {
+            "year": 2012,
+            "score": 34.1,
+            "rank": 73
+        },
+        {
+            "year": 2013,
+            "score": 28.36,
+            "rank": 109
+        },
+        {
+            "year": 2014,
+            "score": 28.47,
+            "rank": 108
+        },
+        {
+            "year": 2015,
+            "score": 28.15,
+            "rank": 107
+        },
+        {
+            "year": 2016,
+            "score": 28.24,
+            "rank": 93
+        },
+        {
+            "year": 2017,
+            "score": 27.94,
+            "rank": 97
+        },
+        {
+            "year": 2018,
+            "score": 28.03,
+            "rank": 93
+        },
+        {
+            "year": 2019,
+            "score": 25.85,
+            "rank": 101
+        },
+        {
+            "year": 2020,
+            "score": 22.51,
+            "rank": 104
+        },
+        {
+            "year": 2021,
+            "score": 24.3,
+            "rank": 100
+        },
+        {
+            "year": 2022,
+            "score": 20.6,
+            "rank": 96
+        },
+        {
+            "year": 2023,
+            "score": 21.8,
+            "rank": 96
+        },
+        {
+            "year": 2024,
+            "score": 20.0,
+            "rank": 102
+        }
+    ],
+    "NER": [
+        {
+            "year": 2011,
+            "score": 21.41,
+            "rank": 122
+        },
+        {
+            "year": 2012,
+            "score": 18.6,
+            "rank": 140
+        },
+        {
+            "year": 2013,
+            "score": 24.03,
+            "rank": 131
+        },
+        {
+            "year": 2014,
+            "score": 24.27,
+            "rank": 131
+        },
+        {
+            "year": 2015,
+            "score": 21.22,
+            "rank": 134
+        },
+        {
+            "year": 2016,
+            "score": 20.44,
+            "rank": 124
+        },
+        {
+            "year": 2017,
+            "score": 21.18,
+            "rank": 123
+        },
+        {
+            "year": 2018,
+            "score": 20.57,
+            "rank": 122
+        },
+        {
+            "year": 2019,
+            "score": 18.13,
+            "rank": 127
+        },
+        {
+            "year": 2020,
+            "score": 17.82,
+            "rank": 128
+        },
+        {
+            "year": 2021,
+            "score": 17.8,
+            "rank": 129
+        },
+        {
+            "year": 2022,
+            "score": 14.6,
+            "rank": 125
+        },
+        {
+            "year": 2023,
+            "score": 12.4,
+            "rank": 131
+        },
+        {
+            "year": 2024,
+            "score": 11.2,
+            "rank": 132
+        }
+    ],
+    "NGA": [
+        {
+            "year": 2011,
+            "score": 28.15,
+            "rank": 96
+        },
+        {
+            "year": 2012,
+            "score": 24.6,
+            "rank": 123
+        },
+        {
+            "year": 2013,
+            "score": 26.57,
+            "rank": 120
+        },
+        {
+            "year": 2014,
+            "score": 27.79,
+            "rank": 110
+        },
+        {
+            "year": 2015,
+            "score": 23.72,
+            "rank": 128
+        },
+        {
+            "year": 2016,
+            "score": 23.15,
+            "rank": 114
+        },
+        {
+            "year": 2017,
+            "score": 21.92,
+            "rank": 119
+        },
+        {
+            "year": 2018,
+            "score": 22.37,
+            "rank": 118
+        },
+        {
+            "year": 2019,
+            "score": 23.93,
+            "rank": 114
+        },
+        {
+            "year": 2020,
+            "score": 20.13,
+            "rank": 117
+        },
+        {
+            "year": 2021,
+            "score": 20.1,
+            "rank": 118
+        },
+        {
+            "year": 2022,
+            "score": 16.9,
+            "rank": 114
+        },
+        {
+            "year": 2023,
+            "score": 18.4,
+            "rank": 109
+        },
+        {
+            "year": 2024,
+            "score": 17.1,
+            "rank": 113
+        }
+    ],
+    "NIC": [
+        {
+            "year": 2011,
+            "score": 25.78,
+            "rank": 110
+        },
+        {
+            "year": 2012,
+            "score": 26.7,
+            "rank": 105
+        },
+        {
+            "year": 2013,
+            "score": 27.1,
+            "rank": 115
+        },
+        {
+            "year": 2014,
+            "score": 25.47,
+            "rank": 125
+        },
+        {
+            "year": 2015,
+            "score": 23.47,
+            "rank": 130
+        },
+        {
+            "year": 2016,
+            "score": 23.06,
+            "rank": 116
+        },
+        {
+            "year": 2019,
+            "score": 22.55,
+            "rank": 120
+        },
+        {
+            "year": 2022,
+            "score": 18.1,
+            "rank": 108
+        },
+        {
+            "year": 2023,
+            "score": 16.9,
+            "rank": 115
+        },
+        {
+            "year": 2024,
+            "score": 14.0,
+            "rank": 124
+        }
+    ],
+    "NLD": [
+        {
+            "year": 2011,
+            "score": 56.31,
+            "rank": 9
+        },
+        {
+            "year": 2012,
+            "score": 60.5,
+            "rank": 6
+        },
+        {
+            "year": 2013,
+            "score": 61.14,
+            "rank": 4
+        },
+        {
+            "year": 2014,
+            "score": 60.59,
+            "rank": 5
+        },
+        {
+            "year": 2015,
+            "score": 61.58,
+            "rank": 4
+        },
+        {
+            "year": 2016,
+            "score": 58.29,
+            "rank": 9
+        },
+        {
+            "year": 2017,
+            "score": 63.36,
+            "rank": 3
+        },
+        {
+            "year": 2018,
+            "score": 63.32,
+            "rank": 2
+        },
+        {
+            "year": 2019,
+            "score": 61.44,
+            "rank": 4
+        },
+        {
+            "year": 2020,
+            "score": 58.76,
+            "rank": 5
+        },
+        {
+            "year": 2021,
+            "score": 58.6,
+            "rank": 6
+        },
+        {
+            "year": 2022,
+            "score": 58.0,
+            "rank": 5
+        },
+        {
+            "year": 2023,
+            "score": 60.4,
+            "rank": 7
+        },
+        {
+            "year": 2024,
+            "score": 58.8,
+            "rank": 8
+        }
+    ],
+    "NOR": [
+        {
+            "year": 2011,
+            "score": 52.6,
+            "rank": 18
+        },
+        {
+            "year": 2012,
+            "score": 56.4,
+            "rank": 14
+        },
+        {
+            "year": 2013,
+            "score": 55.64,
+            "rank": 16
+        },
+        {
+            "year": 2014,
+            "score": 55.59,
+            "rank": 14
+        },
+        {
+            "year": 2015,
+            "score": 53.8,
+            "rank": 20
+        },
+        {
+            "year": 2016,
+            "score": 52.01,
+            "rank": 22
+        },
+        {
+            "year": 2017,
+            "score": 53.14,
+            "rank": 19
+        },
+        {
+            "year": 2018,
+            "score": 52.63,
+            "rank": 19
+        },
+        {
+            "year": 2019,
+            "score": 51.87,
+            "rank": 19
+        },
+        {
+            "year": 2020,
+            "score": 49.29,
+            "rank": 20
+        },
+        {
+            "year": 2021,
+            "score": 50.4,
+            "rank": 20
+        },
+        {
+            "year": 2022,
+            "score": 48.8,
+            "rank": 22
+        },
+        {
+            "year": 2023,
+            "score": 50.7,
+            "rank": 19
+        },
+        {
+            "year": 2024,
+            "score": 49.1,
+            "rank": 21
+        }
+    ],
+    "NPL": [
+        {
+            "year": 2012,
+            "score": 26.0,
+            "rank": 113
+        },
+        {
+            "year": 2013,
+            "score": 24.97,
+            "rank": 128
+        },
+        {
+            "year": 2014,
+            "score": 23.79,
+            "rank": 136
+        },
+        {
+            "year": 2015,
+            "score": 21.08,
+            "rank": 135
+        },
+        {
+            "year": 2016,
+            "score": 23.13,
+            "rank": 115
+        },
+        {
+            "year": 2017,
+            "score": 24.2,
+            "rank": 109
+        },
+        {
+            "year": 2018,
+            "score": 24.17,
+            "rank": 108
+        },
+        {
+            "year": 2019,
+            "score": 24.85,
+            "rank": 109
+        },
+        {
+            "year": 2020,
+            "score": 24.35,
+            "rank": 95
+        },
+        {
+            "year": 2021,
+            "score": 22.5,
+            "rank": 111
+        },
+        {
+            "year": 2022,
+            "score": 17.6,
+            "rank": 111
+        },
+        {
+            "year": 2023,
+            "score": 18.8,
+            "rank": 108
+        },
+        {
+            "year": 2024,
+            "score": 18.1,
+            "rank": 109
+        }
+    ],
+    "NZL": [
+        {
+            "year": 2011,
+            "score": 53.79,
+            "rank": 15
+        },
+        {
+            "year": 2012,
+            "score": 56.6,
+            "rank": 13
+        },
+        {
+            "year": 2013,
+            "score": 54.46,
+            "rank": 17
+        },
+        {
+            "year": 2014,
+            "score": 54.52,
+            "rank": 18
+        },
+        {
+            "year": 2015,
+            "score": 55.92,
+            "rank": 15
+        },
+        {
+            "year": 2016,
+            "score": 54.23,
+            "rank": 17
+        },
+        {
+            "year": 2017,
+            "score": 52.87,
+            "rank": 21
+        },
+        {
+            "year": 2018,
+            "score": 51.29,
+            "rank": 22
+        },
+        {
+            "year": 2019,
+            "score": 49.55,
+            "rank": 25
+        },
+        {
+            "year": 2020,
+            "score": 47.01,
+            "rank": 26
+        },
+        {
+            "year": 2021,
+            "score": 47.5,
+            "rank": 26
+        },
+        {
+            "year": 2022,
+            "score": 47.2,
+            "rank": 24
+        },
+        {
+            "year": 2023,
+            "score": 46.6,
+            "rank": 27
+        },
+        {
+            "year": 2024,
+            "score": 45.9,
+            "rank": 25
+        }
+    ],
+    "OMN": [
+        {
+            "year": 2011,
+            "score": 35.51,
+            "rank": 57
+        },
+        {
+            "year": 2012,
+            "score": 39.5,
+            "rank": 47
+        },
+        {
+            "year": 2013,
+            "score": 33.25,
+            "rank": 80
+        },
+        {
+            "year": 2014,
+            "score": 33.87,
+            "rank": 75
+        },
+        {
+            "year": 2015,
+            "score": 35.0,
+            "rank": 69
+        },
+        {
+            "year": 2016,
+            "score": 32.21,
+            "rank": 73
+        },
+        {
+            "year": 2017,
+            "score": 31.83,
+            "rank": 77
+        },
+        {
+            "year": 2018,
+            "score": 32.8,
+            "rank": 69
+        },
+        {
+            "year": 2019,
+            "score": 30.98,
+            "rank": 80
+        },
+        {
+            "year": 2020,
+            "score": 26.5,
+            "rank": 84
+        },
+        {
+            "year": 2021,
+            "score": 29.4,
+            "rank": 76
+        },
+        {
+            "year": 2022,
+            "score": 26.8,
+            "rank": 79
+        },
+        {
+            "year": 2023,
+            "score": 28.4,
+            "rank": 69
+        },
+        {
+            "year": 2024,
+            "score": 27.1,
+            "rank": 74
+        }
+    ],
+    "PAK": [
+        {
+            "year": 2011,
+            "score": 26.75,
+            "rank": 105
+        },
+        {
+            "year": 2012,
+            "score": 23.1,
+            "rank": 133
+        },
+        {
+            "year": 2013,
+            "score": 23.33,
+            "rank": 137
+        },
+        {
+            "year": 2014,
+            "score": 24.0,
+            "rank": 134
+        },
+        {
+            "year": 2015,
+            "score": 23.07,
+            "rank": 131
+        },
+        {
+            "year": 2016,
+            "score": 22.63,
+            "rank": 119
+        },
+        {
+            "year": 2017,
+            "score": 23.8,
+            "rank": 113
+        },
+        {
+            "year": 2018,
+            "score": 24.12,
+            "rank": 109
+        },
+        {
+            "year": 2019,
+            "score": 25.36,
+            "rank": 105
+        },
+        {
+            "year": 2020,
+            "score": 22.31,
+            "rank": 107
+        },
+        {
+            "year": 2021,
+            "score": 24.4,
+            "rank": 99
+        },
+        {
+            "year": 2022,
+            "score": 23.0,
+            "rank": 87
+        },
+        {
+            "year": 2023,
+            "score": 23.3,
+            "rank": 88
+        },
+        {
+            "year": 2024,
+            "score": 22.0,
+            "rank": 91
+        }
+    ],
+    "PAN": [
+        {
+            "year": 2011,
+            "score": 30.77,
+            "rank": 77
+        },
+        {
+            "year": 2012,
+            "score": 30.9,
+            "rank": 87
+        },
+        {
+            "year": 2013,
+            "score": 31.82,
+            "rank": 86
+        },
+        {
+            "year": 2014,
+            "score": 38.3,
+            "rank": 52
+        },
+        {
+            "year": 2015,
+            "score": 36.8,
+            "rank": 62
+        },
+        {
+            "year": 2016,
+            "score": 33.49,
+            "rank": 68
+        },
+        {
+            "year": 2017,
+            "score": 34.98,
+            "rank": 63
+        },
+        {
+            "year": 2018,
+            "score": 32.37,
+            "rank": 70
+        },
+        {
+            "year": 2019,
+            "score": 31.51,
+            "rank": 75
+        },
+        {
+            "year": 2020,
+            "score": 29.04,
+            "rank": 73
+        },
+        {
+            "year": 2021,
+            "score": 28.0,
+            "rank": 83
+        },
+        {
+            "year": 2022,
+            "score": 25.7,
+            "rank": 81
+        },
+        {
+            "year": 2023,
+            "score": 25.3,
+            "rank": 84
+        },
+        {
+            "year": 2024,
+            "score": 24.7,
+            "rank": 82
+        }
+    ],
+    "PER": [
+        {
+            "year": 2011,
+            "score": 30.34,
+            "rank": 83
+        },
+        {
+            "year": 2012,
+            "score": 34.1,
+            "rank": 75
+        },
+        {
+            "year": 2013,
+            "score": 35.96,
+            "rank": 69
+        },
+        {
+            "year": 2014,
+            "score": 34.73,
+            "rank": 73
+        },
+        {
+            "year": 2015,
+            "score": 34.87,
+            "rank": 71
+        },
+        {
+            "year": 2016,
+            "score": 32.51,
+            "rank": 71
+        },
+        {
+            "year": 2017,
+            "score": 32.9,
+            "rank": 70
+        },
+        {
+            "year": 2018,
+            "score": 31.8,
+            "rank": 71
+        },
+        {
+            "year": 2019,
+            "score": 32.93,
+            "rank": 69
+        },
+        {
+            "year": 2020,
+            "score": 28.79,
+            "rank": 76
+        },
+        {
+            "year": 2021,
+            "score": 31.2,
+            "rank": 70
+        },
+        {
+            "year": 2022,
+            "score": 29.1,
+            "rank": 65
+        },
+        {
+            "year": 2023,
+            "score": 27.7,
+            "rank": 76
+        },
+        {
+            "year": 2024,
+            "score": 26.7,
+            "rank": 75
+        }
+    ],
+    "PHL": [
+        {
+            "year": 2011,
+            "score": 28.98,
+            "rank": 91
+        },
+        {
+            "year": 2012,
+            "score": 29.0,
+            "rank": 95
+        },
+        {
+            "year": 2013,
+            "score": 31.18,
+            "rank": 90
+        },
+        {
+            "year": 2014,
+            "score": 29.87,
+            "rank": 100
+        },
+        {
+            "year": 2015,
+            "score": 31.05,
+            "rank": 83
+        },
+        {
+            "year": 2016,
+            "score": 31.83,
+            "rank": 74
+        },
+        {
+            "year": 2017,
+            "score": 32.48,
+            "rank": 73
+        },
+        {
+            "year": 2018,
+            "score": 31.56,
+            "rank": 73
+        },
+        {
+            "year": 2019,
+            "score": 36.18,
+            "rank": 54
+        },
+        {
+            "year": 2020,
+            "score": 35.19,
+            "rank": 50
+        },
+        {
+            "year": 2021,
+            "score": 35.3,
+            "rank": 51
+        },
+        {
+            "year": 2022,
+            "score": 30.7,
+            "rank": 59
+        },
+        {
+            "year": 2023,
+            "score": 32.2,
+            "rank": 56
+        },
+        {
+            "year": 2024,
+            "score": 31.1,
+            "rank": 53
+        }
+    ],
+    "POL": [
+        {
+            "year": 2011,
+            "score": 38.02,
+            "rank": 43
+        },
+        {
+            "year": 2012,
+            "score": 40.4,
+            "rank": 44
+        },
+        {
+            "year": 2013,
+            "score": 40.12,
+            "rank": 49
+        },
+        {
+            "year": 2014,
+            "score": 40.64,
+            "rank": 45
+        },
+        {
+            "year": 2015,
+            "score": 40.16,
+            "rank": 46
+        },
+        {
+            "year": 2016,
+            "score": 40.22,
+            "rank": 39
+        },
+        {
+            "year": 2017,
+            "score": 41.99,
+            "rank": 38
+        },
+        {
+            "year": 2018,
+            "score": 41.67,
+            "rank": 39
+        },
+        {
+            "year": 2019,
+            "score": 41.31,
+            "rank": 39
+        },
+        {
+            "year": 2020,
+            "score": 39.95,
+            "rank": 38
+        },
+        {
+            "year": 2021,
+            "score": 39.9,
+            "rank": 40
+        },
+        {
+            "year": 2022,
+            "score": 37.5,
+            "rank": 38
+        },
+        {
+            "year": 2023,
+            "score": 37.7,
+            "rank": 41
+        },
+        {
+            "year": 2024,
+            "score": 37.0,
+            "rank": 40
+        }
+    ],
+    "PRT": [
+        {
+            "year": 2011,
+            "score": 42.4,
+            "rank": 33
+        },
+        {
+            "year": 2012,
+            "score": 45.3,
+            "rank": 35
+        },
+        {
+            "year": 2013,
+            "score": 45.1,
+            "rank": 34
+        },
+        {
+            "year": 2014,
+            "score": 45.63,
+            "rank": 32
+        },
+        {
+            "year": 2015,
+            "score": 46.61,
+            "rank": 30
+        },
+        {
+            "year": 2016,
+            "score": 46.45,
+            "rank": 30
+        },
+        {
+            "year": 2017,
+            "score": 46.05,
+            "rank": 31
+        },
+        {
+            "year": 2018,
+            "score": 45.71,
+            "rank": 32
+        },
+        {
+            "year": 2019,
+            "score": 44.65,
+            "rank": 32
+        },
+        {
+            "year": 2020,
+            "score": 43.51,
+            "rank": 31
+        },
+        {
+            "year": 2021,
+            "score": 44.2,
+            "rank": 31
+        },
+        {
+            "year": 2022,
+            "score": 42.1,
+            "rank": 32
+        },
+        {
+            "year": 2023,
+            "score": 44.9,
+            "rank": 30
+        },
+        {
+            "year": 2024,
+            "score": 43.7,
+            "rank": 31
+        }
+    ],
+    "PRY": [
+        {
+            "year": 2011,
+            "score": 31.17,
+            "rank": 74
+        },
+        {
+            "year": 2012,
+            "score": 31.6,
+            "rank": 84
+        },
+        {
+            "year": 2013,
+            "score": 30.28,
+            "rank": 100
+        },
+        {
+            "year": 2014,
+            "score": 31.59,
+            "rank": 89
+        },
+        {
+            "year": 2015,
+            "score": 30.69,
+            "rank": 88
+        },
+        {
+            "year": 2016,
+            "score": 28.2,
+            "rank": 94
+        },
+        {
+            "year": 2017,
+            "score": 30.3,
+            "rank": 85
+        },
+        {
+            "year": 2018,
+            "score": 28.66,
+            "rank": 89
+        },
+        {
+            "year": 2019,
+            "score": 27.09,
+            "rank": 95
+        },
+        {
+            "year": 2020,
+            "score": 24.14,
+            "rank": 97
+        },
+        {
+            "year": 2021,
+            "score": 26.4,
+            "rank": 88
+        },
+        {
+            "year": 2022,
+            "score": 22.7,
+            "rank": 91
+        },
+        {
+            "year": 2023,
+            "score": 21.4,
+            "rank": 98
+        },
+        {
+            "year": 2024,
+            "score": 21.9,
+            "rank": 93
+        }
+    ],
+    "QAT": [
+        {
+            "year": 2011,
+            "score": 47.74,
+            "rank": 26
+        },
+        {
+            "year": 2012,
+            "score": 45.5,
+            "rank": 33
+        },
+        {
+            "year": 2013,
+            "score": 41.0,
+            "rank": 43
+        },
+        {
+            "year": 2014,
+            "score": 40.31,
+            "rank": 47
+        },
+        {
+            "year": 2015,
+            "score": 39.01,
+            "rank": 50
+        },
+        {
+            "year": 2016,
+            "score": 37.47,
+            "rank": 50
+        },
+        {
+            "year": 2017,
+            "score": 37.9,
+            "rank": 49
+        },
+        {
+            "year": 2018,
+            "score": 36.56,
+            "rank": 51
+        },
+        {
+            "year": 2019,
+            "score": 33.86,
+            "rank": 65
+        },
+        {
+            "year": 2020,
+            "score": 30.81,
+            "rank": 70
+        },
+        {
+            "year": 2021,
+            "score": 31.5,
+            "rank": 68
+        },
+        {
+            "year": 2022,
+            "score": 32.9,
+            "rank": 52
+        },
+        {
+            "year": 2023,
+            "score": 33.4,
+            "rank": 50
+        },
+        {
+            "year": 2024,
+            "score": 32.9,
+            "rank": 49
+        }
+    ],
+    "ROU": [
+        {
+            "year": 2011,
+            "score": 36.83,
+            "rank": 50
+        },
+        {
+            "year": 2012,
+            "score": 37.8,
+            "rank": 52
+        },
+        {
+            "year": 2013,
+            "score": 40.33,
+            "rank": 48
+        },
+        {
+            "year": 2014,
+            "score": 38.08,
+            "rank": 55
+        },
+        {
+            "year": 2015,
+            "score": 38.2,
+            "rank": 54
+        },
+        {
+            "year": 2016,
+            "score": 37.9,
+            "rank": 48
+        },
+        {
+            "year": 2017,
+            "score": 39.16,
+            "rank": 42
+        },
+        {
+            "year": 2018,
+            "score": 37.59,
+            "rank": 49
+        },
+        {
+            "year": 2019,
+            "score": 36.76,
+            "rank": 50
+        },
+        {
+            "year": 2020,
+            "score": 35.95,
+            "rank": 46
+        },
+        {
+            "year": 2021,
+            "score": 35.6,
+            "rank": 48
+        },
+        {
+            "year": 2022,
+            "score": 34.1,
+            "rank": 49
+        },
+        {
+            "year": 2023,
+            "score": 34.7,
+            "rank": 47
+        },
+        {
+            "year": 2024,
+            "score": 33.4,
+            "rank": 48
+        }
+    ],
+    "RUS": [
+        {
+            "year": 2011,
+            "score": 35.85,
+            "rank": 56
+        },
+        {
+            "year": 2012,
+            "score": 37.9,
+            "rank": 51
+        },
+        {
+            "year": 2013,
+            "score": 37.2,
+            "rank": 62
+        },
+        {
+            "year": 2014,
+            "score": 39.14,
+            "rank": 49
+        },
+        {
+            "year": 2015,
+            "score": 39.32,
+            "rank": 48
+        },
+        {
+            "year": 2016,
+            "score": 38.5,
+            "rank": 43
+        },
+        {
+            "year": 2017,
+            "score": 38.76,
+            "rank": 45
+        },
+        {
+            "year": 2018,
+            "score": 37.9,
+            "rank": 46
+        },
+        {
+            "year": 2019,
+            "score": 37.62,
+            "rank": 46
+        },
+        {
+            "year": 2020,
+            "score": 35.63,
+            "rank": 47
+        },
+        {
+            "year": 2021,
+            "score": 36.6,
+            "rank": 45
+        },
+        {
+            "year": 2022,
+            "score": 34.3,
+            "rank": 47
+        },
+        {
+            "year": 2023,
+            "score": 33.3,
+            "rank": 51
+        },
+        {
+            "year": 2024,
+            "score": 29.7,
+            "rank": 59
+        }
+    ],
+    "RWA": [
+        {
+            "year": 2011,
+            "score": 25.86,
+            "rank": 109
+        },
+        {
+            "year": 2012,
+            "score": 27.9,
+            "rank": 102
+        },
+        {
+            "year": 2013,
+            "score": 27.64,
+            "rank": 112
+        },
+        {
+            "year": 2014,
+            "score": 29.31,
+            "rank": 102
+        },
+        {
+            "year": 2015,
+            "score": 30.09,
+            "rank": 94
+        },
+        {
+            "year": 2016,
+            "score": 29.96,
+            "rank": 83
+        },
+        {
+            "year": 2017,
+            "score": 27.36,
+            "rank": 99
+        },
+        {
+            "year": 2018,
+            "score": 26.54,
+            "rank": 99
+        },
+        {
+            "year": 2019,
+            "score": 27.38,
+            "rank": 94
+        },
+        {
+            "year": 2020,
+            "score": 25.06,
+            "rank": 91
+        },
+        {
+            "year": 2021,
+            "score": 23.9,
+            "rank": 102
+        },
+        {
+            "year": 2022,
+            "score": 18.7,
+            "rank": 105
+        },
+        {
+            "year": 2023,
+            "score": 20.6,
+            "rank": 103
+        },
+        {
+            "year": 2024,
+            "score": 19.7,
+            "rank": 104
+        }
+    ],
+    "SAU": [
+        {
+            "year": 2011,
+            "score": 36.44,
+            "rank": 54
+        },
+        {
+            "year": 2012,
+            "score": 39.3,
+            "rank": 48
+        },
+        {
+            "year": 2013,
+            "score": 41.21,
+            "rank": 42
+        },
+        {
+            "year": 2014,
+            "score": 41.61,
+            "rank": 38
+        },
+        {
+            "year": 2015,
+            "score": 40.65,
+            "rank": 43
+        },
+        {
+            "year": 2016,
+            "score": 37.75,
+            "rank": 49
+        },
+        {
+            "year": 2017,
+            "score": 36.17,
+            "rank": 55
+        },
+        {
+            "year": 2018,
+            "score": 34.27,
+            "rank": 61
+        },
+        {
+            "year": 2019,
+            "score": 32.93,
+            "rank": 68
+        },
+        {
+            "year": 2020,
+            "score": 30.94,
+            "rank": 66
+        },
+        {
+            "year": 2021,
+            "score": 31.8,
+            "rank": 66
+        },
+        {
+            "year": 2022,
+            "score": 33.4,
+            "rank": 51
+        },
+        {
+            "year": 2023,
+            "score": 34.5,
+            "rank": 48
+        },
+        {
+            "year": 2024,
+            "score": 33.9,
+            "rank": 47
+        }
+    ],
+    "SDN": [
+        {
+            "year": 2011,
+            "score": 20.36,
+            "rank": 124
+        },
+        {
+            "year": 2012,
+            "score": 16.8,
+            "rank": 141
+        },
+        {
+            "year": 2013,
+            "score": 19.81,
+            "rank": 141
+        },
+        {
+            "year": 2014,
+            "score": 12.66,
+            "rank": 143
+        },
+        {
+            "year": 2015,
+            "score": 14.95,
+            "rank": 141
+        }
+    ],
+    "SEN": [
+        {
+            "year": 2011,
+            "score": 27.56,
+            "rank": 100
+        },
+        {
+            "year": 2012,
+            "score": 28.8,
+            "rank": 97
+        },
+        {
+            "year": 2013,
+            "score": 30.48,
+            "rank": 96
+        },
+        {
+            "year": 2014,
+            "score": 30.06,
+            "rank": 98
+        },
+        {
+            "year": 2015,
+            "score": 30.95,
+            "rank": 84
+        },
+        {
+            "year": 2016,
+            "score": 26.14,
+            "rank": 106
+        },
+        {
+            "year": 2017,
+            "score": 27.11,
+            "rank": 100
+        },
+        {
+            "year": 2018,
+            "score": 26.53,
+            "rank": 100
+        },
+        {
+            "year": 2019,
+            "score": 26.83,
+            "rank": 96
+        },
+        {
+            "year": 2020,
+            "score": 23.75,
+            "rank": 102
+        },
+        {
+            "year": 2021,
+            "score": 23.3,
+            "rank": 105
+        },
+        {
+            "year": 2022,
+            "score": 19.9,
+            "rank": 99
+        },
+        {
+            "year": 2023,
+            "score": 22.5,
+            "rank": 93
+        },
+        {
+            "year": 2024,
+            "score": 22.0,
+            "rank": 92
+        }
+    ],
+    "SGP": [
+        {
+            "year": 2011,
+            "score": 59.64,
+            "rank": 3
+        },
+        {
+            "year": 2012,
+            "score": 63.5,
+            "rank": 3
+        },
+        {
+            "year": 2013,
+            "score": 59.41,
+            "rank": 8
+        },
+        {
+            "year": 2014,
+            "score": 59.24,
+            "rank": 7
+        },
+        {
+            "year": 2015,
+            "score": 59.36,
+            "rank": 7
+        },
+        {
+            "year": 2016,
+            "score": 59.16,
+            "rank": 6
+        },
+        {
+            "year": 2017,
+            "score": 58.69,
+            "rank": 7
+        },
+        {
+            "year": 2018,
+            "score": 59.83,
+            "rank": 5
+        },
+        {
+            "year": 2019,
+            "score": 58.37,
+            "rank": 8
+        },
+        {
+            "year": 2020,
+            "score": 56.61,
+            "rank": 8
+        },
+        {
+            "year": 2021,
+            "score": 57.8,
+            "rank": 8
+        },
+        {
+            "year": 2022,
+            "score": 57.3,
+            "rank": 7
+        },
+        {
+            "year": 2023,
+            "score": 61.5,
+            "rank": 5
+        },
+        {
+            "year": 2024,
+            "score": 61.2,
+            "rank": 4
+        }
+    ],
+    "SLV": [
+        {
+            "year": 2011,
+            "score": 29.14,
+            "rank": 90
+        },
+        {
+            "year": 2012,
+            "score": 29.5,
+            "rank": 93
+        },
+        {
+            "year": 2013,
+            "score": 31.32,
+            "rank": 88
+        },
+        {
+            "year": 2014,
+            "score": 29.08,
+            "rank": 103
+        },
+        {
+            "year": 2015,
+            "score": 29.31,
+            "rank": 99
+        },
+        {
+            "year": 2016,
+            "score": 26.56,
+            "rank": 104
+        },
+        {
+            "year": 2017,
+            "score": 26.68,
+            "rank": 103
+        },
+        {
+            "year": 2018,
+            "score": 25.11,
+            "rank": 104
+        },
+        {
+            "year": 2019,
+            "score": 24.89,
+            "rank": 108
+        },
+        {
+            "year": 2020,
+            "score": 24.85,
+            "rank": 92
+        },
+        {
+            "year": 2021,
+            "score": 25.0,
+            "rank": 96
+        },
+        {
+            "year": 2022,
+            "score": 19.9,
+            "rank": 100
+        },
+        {
+            "year": 2023,
+            "score": 21.8,
+            "rank": 95
+        },
+        {
+            "year": 2024,
+            "score": 20.6,
+            "rank": 98
+        }
+    ],
+    "SRB": [
+        {
+            "year": 2011,
+            "score": 36.31,
+            "rank": 55
+        },
+        {
+            "year": 2012,
+            "score": 40.0,
+            "rank": 46
+        },
+        {
+            "year": 2013,
+            "score": 37.87,
+            "rank": 54
+        },
+        {
+            "year": 2014,
+            "score": 35.89,
+            "rank": 67
+        },
+        {
+            "year": 2015,
+            "score": 36.47,
+            "rank": 63
+        },
+        {
+            "year": 2016,
+            "score": 33.75,
+            "rank": 65
+        },
+        {
+            "year": 2017,
+            "score": 35.34,
+            "rank": 62
+        },
+        {
+            "year": 2018,
+            "score": 35.46,
+            "rank": 55
+        },
+        {
+            "year": 2019,
+            "score": 35.71,
+            "rank": 57
+        },
+        {
+            "year": 2020,
+            "score": 34.33,
+            "rank": 53
+        },
+        {
+            "year": 2021,
+            "score": 35.0,
+            "rank": 54
+        },
+        {
+            "year": 2022,
+            "score": 32.3,
+            "rank": 55
+        },
+        {
+            "year": 2023,
+            "score": 33.1,
+            "rank": 53
+        },
+        {
+            "year": 2024,
+            "score": 32.3,
+            "rank": 52
+        }
+    ],
+    "SVK": [
+        {
+            "year": 2011,
+            "score": 39.05,
+            "rank": 37
+        },
+        {
+            "year": 2012,
+            "score": 41.4,
+            "rank": 40
+        },
+        {
+            "year": 2013,
+            "score": 42.25,
+            "rank": 36
+        },
+        {
+            "year": 2014,
+            "score": 41.89,
+            "rank": 37
+        },
+        {
+            "year": 2015,
+            "score": 42.99,
+            "rank": 36
+        },
+        {
+            "year": 2016,
+            "score": 41.7,
+            "rank": 37
+        },
+        {
+            "year": 2017,
+            "score": 43.43,
+            "rank": 34
+        },
+        {
+            "year": 2018,
+            "score": 42.88,
+            "rank": 36
+        },
+        {
+            "year": 2019,
+            "score": 42.05,
+            "rank": 37
+        },
+        {
+            "year": 2020,
+            "score": 39.7,
+            "rank": 39
+        },
+        {
+            "year": 2021,
+            "score": 40.2,
+            "rank": 37
+        },
+        {
+            "year": 2022,
+            "score": 34.3,
+            "rank": 46
+        },
+        {
+            "year": 2023,
+            "score": 36.2,
+            "rank": 45
+        },
+        {
+            "year": 2024,
+            "score": 34.3,
+            "rank": 46
+        }
+    ],
+    "SVN": [
+        {
+            "year": 2011,
+            "score": 45.07,
+            "rank": 30
+        },
+        {
+            "year": 2012,
+            "score": 49.9,
+            "rank": 26
+        },
+        {
+            "year": 2013,
+            "score": 47.32,
+            "rank": 30
+        },
+        {
+            "year": 2014,
+            "score": 47.23,
+            "rank": 28
+        },
+        {
+            "year": 2015,
+            "score": 48.49,
+            "rank": 28
+        },
+        {
+            "year": 2016,
+            "score": 45.97,
+            "rank": 32
+        },
+        {
+            "year": 2017,
+            "score": 45.8,
+            "rank": 32
+        },
+        {
+            "year": 2018,
+            "score": 46.87,
+            "rank": 30
+        },
+        {
+            "year": 2019,
+            "score": 45.25,
+            "rank": 31
+        },
+        {
+            "year": 2020,
+            "score": 42.91,
+            "rank": 32
+        },
+        {
+            "year": 2021,
+            "score": 44.1,
+            "rank": 32
+        },
+        {
+            "year": 2022,
+            "score": 40.6,
+            "rank": 33
+        },
+        {
+            "year": 2023,
+            "score": 42.2,
+            "rank": 33
+        },
+        {
+            "year": 2024,
+            "score": 40.2,
+            "rank": 34
+        }
+    ],
+    "SWE": [
+        {
+            "year": 2011,
+            "score": 62.12,
+            "rank": 2
+        },
+        {
+            "year": 2012,
+            "score": 64.8,
+            "rank": 2
+        },
+        {
+            "year": 2013,
+            "score": 61.36,
+            "rank": 2
+        },
+        {
+            "year": 2014,
+            "score": 62.29,
+            "rank": 3
+        },
+        {
+            "year": 2015,
+            "score": 62.4,
+            "rank": 3
+        },
+        {
+            "year": 2016,
+            "score": 63.57,
+            "rank": 2
+        },
+        {
+            "year": 2017,
+            "score": 63.82,
+            "rank": 2
+        },
+        {
+            "year": 2018,
+            "score": 63.08,
+            "rank": 3
+        },
+        {
+            "year": 2019,
+            "score": 63.65,
+            "rank": 2
+        },
+        {
+            "year": 2020,
+            "score": 62.47,
+            "rank": 2
+        },
+        {
+            "year": 2021,
+            "score": 63.1,
+            "rank": 2
+        },
+        {
+            "year": 2022,
+            "score": 61.6,
+            "rank": 3
+        },
+        {
+            "year": 2023,
+            "score": 64.2,
+            "rank": 2
+        },
+        {
+            "year": 2024,
+            "score": 64.5,
+            "rank": 2
+        }
+    ],
+    "SWZ": [
+        {
+            "year": 2011,
+            "score": 27.52,
+            "rank": 101
+        },
+        {
+            "year": 2012,
+            "score": 32.0,
+            "rank": 82
+        },
+        {
+            "year": 2013,
+            "score": 29.6,
+            "rank": 104
+        },
+        {
+            "year": 2014,
+            "score": 25.33,
+            "rank": 127
+        },
+        {
+            "year": 2015,
+            "score": 25.37,
+            "rank": 123
+        }
+    ],
+    "SYC": [
+        {
+            "year": 2014,
+            "score": 38.56,
+            "rank": 51
+        },
+        {
+            "year": 2015,
+            "score": 36.44,
+            "rank": 65
+        }
+    ],
+    "SYR": [
+        {
+            "year": 2011,
+            "score": 24.82,
+            "rank": 115
+        },
+        {
+            "year": 2012,
+            "score": 23.1,
+            "rank": 132
+        },
+        {
+            "year": 2013,
+            "score": 23.73,
+            "rank": 134
+        }
+    ],
+    "TGO": [
+        {
+            "year": 2012,
+            "score": 20.5,
+            "rank": 136
+        },
+        {
+            "year": 2013,
+            "score": 23.04,
+            "rank": 139
+        },
+        {
+            "year": 2014,
+            "score": 17.65,
+            "rank": 142
+        },
+        {
+            "year": 2015,
+            "score": 18.43,
+            "rank": 140
+        },
+        {
+            "year": 2016,
+            "score": 18.42,
+            "rank": 126
+        },
+        {
+            "year": 2017,
+            "score": 18.41,
+            "rank": 125
+        },
+        {
+            "year": 2018,
+            "score": 18.91,
+            "rank": 125
+        },
+        {
+            "year": 2019,
+            "score": 18.54,
+            "rank": 126
+        },
+        {
+            "year": 2020,
+            "score": 18.54,
+            "rank": 125
+        },
+        {
+            "year": 2021,
+            "score": 19.3,
+            "rank": 125
+        },
+        {
+            "year": 2022,
+            "score": 15.1,
+            "rank": 122
+        },
+        {
+            "year": 2023,
+            "score": 16.9,
+            "rank": 114
+        },
+        {
+            "year": 2024,
+            "score": 15.6,
+            "rank": 117
+        }
+    ],
+    "THA": [
+        {
+            "year": 2011,
+            "score": 37.63,
+            "rank": 48
+        },
+        {
+            "year": 2012,
+            "score": 36.9,
+            "rank": 57
+        },
+        {
+            "year": 2013,
+            "score": 37.63,
+            "rank": 57
+        },
+        {
+            "year": 2014,
+            "score": 39.28,
+            "rank": 48
+        },
+        {
+            "year": 2015,
+            "score": 38.1,
+            "rank": 55
+        },
+        {
+            "year": 2016,
+            "score": 36.51,
+            "rank": 52
+        },
+        {
+            "year": 2017,
+            "score": 37.57,
+            "rank": 51
+        },
+        {
+            "year": 2018,
+            "score": 38.0,
+            "rank": 44
+        },
+        {
+            "year": 2019,
+            "score": 38.63,
+            "rank": 43
+        },
+        {
+            "year": 2020,
+            "score": 36.68,
+            "rank": 44
+        },
+        {
+            "year": 2021,
+            "score": 37.2,
+            "rank": 43
+        },
+        {
+            "year": 2022,
+            "score": 34.9,
+            "rank": 43
+        },
+        {
+            "year": 2023,
+            "score": 37.1,
+            "rank": 43
+        },
+        {
+            "year": 2024,
+            "score": 36.9,
+            "rank": 41
+        }
+    ],
+    "TJK": [
+        {
+            "year": 2011,
+            "score": 24.5,
+            "rank": 116
+        },
+        {
+            "year": 2012,
+            "score": 26.4,
+            "rank": 108
+        },
+        {
+            "year": 2013,
+            "score": 30.0,
+            "rank": 101
+        },
+        {
+            "year": 2014,
+            "score": 23.73,
+            "rank": 137
+        },
+        {
+            "year": 2015,
+            "score": 27.46,
+            "rank": 114
+        },
+        {
+            "year": 2016,
+            "score": 29.62,
+            "rank": 86
+        },
+        {
+            "year": 2017,
+            "score": 28.16,
+            "rank": 94
+        },
+        {
+            "year": 2018,
+            "score": 26.51,
+            "rank": 101
+        },
+        {
+            "year": 2019,
+            "score": 26.43,
+            "rank": 100
+        },
+        {
+            "year": 2020,
+            "score": 22.23,
+            "rank": 109
+        },
+        {
+            "year": 2021,
+            "score": 23.9,
+            "rank": 103
+        },
+        {
+            "year": 2022,
+            "score": 18.8,
+            "rank": 104
+        },
+        {
+            "year": 2023,
+            "score": 18.3,
+            "rank": 111
+        },
+        {
+            "year": 2024,
+            "score": 18.6,
+            "rank": 107
+        }
+    ],
+    "TTO": [
+        {
+            "year": 2011,
+            "score": 32.17,
+            "rank": 72
+        },
+        {
+            "year": 2012,
+            "score": 32.5,
+            "rank": 81
+        },
+        {
+            "year": 2013,
+            "score": 33.17,
+            "rank": 81
+        },
+        {
+            "year": 2014,
+            "score": 31.56,
+            "rank": 90
+        },
+        {
+            "year": 2015,
+            "score": 32.18,
+            "rank": 80
+        },
+        {
+            "year": 2017,
+            "score": 29.75,
+            "rank": 91
+        },
+        {
+            "year": 2018,
+            "score": 26.95,
+            "rank": 96
+        },
+        {
+            "year": 2019,
+            "score": 28.08,
+            "rank": 91
+        },
+        {
+            "year": 2020,
+            "score": 24.14,
+            "rank": 98
+        },
+        {
+            "year": 2021,
+            "score": 24.8,
+            "rank": 97
+        },
+        {
+            "year": 2022,
+            "score": 19.8,
+            "rank": 101
+        },
+        {
+            "year": 2023,
+            "score": 20.7,
+            "rank": 102
+        },
+        {
+            "year": 2024,
+            "score": 18.4,
+            "rank": 108
+        }
+    ],
+    "TUN": [
+        {
+            "year": 2011,
+            "score": 33.89,
+            "rank": 66
+        },
+        {
+            "year": 2012,
+            "score": 36.5,
+            "rank": 59
+        },
+        {
+            "year": 2013,
+            "score": 35.82,
+            "rank": 70
+        },
+        {
+            "year": 2014,
+            "score": 32.94,
+            "rank": 78
+        },
+        {
+            "year": 2015,
+            "score": 33.48,
+            "rank": 76
+        },
+        {
+            "year": 2016,
+            "score": 30.55,
+            "rank": 77
+        },
+        {
+            "year": 2017,
+            "score": 32.3,
+            "rank": 74
+        },
+        {
+            "year": 2018,
+            "score": 32.86,
+            "rank": 66
+        },
+        {
+            "year": 2019,
+            "score": 32.83,
+            "rank": 70
+        },
+        {
+            "year": 2020,
+            "score": 31.21,
+            "rank": 65
+        },
+        {
+            "year": 2021,
+            "score": 30.7,
+            "rank": 71
+        },
+        {
+            "year": 2022,
+            "score": 27.9,
+            "rank": 73
+        },
+        {
+            "year": 2023,
+            "score": 26.9,
+            "rank": 79
+        },
+        {
+            "year": 2024,
+            "score": 25.4,
+            "rank": 81
+        }
+    ],
+    "TUR": [
+        {
+            "year": 2011,
+            "score": 34.11,
+            "rank": 65
+        },
+        {
+            "year": 2012,
+            "score": 34.1,
+            "rank": 74
+        },
+        {
+            "year": 2013,
+            "score": 36.03,
+            "rank": 68
+        },
+        {
+            "year": 2014,
+            "score": 38.2,
+            "rank": 54
+        },
+        {
+            "year": 2015,
+            "score": 37.81,
+            "rank": 58
+        },
+        {
+            "year": 2016,
+            "score": 39.03,
+            "rank": 42
+        },
+        {
+            "year": 2017,
+            "score": 38.9,
+            "rank": 43
+        },
+        {
+            "year": 2018,
+            "score": 37.42,
+            "rank": 50
+        },
+        {
+            "year": 2019,
+            "score": 36.95,
+            "rank": 49
+        },
+        {
+            "year": 2020,
+            "score": 34.9,
+            "rank": 51
+        },
+        {
+            "year": 2021,
+            "score": 38.3,
+            "rank": 41
+        },
+        {
+            "year": 2022,
+            "score": 38.1,
+            "rank": 37
+        },
+        {
+            "year": 2023,
+            "score": 38.6,
+            "rank": 39
+        },
+        {
+            "year": 2024,
+            "score": 39.0,
+            "rank": 37
+        }
+    ],
+    "TZA": [
+        {
+            "year": 2011,
+            "score": 26.88,
+            "rank": 104
+        },
+        {
+            "year": 2012,
+            "score": 23.9,
+            "rank": 128
+        },
+        {
+            "year": 2013,
+            "score": 26.35,
+            "rank": 123
+        },
+        {
+            "year": 2014,
+            "score": 25.6,
+            "rank": 123
+        },
+        {
+            "year": 2015,
+            "score": 27.0,
+            "rank": 117
+        },
+        {
+            "year": 2016,
+            "score": 26.35,
+            "rank": 105
+        },
+        {
+            "year": 2017,
+            "score": 27.97,
+            "rank": 96
+        },
+        {
+            "year": 2018,
+            "score": 28.07,
+            "rank": 92
+        },
+        {
+            "year": 2019,
+            "score": 26.63,
+            "rank": 97
+        },
+        {
+            "year": 2020,
+            "score": 25.57,
+            "rank": 88
+        },
+        {
+            "year": 2021,
+            "score": 25.6,
+            "rank": 90
+        },
+        {
+            "year": 2022,
+            "score": 19.4,
+            "rank": 103
+        },
+        {
+            "year": 2023,
+            "score": 17.4,
+            "rank": 113
+        },
+        {
+            "year": 2024,
+            "score": 15.3,
+            "rank": 120
+        }
+    ],
+    "UGA": [
+        {
+            "year": 2011,
+            "score": 26.37,
+            "rank": 106
+        },
+        {
+            "year": 2012,
+            "score": 25.6,
+            "rank": 117
+        },
+        {
+            "year": 2013,
+            "score": 31.21,
+            "rank": 89
+        },
+        {
+            "year": 2014,
+            "score": 31.14,
+            "rank": 91
+        },
+        {
+            "year": 2015,
+            "score": 27.65,
+            "rank": 111
+        },
+        {
+            "year": 2016,
+            "score": 27.14,
+            "rank": 99
+        },
+        {
+            "year": 2017,
+            "score": 26.97,
+            "rank": 102
+        },
+        {
+            "year": 2018,
+            "score": 25.32,
+            "rank": 103
+        },
+        {
+            "year": 2019,
+            "score": 25.6,
+            "rank": 102
+        },
+        {
+            "year": 2020,
+            "score": 20.54,
+            "rank": 114
+        },
+        {
+            "year": 2021,
+            "score": 20.0,
+            "rank": 119
+        },
+        {
+            "year": 2022,
+            "score": 15.7,
+            "rank": 119
+        },
+        {
+            "year": 2023,
+            "score": 16.0,
+            "rank": 121
+        },
+        {
+            "year": 2024,
+            "score": 14.9,
+            "rank": 121
+        }
+    ],
+    "UKR": [
+        {
+            "year": 2011,
+            "score": 35.01,
+            "rank": 60
+        },
+        {
+            "year": 2012,
+            "score": 36.1,
+            "rank": 63
+        },
+        {
+            "year": 2013,
+            "score": 35.78,
+            "rank": 71
+        },
+        {
+            "year": 2014,
+            "score": 36.26,
+            "rank": 63
+        },
+        {
+            "year": 2015,
+            "score": 36.45,
+            "rank": 64
+        },
+        {
+            "year": 2016,
+            "score": 35.72,
+            "rank": 56
+        },
+        {
+            "year": 2017,
+            "score": 37.62,
+            "rank": 50
+        },
+        {
+            "year": 2018,
+            "score": 38.52,
+            "rank": 43
+        },
+        {
+            "year": 2019,
+            "score": 37.4,
+            "rank": 47
+        },
+        {
+            "year": 2020,
+            "score": 36.32,
+            "rank": 45
+        },
+        {
+            "year": 2021,
+            "score": 35.6,
+            "rank": 49
+        },
+        {
+            "year": 2022,
+            "score": 31.0,
+            "rank": 57
+        },
+        {
+            "year": 2023,
+            "score": 32.8,
+            "rank": 55
+        },
+        {
+            "year": 2024,
+            "score": 29.5,
+            "rank": 60
+        }
+    ],
+    "URY": [
+        {
+            "year": 2011,
+            "score": 34.18,
+            "rank": 64
+        },
+        {
+            "year": 2012,
+            "score": 35.1,
+            "rank": 67
+        },
+        {
+            "year": 2013,
+            "score": 38.08,
+            "rank": 52
+        },
+        {
+            "year": 2014,
+            "score": 34.76,
+            "rank": 72
+        },
+        {
+            "year": 2015,
+            "score": 35.76,
+            "rank": 68
+        },
+        {
+            "year": 2016,
+            "score": 34.28,
+            "rank": 62
+        },
+        {
+            "year": 2017,
+            "score": 34.53,
+            "rank": 67
+        },
+        {
+            "year": 2018,
+            "score": 34.2,
+            "rank": 62
+        },
+        {
+            "year": 2019,
+            "score": 34.32,
+            "rank": 62
+        },
+        {
+            "year": 2020,
+            "score": 30.84,
+            "rank": 69
+        },
+        {
+            "year": 2021,
+            "score": 32.2,
+            "rank": 65
+        },
+        {
+            "year": 2022,
+            "score": 29.2,
+            "rank": 64
+        },
+        {
+            "year": 2023,
+            "score": 30.0,
+            "rank": 63
+        },
+        {
+            "year": 2024,
+            "score": 29.1,
+            "rank": 62
+        }
+    ],
+    "USA": [
+        {
+            "year": 2011,
+            "score": 56.57,
+            "rank": 7
+        },
+        {
+            "year": 2012,
+            "score": 57.7,
+            "rank": 10
+        },
+        {
+            "year": 2013,
+            "score": 60.31,
+            "rank": 5
+        },
+        {
+            "year": 2014,
+            "score": 60.09,
+            "rank": 6
+        },
+        {
+            "year": 2015,
+            "score": 60.1,
+            "rank": 5
+        },
+        {
+            "year": 2016,
+            "score": 61.4,
+            "rank": 4
+        },
+        {
+            "year": 2017,
+            "score": 61.4,
+            "rank": 4
+        },
+        {
+            "year": 2018,
+            "score": 59.81,
+            "rank": 6
+        },
+        {
+            "year": 2019,
+            "score": 61.73,
+            "rank": 3
+        },
+        {
+            "year": 2020,
+            "score": 60.56,
+            "rank": 3
+        },
+        {
+            "year": 2021,
+            "score": 61.3,
+            "rank": 3
+        },
+        {
+            "year": 2022,
+            "score": 61.8,
+            "rank": 2
+        },
+        {
+            "year": 2023,
+            "score": 63.5,
+            "rank": 3
+        },
+        {
+            "year": 2024,
+            "score": 62.4,
+            "rank": 3
+        }
+    ],
+    "UZB": [
+        {
+            "year": 2012,
+            "score": 23.9,
+            "rank": 127
+        },
+        {
+            "year": 2013,
+            "score": 23.87,
+            "rank": 133
+        },
+        {
+            "year": 2014,
+            "score": 25.2,
+            "rank": 128
+        },
+        {
+            "year": 2015,
+            "score": 25.89,
+            "rank": 122
+        },
+        {
+            "year": 2020,
+            "score": 24.54,
+            "rank": 93
+        },
+        {
+            "year": 2021,
+            "score": 27.4,
+            "rank": 86
+        },
+        {
+            "year": 2022,
+            "score": 25.3,
+            "rank": 82
+        },
+        {
+            "year": 2023,
+            "score": 26.2,
+            "rank": 82
+        },
+        {
+            "year": 2024,
+            "score": 24.7,
+            "rank": 83
+        }
+    ],
+    "VEN": [
+        {
+            "year": 2011,
+            "score": 27.41,
+            "rank": 102
+        },
+        {
+            "year": 2012,
+            "score": 25.4,
+            "rank": 118
+        },
+        {
+            "year": 2013,
+            "score": 27.25,
+            "rank": 114
+        },
+        {
+            "year": 2014,
+            "score": 25.66,
+            "rank": 122
+        },
+        {
+            "year": 2015,
+            "score": 22.77,
+            "rank": 132
+        },
+        {
+            "year": 2016,
+            "score": 22.32,
+            "rank": 120
+        }
+    ],
+    "VNM": [
+        {
+            "year": 2011,
+            "score": 36.71,
+            "rank": 51
+        },
+        {
+            "year": 2012,
+            "score": 33.9,
+            "rank": 76
+        },
+        {
+            "year": 2013,
+            "score": 34.82,
+            "rank": 76
+        },
+        {
+            "year": 2014,
+            "score": 34.89,
+            "rank": 71
+        },
+        {
+            "year": 2015,
+            "score": 38.35,
+            "rank": 52
+        },
+        {
+            "year": 2016,
+            "score": 35.37,
+            "rank": 59
+        },
+        {
+            "year": 2017,
+            "score": 38.34,
+            "rank": 47
+        },
+        {
+            "year": 2018,
+            "score": 37.94,
+            "rank": 45
+        },
+        {
+            "year": 2019,
+            "score": 38.84,
+            "rank": 42
+        },
+        {
+            "year": 2020,
+            "score": 37.12,
+            "rank": 42
+        },
+        {
+            "year": 2021,
+            "score": 37.0,
+            "rank": 44
+        },
+        {
+            "year": 2022,
+            "score": 34.2,
+            "rank": 48
+        },
+        {
+            "year": 2023,
+            "score": 36.0,
+            "rank": 46
+        },
+        {
+            "year": 2024,
+            "score": 36.2,
+            "rank": 44
+        }
+    ],
+    "YEM": [
+        {
+            "year": 2011,
+            "score": 20.72,
+            "rank": 123
+        },
+        {
+            "year": 2012,
+            "score": 19.2,
+            "rank": 139
+        },
+        {
+            "year": 2013,
+            "score": 19.32,
+            "rank": 142
+        },
+        {
+            "year": 2014,
+            "score": 19.53,
+            "rank": 141
+        },
+        {
+            "year": 2015,
+            "score": 20.8,
+            "rank": 137
+        },
+        {
+            "year": 2016,
+            "score": 14.55,
+            "rank": 128
+        },
+        {
+            "year": 2017,
+            "score": 15.64,
+            "rank": 127
+        },
+        {
+            "year": 2018,
+            "score": 15.04,
+            "rank": 126
+        },
+        {
+            "year": 2019,
+            "score": 14.49,
+            "rank": 129
+        },
+        {
+            "year": 2020,
+            "score": 13.56,
+            "rank": 131
+        },
+        {
+            "year": 2021,
+            "score": 15.4,
+            "rank": 131
+        },
+        {
+            "year": 2022,
+            "score": 13.8,
+            "rank": 128
+        }
+    ],
+    "ZAF": [
+        {
+            "year": 2011,
+            "score": 35.22,
+            "rank": 59
+        },
+        {
+            "year": 2012,
+            "score": 37.4,
+            "rank": 54
+        },
+        {
+            "year": 2013,
+            "score": 37.6,
+            "rank": 58
+        },
+        {
+            "year": 2014,
+            "score": 38.25,
+            "rank": 53
+        },
+        {
+            "year": 2015,
+            "score": 37.45,
+            "rank": 60
+        },
+        {
+            "year": 2016,
+            "score": 35.85,
+            "rank": 54
+        },
+        {
+            "year": 2017,
+            "score": 35.8,
+            "rank": 57
+        },
+        {
+            "year": 2018,
+            "score": 35.13,
+            "rank": 58
+        },
+        {
+            "year": 2019,
+            "score": 34.04,
+            "rank": 63
+        },
+        {
+            "year": 2020,
+            "score": 32.67,
+            "rank": 60
+        },
+        {
+            "year": 2021,
+            "score": 32.7,
+            "rank": 61
+        },
+        {
+            "year": 2022,
+            "score": 29.8,
+            "rank": 61
+        },
+        {
+            "year": 2023,
+            "score": 30.4,
+            "rank": 59
+        },
+        {
+            "year": 2024,
+            "score": 28.3,
+            "rank": 69
+        }
+    ],
+    "ZMB": [
+        {
+            "year": 2011,
+            "score": 25.27,
+            "rank": 114
+        },
+        {
+            "year": 2012,
+            "score": 26.4,
+            "rank": 107
+        },
+        {
+            "year": 2013,
+            "score": 26.79,
+            "rank": 118
+        },
+        {
+            "year": 2014,
+            "score": 25.76,
+            "rank": 121
+        },
+        {
+            "year": 2015,
+            "score": 24.64,
+            "rank": 124
+        },
+        {
+            "year": 2016,
+            "score": 19.92,
+            "rank": 125
+        },
+        {
+            "year": 2017,
+            "score": 20.83,
+            "rank": 124
+        },
+        {
+            "year": 2018,
+            "score": 20.66,
+            "rank": 120
+        },
+        {
+            "year": 2019,
+            "score": 20.36,
+            "rank": 124
+        },
+        {
+            "year": 2020,
+            "score": 19.39,
+            "rank": 122
+        },
+        {
+            "year": 2021,
+            "score": 19.8,
+            "rank": 121
+        },
+        {
+            "year": 2022,
+            "score": 15.8,
+            "rank": 118
+        },
+        {
+            "year": 2023,
+            "score": 16.4,
+            "rank": 118
+        },
+        {
+            "year": 2024,
+            "score": 15.7,
+            "rank": 116
+        }
+    ],
+    "ZWE": [
+        {
+            "year": 2011,
+            "score": 23.54,
+            "rank": 119
+        },
+        {
+            "year": 2012,
+            "score": 25.7,
+            "rank": 115
+        },
+        {
+            "year": 2013,
+            "score": 23.98,
+            "rank": 132
+        },
+        {
+            "year": 2014,
+            "score": 24.31,
+            "rank": 130
+        },
+        {
+            "year": 2015,
+            "score": 22.52,
+            "rank": 133
+        },
+        {
+            "year": 2017,
+            "score": 21.8,
+            "rank": 121
+        },
+        {
+            "year": 2018,
+            "score": 23.15,
+            "rank": 113
+        },
+        {
+            "year": 2019,
+            "score": 22.3,
+            "rank": 122
+        },
+        {
+            "year": 2020,
+            "score": 19.97,
+            "rank": 120
+        },
+        {
+            "year": 2021,
+            "score": 21.9,
+            "rank": 113
+        },
+        {
+            "year": 2022,
+            "score": 18.1,
+            "rank": 107
+        },
+        {
+            "year": 2023,
+            "score": 16.5,
+            "rank": 117
+        },
+        {
+            "year": 2024,
+            "score": 15.6,
+            "rank": 118
+        }
+    ]
+}

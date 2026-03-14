@@ -1,0 +1,747 @@
+{
+    "AGO": {
+        "name": "Angola",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ao.png"
+    },
+    "ALB": {
+        "name": "Albania",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/al.png"
+    },
+    "ARE": {
+        "name": "Emiratos Árabes Unidos",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/ae.png"
+    },
+    "ARG": {
+        "name": "Argentina",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/ar.png"
+    },
+    "ARM": {
+        "name": "Armenia",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/am.png"
+    },
+    "AUS": {
+        "name": "Australia",
+        "continent": "Oceanía",
+        "flag": "https://flagcdn.com/w40/au.png"
+    },
+    "AUT": {
+        "name": "Austria",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/at.png"
+    },
+    "AZE": {
+        "name": "Azerbaijan",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/az.png"
+    },
+    "BDI": {
+        "name": "Burundi",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/bi.png"
+    },
+    "BEL": {
+        "name": "Belgica",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/be.png"
+    },
+    "BEN": {
+        "name": "Benin",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/bj.png"
+    },
+    "BFA": {
+        "name": "Burkina Faso",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/bf.png"
+    },
+    "BGD": {
+        "name": "Bangladesh",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/bd.png"
+    },
+    "BGR": {
+        "name": "Bulgaria",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/bg.png"
+    },
+    "BHR": {
+        "name": "Bahrein",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/bh.png"
+    },
+    "BIH": {
+        "name": "Bosnia y Herzegovina",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/ba.png"
+    },
+    "BLR": {
+        "name": "Bielorrusia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/by.png"
+    },
+    "BLZ": {
+        "name": "Belice",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/bz.png"
+    },
+    "BOL": {
+        "name": "Bolivia",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/bo.png"
+    },
+    "BRA": {
+        "name": "Brasil",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/br.png"
+    },
+    "BRB": {
+        "name": "Barbados",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/bb.png"
+    },
+    "BRN": {
+        "name": "Brunéi",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/bn.png"
+    },
+    "BTN": {
+        "name": "Bután",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/bt.png"
+    },
+    "BWA": {
+        "name": "Botsuana",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/bw.png"
+    },
+    "CAN": {
+        "name": "Canada",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/ca.png"
+    },
+    "CHE": {
+        "name": "Suiza",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/ch.png"
+    },
+    "CHL": {
+        "name": "Chile",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/cl.png"
+    },
+    "CHN": {
+        "name": "China",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/cn.png"
+    },
+    "CIV": {
+        "name": "Costa de Marfil",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ci.png"
+    },
+    "CMR": {
+        "name": "Camerún",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/cm.png"
+    },
+    "COL": {
+        "name": "Colombia",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/co.png"
+    },
+    "CPV": {
+        "name": "Cabo Verde",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/cv.png"
+    },
+    "CRI": {
+        "name": "Costa Rica",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/cr.png"
+    },
+    "CYP": {
+        "name": "Chipre",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/cy.png"
+    },
+    "CZE": {
+        "name": "Republica Checa",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/cz.png"
+    },
+    "DEU": {
+        "name": "Alemania",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/de.png"
+    },
+    "DNK": {
+        "name": "Dinamarca",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/dk.png"
+    },
+    "DOM": {
+        "name": "Republica Dominicana",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/do.png"
+    },
+    "DZA": {
+        "name": "Algeria",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/dz.png"
+    },
+    "ECU": {
+        "name": "Ecuador",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/ec.png"
+    },
+    "EGY": {
+        "name": "Egipto",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/eg.png"
+    },
+    "ESP": {
+        "name": "España",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/es.png"
+    },
+    "EST": {
+        "name": "Estonia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/ee.png"
+    },
+    "ETH": {
+        "name": "Etiopía",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/et.png"
+    },
+    "FIN": {
+        "name": "Finlandia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/fi.png"
+    },
+    "FJI": {
+        "name": "Fiji",
+        "continent": "Oceanía",
+        "flag": "https://flagcdn.com/w40/fj.png"
+    },
+    "FRA": {
+        "name": "Francia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/fr.png"
+    },
+    "GAB": {
+        "name": "Gabon",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ga.png"
+    },
+    "GBR": {
+        "name": "Reino Unido",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/gb.png"
+    },
+    "GEO": {
+        "name": "Georgia",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/ge.png"
+    },
+    "GHA": {
+        "name": "Ghana",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/gh.png"
+    },
+    "GIN": {
+        "name": "Guinea",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/gn.png"
+    },
+    "GMB": {
+        "name": "Gambia",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/gm.png"
+    },
+    "GRC": {
+        "name": "Grecia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/gr.png"
+    },
+    "GTM": {
+        "name": "Guatemala",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/gt.png"
+    },
+    "GUY": {
+        "name": "Guyana",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/gy.png"
+    },
+    "HKG": {
+        "name": "Hong Kong",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/hk.png"
+    },
+    "HND": {
+        "name": "Honduras",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/hn.png"
+    },
+    "HRV": {
+        "name": "Croacia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/hr.png"
+    },
+    "HUN": {
+        "name": "Hungría",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/hu.png"
+    },
+    "IDN": {
+        "name": "Indonesia",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/id.png"
+    },
+    "IND": {
+        "name": "India",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/in.png"
+    },
+    "IRL": {
+        "name": "Irlanda",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/ie.png"
+    },
+    "IRN": {
+        "name": "Irán",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/ir.png"
+    },
+    "IRQ": {
+        "name": "Iraq",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/iq.png"
+    },
+    "ISL": {
+        "name": "Islandia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/is.png"
+    },
+    "ISR": {
+        "name": "Israel",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/il.png"
+    },
+    "ITA": {
+        "name": "Italia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/it.png"
+    },
+    "JAM": {
+        "name": "Jamaica",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/jm.png"
+    },
+    "JOR": {
+        "name": "Jordania",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/jo.png"
+    },
+    "JPN": {
+        "name": "Japón",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/jp.png"
+    },
+    "KAZ": {
+        "name": "Kazakhstan",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/kz.png"
+    },
+    "KEN": {
+        "name": "Kenia",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ke.png"
+    },
+    "KGZ": {
+        "name": "Kyrgyzstan",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/kg.png"
+    },
+    "KHM": {
+        "name": "Cambodia",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/kh.png"
+    },
+    "KOR": {
+        "name": "Corea del Sur",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/kr.png"
+    },
+    "KWT": {
+        "name": "Kuwait",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/kw.png"
+    },
+    "LAO": {
+        "name": "Laos",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/la.png"
+    },
+    "LBN": {
+        "name": "Líbano",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/lb.png"
+    },
+    "LKA": {
+        "name": "Sri Lanka",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/lk.png"
+    },
+    "LSO": {
+        "name": "Lesotho",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ls.png"
+    },
+    "LTU": {
+        "name": "Lituania",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/lt.png"
+    },
+    "LUX": {
+        "name": "Luxemburgo",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/lu.png"
+    },
+    "LVA": {
+        "name": "Letonia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/lv.png"
+    },
+    "MAR": {
+        "name": "Marruecos",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ma.png"
+    },
+    "MDA": {
+        "name": "Moldavia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/md.png"
+    },
+    "MDG": {
+        "name": "Madagascar",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/mg.png"
+    },
+    "MEX": {
+        "name": "Mexico",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/mx.png"
+    },
+    "MKD": {
+        "name": "Macedonia del Norte",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/mk.png"
+    },
+    "MLI": {
+        "name": "Mali",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ml.png"
+    },
+    "MLT": {
+        "name": "Malta",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/mt.png"
+    },
+    "MMR": {
+        "name": "Myanmar",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/mm.png"
+    },
+    "MNE": {
+        "name": "Montenegro",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/me.png"
+    },
+    "MNG": {
+        "name": "Mongolia",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/mn.png"
+    },
+    "MOZ": {
+        "name": "Mozambique",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/mz.png"
+    },
+    "MRT": {
+        "name": "Mauritania",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/mr.png"
+    },
+    "MUS": {
+        "name": "Mauritius",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/mu.png"
+    },
+    "MWI": {
+        "name": "Malawi",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/mw.png"
+    },
+    "MYS": {
+        "name": "Malasia",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/my.png"
+    },
+    "NAM": {
+        "name": "Namibia",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/na.png"
+    },
+    "NER": {
+        "name": "Niger",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ne.png"
+    },
+    "NGA": {
+        "name": "Nigeria",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ng.png"
+    },
+    "NIC": {
+        "name": "Nicaragua",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/ni.png"
+    },
+    "NLD": {
+        "name": "Países Bajos",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/nl.png"
+    },
+    "NOR": {
+        "name": "Noruega",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/no.png"
+    },
+    "NPL": {
+        "name": "Nepal",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/np.png"
+    },
+    "NZL": {
+        "name": "Nueva Zelanda",
+        "continent": "Oceanía",
+        "flag": "https://flagcdn.com/w40/nz.png"
+    },
+    "OMN": {
+        "name": "Oman",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/om.png"
+    },
+    "PAK": {
+        "name": "Pakistan",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/pk.png"
+    },
+    "PAN": {
+        "name": "Panama",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/pa.png"
+    },
+    "PER": {
+        "name": "Peru",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/pe.png"
+    },
+    "PHL": {
+        "name": "Philippines",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/ph.png"
+    },
+    "POL": {
+        "name": "Polonia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/pl.png"
+    },
+    "PRT": {
+        "name": "Portugal",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/pt.png"
+    },
+    "PRY": {
+        "name": "Paraguay",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/py.png"
+    },
+    "QAT": {
+        "name": "Qatar",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/qa.png"
+    },
+    "ROU": {
+        "name": "Rumania",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/ro.png"
+    },
+    "RUS": {
+        "name": "Rusia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/ru.png"
+    },
+    "RWA": {
+        "name": "Ruanda",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/rw.png"
+    },
+    "SAU": {
+        "name": "Arabia Saudi",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/sa.png"
+    },
+    "SDN": {
+        "name": "Sudan",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/sd.png"
+    },
+    "SEN": {
+        "name": "Senegal",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/sn.png"
+    },
+    "SGP": {
+        "name": "Singapur",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/sg.png"
+    },
+    "SLV": {
+        "name": "El Salvador",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/sv.png"
+    },
+    "SRB": {
+        "name": "Serbia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/rs.png"
+    },
+    "SVK": {
+        "name": "Eslovaquia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/sk.png"
+    },
+    "SVN": {
+        "name": "Eslovenia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/si.png"
+    },
+    "SWE": {
+        "name": "Suecia",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/se.png"
+    },
+    "SWZ": {
+        "name": "Esuatini",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/sz.png"
+    },
+    "SYC": {
+        "name": "Seychelles",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/sc.png"
+    },
+    "SYR": {
+        "name": "Syrian Arab Republic",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/sy.png"
+    },
+    "TGO": {
+        "name": "Togo",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/tg.png"
+    },
+    "THA": {
+        "name": "Thailand",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/th.png"
+    },
+    "TJK": {
+        "name": "Tajikistan",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/tj.png"
+    },
+    "TTO": {
+        "name": "Trinidad y Tobago",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/tt.png"
+    },
+    "TUN": {
+        "name": "Tunez",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/tn.png"
+    },
+    "TUR": {
+        "name": "Turquia",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/tr.png"
+    },
+    "TZA": {
+        "name": "Tanzania",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/tz.png"
+    },
+    "UGA": {
+        "name": "Uganda",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/ug.png"
+    },
+    "UKR": {
+        "name": "Ucrania",
+        "continent": "Europa",
+        "flag": "https://flagcdn.com/w40/ua.png"
+    },
+    "URY": {
+        "name": "Uruguay",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/uy.png"
+    },
+    "USA": {
+        "name": "Estados Unidos",
+        "continent": "América del Norte",
+        "flag": "https://flagcdn.com/w40/us.png"
+    },
+    "UZB": {
+        "name": "Uzbekistan",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/uz.png"
+    },
+    "VEN": {
+        "name": "Venezuela",
+        "continent": "América del Sur",
+        "flag": "https://flagcdn.com/w40/ve.png"
+    },
+    "VNM": {
+        "name": "Vietnam",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/vn.png"
+    },
+    "YEM": {
+        "name": "Yemen",
+        "continent": "Asia",
+        "flag": "https://flagcdn.com/w40/ye.png"
+    },
+    "ZAF": {
+        "name": "Sudáfrica",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/za.png"
+    },
+    "ZMB": {
+        "name": "Zambia",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/zm.png"
+    },
+    "ZWE": {
+        "name": "Zimbabue",
+        "continent": "África",
+        "flag": "https://flagcdn.com/w40/zw.png"
+    }
+}
