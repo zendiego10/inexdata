@@ -22,14 +22,14 @@ function getTrendConclusion(countryCode) {
     const difference = lastScore - firstScore;
 
     if (difference > 1) {
-        return `El país presenta una tendencia general creciente en su índice de innovación, con una variación de ${difference.toFixed(2)} puntos entre ${data[0].year} y ${data[data.length - 1].year}.`;
+        return `El país presenta una tendencia general <strong>creciente</strong> en su índice de innovación, con una variación de <strong>${difference.toFixed(2)} puntos</strong> entre <strong>${data[0].year}</strong> y <strong>${data[data.length - 1].year}</strong>.`;
     }
 
     if (difference < -1) {
-        return `El país presenta una tendencia general decreciente en su índice de innovación, con una variación de ${difference.toFixed(2)} puntos entre ${data[0].year} y ${data[data.length - 1].year}.`;
+        return `El país presenta una tendencia general <strong>decreciente</strong> en su índice de innovación, con una variación de <strong>${difference.toFixed(2)} puntos</strong> entre <strong>${data[0].year}</strong> y <strong>${data[data.length - 1].year}</strong>.`;
     }
 
-    return `El país presenta un comportamiento relativamente estable en su índice de innovación entre ${data[0].year} y ${data[data.length - 1].year}.`;
+    return `El país presenta un comportamiento relativamente <strong>estable</strong> en su índice de innovación entre <strong>${data[0].year}</strong> y <strong>${data[data.length - 1].year}</strong>.`;
 }
 
 // ----------------------------------------------------------
@@ -46,7 +46,7 @@ function getBestYearConclusion(countryCode) {
         current.score > best.score ? current : best
     );
 
-    return `El mejor desempeño del país se registró en ${bestRecord.year}, cuando alcanzó un índice de ${bestRecord.score.toFixed(2)} y un ranking de ${bestRecord.rank}.`;
+    return `El <strong>mejor desempeño</strong> del país se registró en <strong>${bestRecord.year}</strong>, cuando alcanzó un índice de <strong>${bestRecord.score.toFixed(2)}</strong> y un ranking de <strong>${bestRecord.rank}</strong>.`;
 }
 
 // ----------------------------------------------------------
@@ -63,7 +63,7 @@ function getWorstYearConclusion(countryCode) {
         current.score < worst.score ? current : worst
     );
 
-    return `El peor desempeño del país se observó en ${worstRecord.year}, con un índice de ${worstRecord.score.toFixed(2)} y un ranking de ${worstRecord.rank}.`;
+    return `El <strong>peor desempeño</strong> del país se observó en <strong>${worstRecord.year}</strong>, con un índice de <strong>${worstRecord.score.toFixed(2)}</strong> y un ranking de <strong>${worstRecord.rank}</strong>.`;
 }
 
 // ----------------------------------------------------------
@@ -82,14 +82,14 @@ function getRankingChangeConclusion(countryCode) {
     const difference = firstRank - lastRank;
 
     if (difference > 0) {
-        return `En el período analizado, el país mejoró ${difference} posiciones en el ranking global de innovación.`;
+        return `En el período analizado, el país <strong>mejoró ${difference} posiciones</strong> en el ranking global de innovación.`;
     }
 
     if (difference < 0) {
-        return `En el período analizado, el país empeoró ${Math.abs(difference)} posiciones en el ranking global de innovación.`;
+        return `En el período analizado, el país <strong>empeoró ${Math.abs(difference)} posiciones</strong> en el ranking global de innovación.`;
     }
 
-    return "En el período analizado, el país mantuvo la misma posición global en el ranking de innovación.";
+    return "En el período analizado, el país <strong>mantuvo la misma posición</strong> global en el ranking de innovación.";
 }
 
 // ----------------------------------------------------------
@@ -109,14 +109,14 @@ function getStabilityConclusion(countryCode) {
     const range = maxScore - minScore;
 
     if (range <= 3) {
-        return `El comportamiento del país ha sido bastante estable, ya que la variación total de su índice ha sido de ${range.toFixed(2)} puntos.`;
+        return `El comportamiento del país ha sido <strong>bastante estable</strong>, ya que la variación total de su índice ha sido de <strong>${range.toFixed(2)} puntos</strong>.`;
     }
 
     if (range <= 8) {
-        return `El país ha mostrado una variación moderada en su desempeño histórico, con una diferencia de ${range.toFixed(2)} puntos entre su mejor y peor índice.`;
+        return `El país ha mostrado una <strong>variación moderada</strong> en su desempeño histórico, con una diferencia de <strong>${range.toFixed(2)} puntos</strong> entre su mejor y peor índice.`;
     }
 
-    return `El país ha mostrado cambios importantes en su desempeño, con una diferencia de ${range.toFixed(2)} puntos entre su mejor y peor índice histórico.`;
+    return `El país ha mostrado <strong>cambios importantes</strong> en su desempeño, con una diferencia de <strong>${range.toFixed(2)} puntos</strong> entre su mejor y peor índice histórico.`;
 }
 
 // ----------------------------------------------------------
@@ -146,7 +146,7 @@ function renderCountryConclusions(countryCode) {
     conclusions.forEach((conclusion, index) => {
         const item = document.createElement("div");
         item.className = "conclusion-item";
-        item.textContent = `${index + 1}. ${conclusion}`;
+        item.innerHTML = `<strong>${index + 1}.</strong> ${conclusion}`;
         conclusionsContainer.appendChild(item);
     });
 }

@@ -121,7 +121,9 @@ function renderRankChart(countryCode) {
             scales: {
                 y: {
                     beginAtZero: false,
-                    reverse: true
+                    reverse: true,
+                    suggestedMin: Math.max(1, Math.min(...data) - 10),
+                    suggestedMax: Math.max(...data) + 4
                 }
             }
         }
@@ -238,8 +240,7 @@ function renderCountrySummaryStats(countryCode) {
 // de un país seleccionado
 // ----------------------------------------------------------
 function renderAllCountryCharts(countryCode) {
-    const compareSelectB = document.getElementById("compare-country-b");
-    const compareCountryCode = compareSelectB ? compareSelectB.value : "ARG";
+    const compareCountryCode = "COL"; // Siempre comparamos con Colombia en el explorador
 
     renderScoreChart(countryCode);
     renderRankChart(countryCode);

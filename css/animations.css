@@ -94,7 +94,7 @@ TARJETAS DE INFORMACIÓN
 ========================================================== */
 
 .info-card:hover .card-icon {
-    transform: scale(1.2);
+    transform: translateY(-4px) scale(1.05);
 }
 
 

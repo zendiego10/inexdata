@@ -122,4 +122,18 @@ document.addEventListener("DOMContentLoaded", async () => {
     mainSelect.addEventListener("change", () => {
         updateCountryView(mainSelect.value);
     });
+
+    // Lógica para toggle de menú móvil
+    const menuToggle = document.getElementById("menu-toggle");
+    const navLinksList = document.getElementById("nav-links");
+    if (menuToggle && navLinksList) {
+        menuToggle.addEventListener("click", () => {
+            navLinksList.classList.toggle("active");
+        });
+        navLinksList.querySelectorAll("a").forEach(link => {
+            link.addEventListener("click", () => {
+                navLinksList.classList.remove("active");
+            });
+        });
+    }
 });

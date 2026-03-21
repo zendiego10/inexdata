@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <!-- ===================================================== -->
     <!-- Configuración básica del documento -->
@@ -13,7 +14,8 @@
     <!-- ===================================================== -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
 
     <!-- ===================================================== -->
     <!-- Librería de iconos Font Awesome -->
@@ -31,6 +33,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/animations.css">
 </head>
+
 <body>
 
     <!-- ===================================================== -->
@@ -50,7 +53,6 @@
                 <li><a href="#innovacion">Innovación</a></li>
                 <li><a href="#explorar">Explorar</a></li>
                 <li><a href="#comparacion">Comparar</a></li>
-                <li><a href="#encuesta">Encuesta</a></li>
             </ul>
         </nav>
     </header>
@@ -147,11 +149,17 @@
 
             <div class="references card" data-aos="fade-up" data-aos-delay="250">
                 <h3>Referencias</h3>
-                <ul>
-                    <li><a href="https://www.wipo.int/" target="_blank" rel="noopener noreferrer">WIPO</a></li>
-                    <li><a href="https://www.globalinnovationindex.org/" target="_blank" rel="noopener noreferrer">Global Innovation Index</a></li>
-                    <li><a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer">Kaggle</a></li>
-                </ul>
+                <div class="apa-references" style="font-size: 0.9rem; color: var(--text-muted);">
+                    <p style="margin-bottom: 10px;">World Intellectual Property Organization (WIPO). (2024). <em>Global
+                            Innovation Index 2024</em>. Obtenido de <a href="https://www.wipo.int/" target="_blank"
+                            rel="noopener noreferrer">https://www.wipo.int/</a></p>
+                    <p style="margin-bottom: 10px;">Global Innovation Index. (2024). <em>Global Innovation Index
+                            Database</em>. Obtenido de <a href="https://www.globalinnovationindex.org/" target="_blank"
+                            rel="noopener noreferrer">https://www.globalinnovationindex.org/</a></p>
+                    <p>Kaggle. (2024). <em>Global Innovation Index Dataset</em>. Obtenido de <a
+                            href="https://www.kaggle.com/" target="_blank"
+                            rel="noopener noreferrer">https://www.kaggle.com/</a></p>
+                </div>
             </div>
         </div>
     </section>
@@ -297,7 +305,7 @@
             <!-- ============================================= -->
             <div class="card conclusions-card" data-aos="fade-up" data-aos-delay="200">
                 <div class="card-header">
-                    <h3>Conclusiones automáticas</h3>
+                    <h3>Conclusiones</h3>
                 </div>
 
                 <div class="conclusions-list" id="conclusions-list">
@@ -384,103 +392,6 @@
     </section>
 
     <!-- ===================================================== -->
-    <!-- SECCIÓN ENCUESTA -->
-    <!-- Evaluación simple del perfil innovador del usuario -->
-    <!-- ===================================================== -->
-    <section id="encuesta" class="section section-alt">
-        <div class="container">
-            <div class="section-header" data-aos="fade-up">
-                <span class="section-tag">Encuesta</span>
-                <h2>Perfil innovador</h2>
-                <p>
-                    Responde las siguientes preguntas y descubre tu nivel de afinidad con la innovación.
-                </p>
-            </div>
-
-            <form class="survey-form card" id="survey-form" data-aos="fade-up" data-aos-delay="100">
-                <!-- ========================================= -->
-                <!-- Pregunta 1 -->
-                <!-- ========================================= -->
-                <div class="question-block">
-                    <p>1. ¿Te gusta proponer nuevas ideas para mejorar algo?</p>
-                    <div class="scale-options">
-                        <label><input type="radio" name="q1" value="1"> 1</label>
-                        <label><input type="radio" name="q1" value="2"> 2</label>
-                        <label><input type="radio" name="q1" value="3"> 3</label>
-                        <label><input type="radio" name="q1" value="4"> 4</label>
-                        <label><input type="radio" name="q1" value="5"> 5</label>
-                    </div>
-                </div>
-
-                <!-- ========================================= -->
-                <!-- Pregunta 2 -->
-                <!-- ========================================= -->
-                <div class="question-block">
-                    <p>2. ¿Buscas soluciones creativas cuando aparece un problema?</p>
-                    <div class="scale-options">
-                        <label><input type="radio" name="q2" value="1"> 1</label>
-                        <label><input type="radio" name="q2" value="2"> 2</label>
-                        <label><input type="radio" name="q2" value="3"> 3</label>
-                        <label><input type="radio" name="q2" value="4"> 4</label>
-                        <label><input type="radio" name="q2" value="5"> 5</label>
-                    </div>
-                </div>
-
-                <!-- ========================================= -->
-                <!-- Pregunta 3 -->
-                <!-- ========================================= -->
-                <div class="question-block">
-                    <p>3. ¿Te adaptas fácilmente a cambios o nuevas formas de trabajar?</p>
-                    <div class="scale-options">
-                        <label><input type="radio" name="q3" value="1"> 1</label>
-                        <label><input type="radio" name="q3" value="2"> 2</label>
-                        <label><input type="radio" name="q3" value="3"> 3</label>
-                        <label><input type="radio" name="q3" value="4"> 4</label>
-                        <label><input type="radio" name="q3" value="5"> 5</label>
-                    </div>
-                </div>
-
-                <!-- ========================================= -->
-                <!-- Pregunta 4 -->
-                <!-- ========================================= -->
-                <div class="question-block">
-                    <p>4. ¿Te interesa desarrollar proyectos propios o emprender?</p>
-                    <div class="scale-options">
-                        <label><input type="radio" name="q4" value="1"> 1</label>
-                        <label><input type="radio" name="q4" value="2"> 2</label>
-                        <label><input type="radio" name="q4" value="3"> 3</label>
-                        <label><input type="radio" name="q4" value="4"> 4</label>
-                        <label><input type="radio" name="q4" value="5"> 5</label>
-                    </div>
-                </div>
-
-                <!-- ========================================= -->
-                <!-- Pregunta 5 -->
-                <!-- ========================================= -->
-                <div class="question-block">
-                    <p>5. ¿Disfrutas analizar y resolver problemas complejos?</p>
-                    <div class="scale-options">
-                        <label><input type="radio" name="q5" value="1"> 1</label>
-                        <label><input type="radio" name="q5" value="2"> 2</label>
-                        <label><input type="radio" name="q5" value="3"> 3</label>
-                        <label><input type="radio" name="q5" value="4"> 4</label>
-                        <label><input type="radio" name="q5" value="5"> 5</label>
-                    </div>
-                </div>
-
-                <button type="button" class="btn btn-primary" id="calculate-survey">
-                    Calcular resultado
-                </button>
-            </form>
-
-            <div class="card survey-result" id="survey-result" data-aos="fade-up" data-aos-delay="150">
-                <h3>Resultado</h3>
-                <p id="survey-result-text">Aún no has calculado tu perfil innovador.</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- ===================================================== -->
     <!-- FOOTER -->
     <!-- Información final del proyecto -->
     <!-- ===================================================== -->
@@ -488,6 +399,7 @@
         <div class="container footer-content">
             <h3>INEXDATA</h3>
             <p>Proyecto académico sobre innovación, visualización y análisis de datos.</p>
+            <p>Realizado por Diego, Johan & Guillén para Talento Tech.</p>
         </div>
     </footer>
 
@@ -509,7 +421,7 @@
     <script src="js/charts.js"></script>
     <script src="js/compare.js"></script>
     <script src="js/conclusions.js"></script>
-    <script src="js/survey.js"></script>
     <script src="js/main.js"></script>
 </body>
+
 </html>
