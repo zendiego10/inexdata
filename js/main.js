@@ -49,28 +49,27 @@ function populateCountrySelect(selectElement, selectedCode = "COL") {
 // Función para llenar todos los selects del proyecto
 // ----------------------------------------------------------
 function populateAllCountrySelects() {
-    const heroSelect = document.getElementById("country-select-hero");
     const mainSelect = document.getElementById("country-select-main");
     const compareSelectA = document.getElementById("compare-country-a");
     const compareSelectB = document.getElementById("compare-country-b");
 
-    populateCountrySelect(heroSelect, "COL");
-    populateCountrySelect(mainSelect, "COL");
-    populateCountrySelect(compareSelectA, "COL");
-    populateCountrySelect(compareSelectB, "ARG");
+    if (mainSelect) populateCountrySelect(mainSelect, "COL");
+    if (compareSelectA) populateCountrySelect(compareSelectA, "COL");
+    if (compareSelectB) populateCountrySelect(compareSelectB, "ARG");
 }
 
 // ----------------------------------------------------------
-// Función para sincronizar el selector del hero con el principal
+// Función para inicializar el video de la portada
 // ----------------------------------------------------------
-function syncHeroWithMainSelector() {
-    const heroSelect = document.getElementById("country-select-hero");
-    const mainSelect = document.getElementById("country-select-main");
+function setupHeroVideo() {
+    const video = document.getElementById("hero-video");
+    const glassCard = document.getElementById("hero-glass-card");
 
-    heroSelect.addEventListener("change", () => {
-        mainSelect.value = heroSelect.value;
-        updateCountryView(heroSelect.value);
-    });
+    if (video && glassCard) {
+        video.addEventListener("ended", () => {
+            glassCard.classList.add("show");
+        });
+    }
 }
 
 // ----------------------------------------------------------
@@ -81,16 +80,33 @@ function updateCountryView(countryCode) {
     renderCountryTable(countryCode);
     renderAllCountryCharts(countryCode);
     renderCountryConclusions(countryCode);
-
-    // Sincronizamos el selector del hero con el principal
-    const heroSelect = document.getElementById("country-select-hero");
-    heroSelect.value = countryCode;
 }
 
 // ----------------------------------------------------------
 // Evento principal cuando carga el documento
 // ----------------------------------------------------------
+
+// Forzamos el scroll al inicio en diferentes fases de carga
+if ("scrollRestoration" in history) {
+    history.scrollRestoration = "manual";
+}
+window.onbeforeunload = function () {
+    window.scrollTo(0, 0);
+}
+
 document.addEventListener("DOMContentLoaded", async () => {
+    // Si quedó un rastro en la URL del ancla antigua (#explorar), la borramos sin recargar
+    if (window.location.hash) {
+        window.history.replaceState(null, null, window.location.pathname + window.location.search);
+    }
+    
+    window.scrollTo(0, 0);
+
+    // Reaseguramos tras el renderizado asíncrono
+    window.addEventListener("load", () => {
+        setTimeout(() => window.scrollTo(0, 0), 10);
+    });
+
     // Cargamos los datos
     const dataLoaded = await loadAllData();
 
@@ -103,8 +119,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     // Llenamos todos los selects
     populateAllCountrySelects();
 
-    // Sincronizamos el selector del hero
-    syncHeroWithMainSelector();
+    // Inicializamos el comportamiento de la tarjeta de video
+    setupHeroVideo();
 
     // Referencia al selector principal
     const mainSelect = document.getElementById("country-select-main");

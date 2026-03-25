@@ -58,41 +58,24 @@
     </header>
 
     <!-- ===================================================== -->
-    <!-- SECCIÓN HERO / INICIO -->
-    <!-- Presentación principal del proyecto -->
+    <!-- SECCIÓN HERO / INICIO CON VIDEO -->
     <!-- ===================================================== -->
-    <section id="inicio" class="hero section">
-        <div class="container hero-content">
-            <div class="hero-text" data-aos="fade-up">
+    <section id="inicio" class="hero-video-section">
+        <video id="hero-video" class="hero-video" autoplay muted playsinline>
+            <source src="img/portada_video_iniexdata.mp4" type="video/mp4">
+        </video>
+        
+        <div class="hero-glass-container">
+            <div id="hero-glass-card" class="hero-glass-card">
                 <span class="hero-badge">
                     <i class="fa-solid fa-chart-line"></i>
                     Índice Global de Innovación 2011 - 2024
                 </span>
-
                 <h1>INEXDATA</h1>
                 <p class="hero-description">
                     Explora el desempeño histórico de los países en el Índice Global de Innovación,
                     visualiza sus datos, compáralos y obtén conclusiones automáticas.
                 </p>
-
-                <div class="hero-search">
-                    <label for="country-select-hero" class="sr-only">Selecciona un país</label>
-                    <select id="country-select-hero" class="input-select">
-                        <option value="COL">Colombia</option>
-                    </select>
-
-                    <a href="#explorar" class="btn btn-primary">
-                        Explorar datos
-                    </a>
-                </div>
-            </div>
-
-            <div class="hero-card" data-aos="fade-left" data-aos-delay="150">
-                <div class="hero-card-content">
-                    <i class="fa-solid fa-globe"></i>
-                    <h3>Análisis interactivo</h3>
-                    <p>Consulta países, revisa su evolución anual y compara resultados de forma visual.</p>
-                </div>
             </div>
         </div>
     </section>
@@ -254,19 +237,19 @@
 
                     <div class="summary-table" id="summary-table">
                         <div class="summary-row">
-                            <span>Mejor año</span>
+                            <span>🏆 Mejor año</span>
                             <strong id="best-year">--</strong>
                         </div>
                         <div class="summary-row">
-                            <span>Peor año</span>
+                            <span>📉 Peor año</span>
                             <strong id="worst-year">--</strong>
                         </div>
                         <div class="summary-row">
-                            <span>Promedio del índice</span>
+                            <span>📊 Promedio del índice</span>
                             <strong id="average-score">--</strong>
                         </div>
                         <div class="summary-row">
-                            <span>Variación total</span>
+                            <span>📈 Variación total</span>
                             <strong id="total-variation">--</strong>
                         </div>
                     </div>
